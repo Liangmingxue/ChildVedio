@@ -1,0 +1,95 @@
+# Default config for 2 x RTX 4090 (24 GB). GPU0: text LLM / router / RL policy. GPU1: VLM server.
+seed: 42
+
+paths:
+  data_dir: data/msrvtt
+  frames_dir: data/msrvtt/frames
+  work_dir: outputs
+
+frames:
+  n_frames: 8          # frames sent to the VLM per video
+  max_side: 336        # resize before sending (336 -> ~144 visual tokens/frame for Qwen2.5-VL)
+  store_side: 448      # resolution stored on disk by 01_extract_frames.py
+
+retriever:
+  model: openai/clip-vit-large-patch14
+  batch_size: 64
+  n_frames: 12
+  topk: 50
+  stat_temp: 0.01      # CLIP cosine -> softmax temperature for router statistics
+  stat_k: 10
+
+vlm:                   # frozen verifier, served by scripts/serve_vlm.sh
+  base_url: http://localhost:8000/v1
+  model: Qwen/Qwen2.5-VL-7B-Instruct
+  concurrency: 32
+  option_temp: 1.0
+  n_perm: 2            # option permutations for forced choice at evaluation
+
+llm:                   # labeller + prompt-only counterfactual generator (scripts/serve_llm.sh)
+  base_url: http://localhost:8001/v1
+  model: Qwen/Qwen2.5-7B-Instruct
+  concurrency: 32
+  temperature: 0.7
+  max_tokens: 256
+
+cfgen:                 # generator used by 10_run_pipeline.py (prompt-only base or GRPO LoRA "cfgen")
+  base_url: http://localhost:8001/v1
+  model: Qwen/Qwen2.5-7B-Instruct
+  concurrency: 32
+  temperature: 0.7
+  max_tokens: 256
+
+cf:
+  m: 3
+  nli_model: cross-encoder/nli-deberta-v3-base
+  nli_thr: 0.5
+  nli_device: cuda:0
+
+rerank:
+  k_light: 5
+  k_deep: 10
+  beta: 0.7            # final = beta * VLM score + (1 - beta) * minmax(first-stage score)
+
+router:
+  base_model: Qwen/Qwen3-4B
+  device: cuda:0
+  lora_r: 32
+  lora_alpha: 64
+  lr: 1.0e-4
+  epochs: 3
+  batch_size: 8
+  eval_batch_size: 16
+  grad_accum: 2
+  max_len: 768
+  fragile_weight: 0.5
+  n_train_queries: 3000
+  dev_frac: 0.1
+  calib_frac: 0.2
+  alpha: 0.05          # CRC risk level for "missed fix" when accepting the first stage
+
+grpo:
+  policy_model: Qwen/Qwen2.5-3B-Instruct
+  device: cuda:0
+  lora_r: 32
+  lora_alpha: 64
+  lr: 2.0e-5
+  warmup_steps: 10
+  steps: 400
+  batch_queries: 4
+  group_size: 8
+  max_new_tokens: 128
+  temperature: 1.0
+  top_p: 1.0
+  m: 3
+  m_max: 5
+  n_neg: 3
+  max_gt_rank: 20
+  eps_low: 0.2
+  eps_high: 0.28       # DAPO clip-higher
+  beta_kl: 0.0         # DAPO drops KL; set e.g. 0.02 for an ablation
+  lam_count: 0.02      # cost penalty per valid hypothesis
+  r_invalid: -1.0
+  micro_batch: 4
+  max_grad_norm: 1.0
+  save_every: 100

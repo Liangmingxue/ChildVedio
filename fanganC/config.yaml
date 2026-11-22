@@ -1,0 +1,27 @@
+stage_config: outputs/stage2_clip4clip_qwen3vl8b/config.yaml
+base_data: outputs/stage2_clip4clip_qwen3vl8b/router_data/router_data.jsonl
+extra_data: outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/progress.jsonl
+budget_report: outputs/stage2_clip4clip_qwen3vl8b/routing_control/test_matched_budget_prompt_with_margin.json
+seed: 42
+deep_fraction: 0.876
+align_verification: true
+temporal_candidates: true
+budget_loss_weight: 1.0
+variants: [text_only, candidate]
+workers: 4
+eval_batch_size: 4
+warmup_epochs: 1
+joint_epochs: 8
+early_stopping_patience: 3
+select_joint_only: true
+warmup_lr: 0.0003
+lora_lr: 0.00002
+head_lr: 0.0001
+weight_decay: 0.01
+warmup_ratio: 0.03
+effective_batch: 16
+microbatch: 4
+hidden_dim: 128
+pointer_dim: 128
+dropout: 0.1
+harm_weights: [1.0, 2.0]
