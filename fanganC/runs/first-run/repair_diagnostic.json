@@ -1,0 +1,122 @@
+{
+  "scale": 100.00000762939453,
+  "max_abs": 0.027116823120117317,
+  "quantiles": [
+    0.0022236729736331284,
+    0.006099729223634399,
+    0.011043690937500756,
+    0.015939763100098328,
+    0.027116823120117317
+  ],
+  "pairs_over_002": 12,
+  "worst": [
+    {
+      "row": 5309,
+      "qid": "test_997",
+      "video": "video7154",
+      "rank": 7,
+      "expected": 19.626545,
+      "reconstructed": 19.599428176879883,
+      "error": -0.027116823120117317
+    },
+    {
+      "row": 5305,
+      "qid": "test_993",
+      "video": "video8110",
+      "rank": 7,
+      "expected": 16.349386,
+      "reconstructed": 16.374156951904297,
+      "error": 0.02477095190429779
+    },
+    {
+      "row": 4809,
+      "qid": "test_497",
+      "video": "video7114",
+      "rank": 6,
+      "expected": 22.177135,
+      "reconstructed": 22.20187759399414,
+      "error": 0.024742593994140805
+    },
+    {
+      "row": 5280,
+      "qid": "test_968",
+      "video": "video9300",
+      "rank": 9,
+      "expected": 20.531918,
+      "reconstructed": 20.50908851623535,
+      "error": -0.02282948376464944
+    },
+    {
+      "row": 5164,
+      "qid": "test_852",
+      "video": "video8013",
+      "rank": 5,
+      "expected": 20.793781,
+      "reconstructed": 20.81485939025879,
+      "error": 0.02107839025878988
+    },
+    {
+      "row": 1698,
+      "qid": "train_video6523_0",
+      "video": "video7488",
+      "rank": 9,
+      "expected": 25.932234,
+      "reconstructed": 25.953235626220703,
+      "error": 0.021001626220702008
+    },
+    {
+      "row": 5307,
+      "qid": "test_995",
+      "video": "video8265",
+      "rank": 4,
+      "expected": 25.780073,
+      "reconstructed": 25.800765991210938,
+      "error": 0.02069299121093593
+    },
+    {
+      "row": 5299,
+      "qid": "test_987",
+      "video": "video7755",
+      "rank": 0,
+      "expected": 28.180573,
+      "reconstructed": 28.159931182861328,
+      "error": -0.02064181713867086
+    },
+    {
+      "row": 3759,
+      "qid": "train_video1123_0",
+      "video": "video9596",
+      "rank": 11,
+      "expected": 27.024818,
+      "reconstructed": 27.045377731323242,
+      "error": 0.020559731323242403
+    },
+    {
+      "row": 2505,
+      "qid": "train_video3890_0",
+      "video": "video2817",
+      "rank": 2,
+      "expected": 26.861027,
+      "reconstructed": 26.881332397460938,
+      "error": 0.020305397460937513
+    },
+    {
+      "row": 1569,
+      "qid": "train_video9966_0",
+      "video": "video912",
+      "rank": 13,
+      "expected": 29.497654,
+      "reconstructed": 29.51787567138672,
+      "error": 0.020221671386718043
+    },
+    {
+      "row": 1302,
+      "qid": "train_video7042_0",
+      "video": "video6222",
+      "rank": 9,
+      "expected": 29.029629,
+      "reconstructed": 29.009532928466797,
+      "error": -0.02009607153320303
+    }
+  ]
+}

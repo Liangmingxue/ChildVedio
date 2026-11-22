@@ -1,0 +1,263 @@
+{
+  "overall": {
+    "queries": 1000,
+    "base_top1_correct": 396,
+    "harmful_flips": 101,
+    "helpful_flips": 188,
+    "hfr_pct": 25.505050505050505
+  },
+  "original_groups": {
+    "temporal": {
+      "queries": 63,
+      "base_top1_correct": 36,
+      "harmful_flips": 6,
+      "helpful_flips": 12,
+      "hfr_pct": 16.666666666666668
+    },
+    "negation": {
+      "queries": 4,
+      "base_top1_correct": 2,
+      "harmful_flips": 1,
+      "helpful_flips": 1,
+      "hfr_pct": 50.0
+    },
+    "count": {
+      "queries": 108,
+      "base_top1_correct": 50,
+      "harmful_flips": 11,
+      "helpful_flips": 16,
+      "hfr_pct": 22.0
+    },
+    "long": {
+      "queries": 104,
+      "base_top1_correct": 66,
+      "harmful_flips": 8,
+      "helpful_flips": 15,
+      "hfr_pct": 12.121212121212121
+    },
+    "plain": {
+      "queries": 763,
+      "base_top1_correct": 274,
+      "harmful_flips": 80,
+      "helpful_flips": 149,
+      "hfr_pct": 29.197080291970803
+    }
+  },
+  "reviewed_query_groups": {
+    "temporal": {
+      "queries": 53,
+      "base_top1_correct": 32,
+      "harmful_flips": 5,
+      "helpful_flips": 12,
+      "hfr_pct": 15.625,
+      "qids": [
+        "test_21",
+        "test_37",
+        "test_72",
+        "test_83",
+        "test_102",
+        "test_105",
+        "test_125",
+        "test_133",
+        "test_165",
+        "test_181",
+        "test_198",
+        "test_202",
+        "test_203",
+        "test_225",
+        "test_272",
+        "test_281",
+        "test_285",
+        "test_287",
+        "test_295",
+        "test_296",
+        "test_304",
+        "test_305",
+        "test_318",
+        "test_339",
+        "test_362",
+        "test_391",
+        "test_428",
+        "test_445",
+        "test_500",
+        "test_517",
+        "test_523",
+        "test_564",
+        "test_594",
+        "test_647",
+        "test_678",
+        "test_687",
+        "test_732",
+        "test_737",
+        "test_783",
+        "test_794",
+        "test_809",
+        "test_822",
+        "test_832",
+        "test_838",
+        "test_840",
+        "test_841",
+        "test_850",
+        "test_904",
+        "test_921",
+        "test_922",
+        "test_959",
+        "test_986",
+        "test_991"
+      ]
+    },
+    "negation": {
+      "queries": 6,
+      "base_top1_correct": 2,
+      "harmful_flips": 1,
+      "helpful_flips": 2,
+      "hfr_pct": 50.0,
+      "qids": [
+        "test_196",
+        "test_279",
+        "test_369",
+        "test_542",
+        "test_809",
+        "test_840"
+      ]
+    }
+  },
+  "without_reviewed_temporal_cue": {
+    "queries": 947,
+    "base_top1_correct": 364,
+    "harmful_flips": 96,
+    "helpful_flips": 176,
+    "hfr_pct": 26.373626373626372
+  },
+  "action": {
+    "confirmed_contrast": {
+      "queries": 10,
+      "base_top1_correct": 10,
+      "harmful_flips": 2,
+      "helpful_flips": 0,
+      "hfr_pct": 20.0
+    },
+    "remaining_or_unconfirmed": {
+      "queries": 386,
+      "base_top1_correct": 386,
+      "harmful_flips": 99,
+      "helpful_flips": 0,
+      "hfr_pct": 25.647668393782382
+    },
+    "cases": [
+      {
+        "qid": "test_55",
+        "query": "a reporter asks questions at a gun range",
+        "reference": "video9548",
+        "rival": "video9235",
+        "target_action": "记者在靶场提问",
+        "rival_action": "射手装填弹药",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_145",
+        "query": "a cartoon character prepares to ride a bicycle",
+        "reference": "video8128",
+        "rival": "video9790",
+        "target_action": "卡通角色准备骑车",
+        "rival_action": "卡通角色已经骑行，随后唱歌",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_182",
+        "query": "a baby playing with a cats tail",
+        "reference": "video7902",
+        "rival": "video8478",
+        "target_action": "婴儿玩猫尾巴",
+        "rival_action": "猫舔婴儿的脚",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_296",
+        "query": "a red truck is burning while three men talk about a car",
+        "reference": "video9354",
+        "rival": "video7060",
+        "target_action": "车辆仍在燃烧时旁人谈话",
+        "rival_action": "用灭火器灭火后，两人对镜头说话",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_678",
+        "query": "athletes are getting ready and start running for an event",
+        "reference": "video7131",
+        "rival": "video8264",
+        "target_action": "运动员从准备过渡到跑步",
+        "rival_action": "运动员主要在起跑线前准备",
+        "harmful_flip": true,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_695",
+        "query": "a man drives a red indianapolis 500 type race car around an asphalt track",
+        "reference": "video7219",
+        "rival": "video7214",
+        "target_action": "视角随赛车在赛道上行驶",
+        "rival_action": "赛车游戏开场展示车辆和发车准备",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_829",
+        "query": "video of gymasts practicing to roll",
+        "reference": "video8267",
+        "rival": "video8936",
+        "target_action": "体操运动员练习翻滚",
+        "rival_action": "运动员练习在杠上支撑和平衡",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_866",
+        "query": "in the ocean a man on a surfboard rides a wave",
+        "reference": "video9574",
+        "rival": "video7795",
+        "target_action": "踩冲浪板随浪滑行",
+        "rival_action": "在水中翻转倒扣的风翼",
+        "harmful_flip": false,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_872",
+        "query": "a solider gives a speech",
+        "reference": "video7373",
+        "rival": "video8805",
+        "target_action": "士兵向队伍讲话",
+        "rival_action": "士兵之间近距离交谈",
+        "harmful_flip": true,
+        "evidence": "captions and sampled frames"
+      },
+      {
+        "qid": "test_904",
+        "query": "a white male raps while another plays guitar",
+        "reference": "video8861",
+        "rival": "video7205",
+        "target_action": "一人说唱、另一人演奏吉他",
+        "rival_action": "人声演唱者与吉他手一同表演",
+        "harmful_flip": false,
+        "evidence": "captions"
+      }
+    ]
+  },
+  "eligible_with_any_confirmed_label": {
+    "queries": 41,
+    "base_top1_correct": 41,
+    "harmful_flips": 7,
+    "helpful_flips": 0,
+    "hfr_pct": 17.073170731707318
+  },
+  "method": {
+    "temporal": "Explicit time cues linking distinct events or states; original and expanded cue matches reviewed in context.",
+    "negation": "Explicit absence, denial or attempted avoidance; normalized spaced contractions were included.",
+    "action": "Screened the top non-reference candidate by saved yes/no score for all 396 baseline-correct queries. Confirmed concrete contrasts with dataset captions and inspected sampled frames for borderline cases. Other cases include insufficient evidence; caption and frame evidence does not identify the model's causal failure mode.",
+    "overlap": "Temporal, negation and action labels can overlap."
+  }
+}

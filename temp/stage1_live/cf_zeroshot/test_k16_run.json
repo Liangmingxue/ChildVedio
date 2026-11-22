@@ -1,0 +1,87 @@
+{
+  "config": {
+    "seed": 42,
+    "paths": {
+      "data_dir": "data/msrvtt",
+      "frames_dir": "data/msrvtt/frames",
+      "work_dir": "temp/stage1_live"
+    },
+    "frames": {
+      "n_frames": 8,
+      "max_side": 336
+    },
+    "vlm": {
+      "base_url": "http://127.0.0.1:8000/v1",
+      "model": "/home/omnisky/xlm/newtask/charttrans-workspace/model/Qwen3-VL-8B-Instruct-FP8",
+      "concurrency": 32,
+      "option_temp": 1.0,
+      "n_perm": 2,
+      "yes_no_token_ids": [
+        9454,
+        9693,
+        14004,
+        7414,
+        9834,
+        14080,
+        2753,
+        2152,
+        8996,
+        2308,
+        902,
+        5664
+      ],
+      "option_token_ids": {
+        "A": [
+          32,
+          362
+        ],
+        "B": [
+          33,
+          425
+        ],
+        "C": [
+          34,
+          356
+        ],
+        "D": [
+          35,
+          422
+        ],
+        "E": [
+          36,
+          468
+        ]
+      }
+    },
+    "llm": {
+      "base_url": "http://127.0.0.1:8001/v1",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "concurrency": 32,
+      "temperature": 0.7,
+      "max_tokens": 256
+    },
+    "cf": {
+      "m": 3,
+      "nli_model": "data/models/nli-deberta-v3-base",
+      "nli_thr": 0.5,
+      "nli_device": "cuda:0"
+    },
+    "rerank": {
+      "k_deep": 16,
+      "beta": 0.7
+    }
+  },
+  "k": 16,
+  "modes": [
+    "yesno",
+    "delta",
+    "fc"
+  ],
+  "yesno_source": "outputs/stage0_clip4clip_qwen3vl8b/pilot/test_yesno_k16.jsonl",
+  "signature": "2a8eb5029759d469ed40850282dcc1e5e107e13c40400917f563ea57e0d25b4a",
+  "qid_order": [
+    "test_654",
+    "test_114",
+    "test_25"
+  ]
+}

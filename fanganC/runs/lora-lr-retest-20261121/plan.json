@@ -1,0 +1,29 @@
+{
+  "backup_commit": "7af6926",
+  "backup_branch": "backup/fanganc-pre-lora-retest-20261121",
+  "source_run": "fanganC/runs/first-run-fixed",
+  "lora_learning_rates": {
+    "lr-2e-5": 2e-05,
+    "lr-5e-6": 5e-06
+  },
+  "variant": "candidate",
+  "selection_scope": "joint",
+  "data_splits": {
+    "train": 3435,
+    "dev": 285,
+    "calib": 592,
+    "test": 1000
+  },
+  "test_budget": 27824,
+  "inherited_script_changes": {
+    "scripts/13_stage2_router_experiment.py": {
+      "source_run": "e34564a7f78480817239d7f4071a025e06c58f0d21fe1e67e852211647b2d5f7",
+      "retest": "f0dba3d6a0651b75791e3fe080cba86c54afd191ba2f4113537e4663e10d70c6"
+    }
+  },
+  "feature_sha256": {
+    "clip": "8cf3548acf9a6b6780c7a493b38f97b23acd9fe19df42e36f04d672deed0e438",
+    "text": "7dbc366ecfc99cced38ff2f434e87691f755be240b0b79b389a8a311ed7279c3"
+  },
+  "training_code_sha256": "d7a3660c33106508368fb2f522ec1ec8ff72568f2bab60beece980b30080babb"
+}

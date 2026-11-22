@@ -1,0 +1,88 @@
+{
+  "k": 16,
+  "beta": 1.0,
+  "vlm_calls_per_query": 16.0,
+  "vlm_model": "/home/omnisky/xlm/newtask/charttrans-workspace/model/Qwen3-VL-8B-Instruct-FP8",
+  "n_frames": 8,
+  "yes_no_token_ids": [
+    9454,
+    9693,
+    14004,
+    7414,
+    9834,
+    14080,
+    2753,
+    2152,
+    8996,
+    2308,
+    902,
+    5664
+  ],
+  "base": {
+    "n": 50,
+    "R@1": 32.0,
+    "R@5": 66.0,
+    "R@10": 82.0,
+    "MdR": 3.0,
+    "MnR": 7.52
+  },
+  "new": {
+    "n": 50,
+    "R@1": 42.0,
+    "R@5": 76.0,
+    "R@10": 84.0,
+    "MdR": 2.0,
+    "MnR": 6.74
+  },
+  "flips": {
+    "harmful_flips": 3,
+    "helpful_flips": 8,
+    "HFR": 18.75,
+    "HelpR": 23.529411764705884,
+    "net_R@1": 9.999999999999998
+  },
+  "yes_rate_on_gt": 0.5116279069767442,
+  "yes_rate_on_hard_negatives": 0.12549537648612946,
+  "by_tag": {
+    "count": {
+      "n": 5,
+      "base_R@1": 20.0,
+      "new_R@1": 20.0,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "long": {
+      "n": 6,
+      "base_R@1": 33.33333333333333,
+      "new_R@1": 50.0,
+      "harmful_flips": 0,
+      "helpful_flips": 1,
+      "HFR": 0.0,
+      "HelpR": 25.0,
+      "net_R@1": 16.666666666666668
+    },
+    "plain": {
+      "n": 38,
+      "base_R@1": 31.57894736842105,
+      "new_R@1": 42.10526315789473,
+      "harmful_flips": 3,
+      "helpful_flips": 7,
+      "HFR": 25.0,
+      "HelpR": 26.923076923076923,
+      "net_R@1": 10.526315789473683
+    },
+    "temporal": {
+      "n": 4,
+      "base_R@1": 75.0,
+      "new_R@1": 75.0,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    }
+  }
+}

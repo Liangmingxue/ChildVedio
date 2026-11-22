@@ -1,0 +1,92 @@
+Verified expanded router data {'train': 8123, 'dev': 285, 'calib': 592}
+2026-11-22T00:13:41+08:00 Running Plan B on physical GPU 1 (GPU-af012a9d-2888-b361-6d71-0253911f71b2)
+dev margin (cuda:0) R@1=32.28% HFR=5.80% calls/q=26.891 {'deep': 249, 'accept': 36}
+Training the gain/risk heads from saved route outcomes
+Training factorized head on 8123 queries per epoch for 3 epochs (microbatch=4, effective_batch=16)
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17759.62it/s]
+Fitted coarse margin prior [-1.3169233798980713, 1.0823384523391724]
+gain epoch 0 step 20 queries=320/8123 loss=2.0200
+gain epoch 0 step 40 queries=640/8123 loss=1.3153
+gain epoch 0 step 60 queries=960/8123 loss=1.1627
+gain epoch 0 step 80 queries=1280/8123 loss=1.4318
+gain epoch 0 step 100 queries=1600/8123 loss=1.4715
+gain epoch 0 step 120 queries=1920/8123 loss=1.5271
+gain epoch 0 step 140 queries=2240/8123 loss=1.8634
+gain epoch 0 step 160 queries=2560/8123 loss=1.5591
+gain epoch 0 step 180 queries=2880/8123 loss=1.7596
+gain epoch 0 step 200 queries=3200/8123 loss=1.7301
+gain epoch 0 step 220 queries=3520/8123 loss=1.5203
+gain epoch 0 step 240 queries=3840/8123 loss=1.3135
+gain epoch 0 step 260 queries=4160/8123 loss=1.1256
+gain epoch 0 step 280 queries=4480/8123 loss=1.1552
+gain epoch 0 step 300 queries=4800/8123 loss=1.4084
+gain epoch 0 step 320 queries=5120/8123 loss=1.6093
+gain epoch 0 step 340 queries=5440/8123 loss=1.5348
+gain epoch 0 step 360 queries=5760/8123 loss=1.7252
+gain epoch 0 step 380 queries=6080/8123 loss=1.5802
+gain epoch 0 step 400 queries=6400/8123 loss=1.2817
+gain epoch 0 step 420 queries=6720/8123 loss=1.2337
+gain epoch 0 step 440 queries=7040/8123 loss=1.4039
+gain epoch 0 step 460 queries=7360/8123 loss=1.3908
+gain epoch 0 step 480 queries=7680/8123 loss=1.2817
+gain epoch 0 step 500 queries=8000/8123 loss=1.4835
+gain epoch 0 harm_weight=1 R@1=32.98% HFR=7.25% calls/q=26.891 {'deep': 245, 'accept': 24, 'light': 16}
+gain epoch 0 harm_weight=2 R@1=32.63% HFR=5.80% calls/q=26.891 {'deep': 250, 'accept': 35}
+gain epoch 1 step 20 queries=320/8123 loss=1.2723
+gain epoch 1 step 40 queries=640/8123 loss=1.1184
+gain epoch 1 step 60 queries=960/8123 loss=1.1488
+gain epoch 1 step 80 queries=1280/8123 loss=1.2947
+gain epoch 1 step 100 queries=1600/8123 loss=1.2482
+gain epoch 1 step 120 queries=1920/8123 loss=0.9282
+gain epoch 1 step 140 queries=2240/8123 loss=0.9628
+gain epoch 1 step 160 queries=2560/8123 loss=1.4262
+gain epoch 1 step 180 queries=2880/8123 loss=1.5646
+gain epoch 1 step 200 queries=3200/8123 loss=1.2933
+gain epoch 1 step 220 queries=3520/8123 loss=1.5100
+gain epoch 1 step 240 queries=3840/8123 loss=1.0176
+gain epoch 1 step 260 queries=4160/8123 loss=1.5611
+gain epoch 1 step 280 queries=4480/8123 loss=1.2933
+gain epoch 1 step 300 queries=4800/8123 loss=1.4111
+gain epoch 1 step 320 queries=5120/8123 loss=1.1288
+gain epoch 1 step 340 queries=5440/8123 loss=1.4229
+gain epoch 1 step 360 queries=5760/8123 loss=2.2296
+gain epoch 1 step 380 queries=6080/8123 loss=1.4302
+gain epoch 1 step 400 queries=6400/8123 loss=1.2149
+gain epoch 1 step 420 queries=6720/8123 loss=1.0419
+gain epoch 1 step 440 queries=7040/8123 loss=0.7815
+gain epoch 1 step 460 queries=7360/8123 loss=1.2747
+gain epoch 1 step 480 queries=7680/8123 loss=0.8301
+gain epoch 1 step 500 queries=8000/8123 loss=0.9018
+gain epoch 1 harm_weight=1 R@1=32.98% HFR=7.25% calls/q=26.891 {'deep': 246, 'light': 16, 'accept': 23}
+gain epoch 1 harm_weight=2 R@1=32.98% HFR=5.80% calls/q=26.891 {'deep': 249, 'accept': 36}
+gain epoch 2 step 20 queries=320/8123 loss=0.7655
+gain epoch 2 step 40 queries=640/8123 loss=0.9366
+gain epoch 2 step 60 queries=960/8123 loss=1.0198
+gain epoch 2 step 80 queries=1280/8123 loss=1.1881
+gain epoch 2 step 100 queries=1600/8123 loss=1.7299
+gain epoch 2 step 120 queries=1920/8123 loss=0.8933
+gain epoch 2 step 140 queries=2240/8123 loss=0.7277
+gain epoch 2 step 160 queries=2560/8123 loss=0.9137
+gain epoch 2 step 180 queries=2880/8123 loss=1.5721
+gain epoch 2 step 200 queries=3200/8123 loss=1.1737
+gain epoch 2 step 220 queries=3520/8123 loss=0.7258
+gain epoch 2 step 240 queries=3840/8123 loss=1.4416
+gain epoch 2 step 260 queries=4160/8123 loss=0.5987
+gain epoch 2 step 280 queries=4480/8123 loss=0.6830
+gain epoch 2 step 300 queries=4800/8123 loss=1.0647
+gain epoch 2 step 320 queries=5120/8123 loss=0.8421
+gain epoch 2 step 340 queries=5440/8123 loss=1.0457
+gain epoch 2 step 360 queries=5760/8123 loss=1.1427
+gain epoch 2 step 380 queries=6080/8123 loss=0.5944
+gain epoch 2 step 400 queries=6400/8123 loss=0.8057
+gain epoch 2 step 420 queries=6720/8123 loss=1.4377
+gain epoch 2 step 440 queries=7040/8123 loss=0.9719
+gain epoch 2 step 460 queries=7360/8123 loss=0.7361
+gain epoch 2 step 480 queries=7680/8123 loss=0.5786
+gain epoch 2 step 500 queries=8000/8123 loss=1.1191
+gain epoch 2 harm_weight=1 R@1=32.98% HFR=7.25% calls/q=26.891 {'deep': 246, 'light': 16, 'accept': 23}
+gain epoch 2 harm_weight=2 R@1=32.28% HFR=7.25% calls/q=26.891 {'deep': 249, 'accept': 36}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21725.64it/s]
+test margin R@1=50.60% HFR=6.06% calls/q=27.824 {'deep': 876, 'accept': 124}
+test selected router R@1=50.50% HFR=5.56% calls/q=27.824 {'deep': 875, 'accept': 125}

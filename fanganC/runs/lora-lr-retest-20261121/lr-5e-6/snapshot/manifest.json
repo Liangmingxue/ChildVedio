@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-11-21T03:36:47.950746+00:00",
+  "sources": {
+    "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data/router_data.jsonl": "9d8ed9c067f7c6c142a95a6691d8be2bd12d8b30b2cd8a91a2826970c01c275e",
+    "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/progress.jsonl": "4e332125f92c4b8d75b624d651241be484b2e132476e29ddbfd8798c367e7b4f"
+  },
+  "base_rows": 3000,
+  "extra_rows": 1312,
+  "splits": {
+    "train": 3435,
+    "dev": 285,
+    "calib": 592
+  },
+  "test_rows": 1000,
+  "frozen_sha256": {
+    "router_data.jsonl": "fe9a452ed06d8d0ea595ceae7e0073a18e7223b0d89f3662ad2ff95fc4cf2568",
+    "test.jsonl": "02e7840b5ff6ed2e023db6aca04b946382a96ef5393920876124850acb30c2f8",
+    "experiment.yaml": "a4449662fbe9d8fbd52fbceaab9e3b72f250c04770af95d412bd9a8dad6f8c85",
+    "stage.yaml": "7920af98a2b582cc3e8c38c820cde066462bd7e8db41b8c207acdd5846d9f4c7",
+    "budget.json": "150eaed2fadbc3d367cd2e4e885ee3ddb68956098d09cac8c31301e11c8d43dc"
+  },
+  "reused_code_sha256": {
+    "scripts/13_stage2_router_experiment.py": "f0dba3d6a0651b75791e3fe080cba86c54afd191ba2f4113537e4663e10d70c6",
+    "scripts/05_build_router_data.py": "878e5437f2e444760199b080d8767437a33a48580384b402da4aa1336e80b528",
+    "cvr/router.py": "9895e7009aabc79580ff04347637b1ed4f5b4ff5ff4d54d3f158f4d64e0f9b9b",
+    "temp/stage0_clip4clip.py": "41aa4092e0c1ac5aa2404c243fe00aff17a445c4cdbb84d283dc91179c8e9fac"
+  },
+  "protocol": "existing labels; original gallery sizes and fragile-guided train / auto test unchanged",
+  "derived_from": "fanganC/runs/first-run-fixed/snapshot"
+}

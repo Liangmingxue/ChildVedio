@@ -1,0 +1,86 @@
+{
+  "mode": "retriever",
+  "split": "test",
+  "tag": "",
+  "base": {
+    "n": 1000,
+    "R@1": 39.6,
+    "R@5": 67.2,
+    "R@10": 78.0,
+    "MdR": 2.0,
+    "MnR": 17.433
+  },
+  "new": {
+    "n": 1000,
+    "R@1": 39.6,
+    "R@5": 67.2,
+    "R@10": 78.0,
+    "MdR": 2.0,
+    "MnR": 17.433
+  },
+  "flips": {
+    "harmful_flips": 0,
+    "helpful_flips": 0,
+    "HFR": 0.0,
+    "HelpR": 0.0,
+    "net_R@1": 0.0
+  },
+  "route_dist": {
+    "accept": 1000
+  },
+  "vlm_calls_per_query": 0.0,
+  "llm_calls_per_query": 0.0,
+  "sec_per_query": 0.0003322408199310303,
+  "by_tag": {
+    "count": {
+      "n": 108,
+      "base_R@1": 46.2962962962963,
+      "new_R@1": 46.2962962962963,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "long": {
+      "n": 104,
+      "base_R@1": 63.46153846153846,
+      "new_R@1": 63.46153846153846,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "negation": {
+      "n": 4,
+      "base_R@1": 50.0,
+      "new_R@1": 50.0,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "plain": {
+      "n": 763,
+      "base_R@1": 35.91087811271297,
+      "new_R@1": 35.91087811271297,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "temporal": {
+      "n": 63,
+      "base_R@1": 57.14285714285714,
+      "new_R@1": 57.14285714285714,
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    }
+  }
+}

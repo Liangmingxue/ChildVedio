@@ -1,0 +1,5 @@
+2026-11-21T23:34:08+08:00 Completing the expanded three-route annotations
+Verified expanded router data {'train': 8123, 'dev': 285, 'calib': 592}
+Physical GPU 0 is occupied
+Verified expanded router data {'train': 8123, 'dev': 285, 'calib': 592}
+2026-11-22T00:10:41+08:00 Waiting for GPU 0 workflow 3459673

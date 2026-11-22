@@ -1,0 +1,46 @@
+{
+  "adapter": "outputs/stage2_clip4clip_qwen3vl8b/router/best",
+  "T_action": 0.7574484970218299,
+  "T_fragile": 1.136141322210519,
+  "tau_accept": 0.7328857526165528,
+  "alpha": 0.05,
+  "calib_n": 592,
+  "calib_accept_rate": 0.08614864864864864,
+  "calib_missed_fix_rate": 0.008445945945945946,
+  "calib_action": {
+    "acc": 0.7094594594594594,
+    "nll_before": 0.8073684577272454,
+    "nll_after": 0.7904254892162551,
+    "ece_before": 0.08142562043085269,
+    "ece_after": 0.007239950626661265,
+    "brier_before": 0.4611840615112145,
+    "brier_after": 0.4515522367756139
+  },
+  "calib_fragile": {
+    "acc": 0.49493243243243246,
+    "nll_before": 1.2658096719548957,
+    "nll_after": 1.2587736433006262,
+    "ece_before": 0.09751490426700939,
+    "ece_after": 0.0677477218102645,
+    "brier_before": 0.6418507652406003,
+    "brier_after": 0.633283566285841
+  },
+  "dev_action": {
+    "acc": 0.7368421052631579,
+    "nll_before": 0.7746456703761847,
+    "nll_after": 0.7467111507808486,
+    "ece_before": 0.1098741568759556,
+    "ece_after": 0.025386837704657196,
+    "brier_before": 0.43628304518475014,
+    "brier_after": 0.41899057016323293
+  },
+  "dev_fragile": {
+    "acc": 0.47719298245614034,
+    "nll_before": 1.2508100197159884,
+    "nll_after": 1.2488451778669742,
+    "ece_before": 0.09405095266956338,
+    "ece_after": 0.07981808189159877,
+    "brier_before": 0.6409923991756832,
+    "brier_after": 0.6341911993533582
+  }
+}

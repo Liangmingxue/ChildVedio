@@ -1,0 +1,128 @@
+{
+  "k": 16,
+  "n": 3,
+  "beta": 0.7,
+  "n_perm": 2,
+  "n_with_counterfactuals": 2,
+  "nli_threshold": 0.5,
+  "n_generated_hypotheses": 9,
+  "n_accepted_hypotheses": 6,
+  "yesno": {
+    "base": {
+      "n": 3,
+      "R@1": 66.66666666666666,
+      "R@5": 66.66666666666666,
+      "R@10": 100.0,
+      "MdR": 1.0,
+      "MnR": 3.3333333333333335
+    },
+    "new": {
+      "n": 3,
+      "R@1": 66.66666666666666,
+      "R@5": 66.66666666666666,
+      "R@10": 66.66666666666666,
+      "MdR": 1.0,
+      "MnR": 4.666666666666667
+    },
+    "flips": {
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "vlm_calls_per_query": 16.0,
+    "by_tag": {
+      "plain": {
+        "n": 3,
+        "base_R@1": 66.66666666666666,
+        "new_R@1": 66.66666666666666,
+        "harmful_flips": 0,
+        "helpful_flips": 0,
+        "HFR": 0.0,
+        "HelpR": 0.0,
+        "net_R@1": 0.0
+      }
+    }
+  },
+  "delta": {
+    "base": {
+      "n": 3,
+      "R@1": 66.66666666666666,
+      "R@5": 66.66666666666666,
+      "R@10": 100.0,
+      "MdR": 1.0,
+      "MnR": 3.3333333333333335
+    },
+    "new": {
+      "n": 3,
+      "R@1": 66.66666666666666,
+      "R@5": 66.66666666666666,
+      "R@10": 66.66666666666666,
+      "MdR": 1.0,
+      "MnR": 4.666666666666667
+    },
+    "flips": {
+      "harmful_flips": 0,
+      "helpful_flips": 0,
+      "HFR": 0.0,
+      "HelpR": 0.0,
+      "net_R@1": 0.0
+    },
+    "vlm_calls_per_query": 48.0,
+    "by_tag": {
+      "plain": {
+        "n": 3,
+        "base_R@1": 66.66666666666666,
+        "new_R@1": 66.66666666666666,
+        "harmful_flips": 0,
+        "helpful_flips": 0,
+        "HFR": 0.0,
+        "HelpR": 0.0,
+        "net_R@1": 0.0
+      }
+    },
+    "yesno_harms_recovered": 0,
+    "yesno_helps_retained": 0
+  },
+  "fc": {
+    "base": {
+      "n": 3,
+      "R@1": 66.66666666666666,
+      "R@5": 66.66666666666666,
+      "R@10": 100.0,
+      "MdR": 1.0,
+      "MnR": 3.3333333333333335
+    },
+    "new": {
+      "n": 3,
+      "R@1": 33.33333333333333,
+      "R@5": 66.66666666666666,
+      "R@10": 66.66666666666666,
+      "MdR": 3.0,
+      "MnR": 5.333333333333333
+    },
+    "flips": {
+      "harmful_flips": 1,
+      "helpful_flips": 0,
+      "HFR": 50.0,
+      "HelpR": 0.0,
+      "net_R@1": -33.33333333333333
+    },
+    "vlm_calls_per_query": 26.666666666666668,
+    "by_tag": {
+      "plain": {
+        "n": 3,
+        "base_R@1": 66.66666666666666,
+        "new_R@1": 33.33333333333333,
+        "harmful_flips": 1,
+        "helpful_flips": 0,
+        "HFR": 50.0,
+        "HelpR": 0.0,
+        "net_R@1": -33.33333333333333
+      }
+    },
+    "yesno_harms_recovered": 0,
+    "yesno_helps_retained": 0
+  }
+}

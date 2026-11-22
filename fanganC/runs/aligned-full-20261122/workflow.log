@@ -1,0 +1,401 @@
+Snapshot {'train': 8123, 'dev': 285, 'calib': 592} new completed 6000
+Stage-One:True, Stage-Two:False
+Test retrieval by loose type.
+	 embed_dim: 512
+	 image_resolution: 224
+	 vision_layers: 12
+	 vision_width: 768
+	 vision_patch_size: 32
+	 context_length: 77
+	 vocab_size: 49408
+	 transformer_width: 512
+	 transformer_heads: 8
+	 transformer_layers: 12
+		 linear_patch: 2d
+	 cut_top_layer: 0
+	 sim_header: meanP
+CLIP gallery 128/10000
+CLIP gallery 256/10000
+CLIP gallery 384/10000
+CLIP gallery 512/10000
+CLIP gallery 640/10000
+CLIP gallery 768/10000
+CLIP gallery 896/10000
+CLIP gallery 1024/10000
+CLIP gallery 1152/10000
+CLIP gallery 1280/10000
+CLIP gallery 1408/10000
+CLIP gallery 1536/10000
+CLIP gallery 1664/10000
+CLIP gallery 1792/10000
+CLIP gallery 1920/10000
+CLIP gallery 2048/10000
+CLIP gallery 2176/10000
+CLIP gallery 2304/10000
+CLIP gallery 2432/10000
+CLIP gallery 2560/10000
+CLIP gallery 2688/10000
+CLIP gallery 2816/10000
+CLIP gallery 2944/10000
+CLIP gallery 3072/10000
+CLIP gallery 3200/10000
+CLIP gallery 3328/10000
+CLIP gallery 3456/10000
+CLIP gallery 3584/10000
+CLIP gallery 3712/10000
+CLIP gallery 3840/10000
+CLIP gallery 3968/10000
+CLIP gallery 4096/10000
+CLIP gallery 4224/10000
+CLIP gallery 4352/10000
+CLIP gallery 4480/10000
+CLIP gallery 4608/10000
+CLIP gallery 4736/10000
+CLIP gallery 4864/10000
+CLIP gallery 4992/10000
+CLIP gallery 5120/10000
+CLIP gallery 5248/10000
+CLIP gallery 5376/10000
+CLIP gallery 5504/10000
+CLIP gallery 5632/10000
+CLIP gallery 5760/10000
+CLIP gallery 5888/10000
+CLIP gallery 6016/10000
+CLIP gallery 6144/10000
+CLIP gallery 6272/10000
+CLIP gallery 6400/10000
+CLIP gallery 6528/10000
+CLIP gallery 6656/10000
+CLIP gallery 6784/10000
+CLIP gallery 6912/10000
+CLIP gallery 7040/10000
+CLIP gallery 7168/10000
+CLIP gallery 7296/10000
+CLIP gallery 7424/10000
+CLIP gallery 7552/10000
+CLIP gallery 7680/10000
+CLIP gallery 7808/10000
+CLIP gallery 7936/10000
+CLIP gallery 8064/10000
+CLIP gallery 8192/10000
+CLIP gallery 8320/10000
+CLIP gallery 8448/10000
+CLIP gallery 8576/10000
+CLIP gallery 8704/10000
+CLIP gallery 8832/10000
+CLIP gallery 8960/10000
+CLIP gallery 9000/10000
+CLIP gallery 9128/10000
+CLIP gallery 9256/10000
+CLIP gallery 9384/10000
+CLIP gallery 9512/10000
+CLIP gallery 9640/10000
+CLIP gallery 9768/10000
+CLIP gallery 9896/10000
+CLIP gallery 10000/10000
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18766.88it/s]
+Qwen states 128/10000
+Qwen states 256/10000
+Qwen states 384/10000
+Qwen states 512/10000
+Qwen states 640/10000
+Qwen states 768/10000
+Qwen states 896/10000
+Qwen states 1024/10000
+Qwen states 1152/10000
+Qwen states 1280/10000
+Qwen states 1408/10000
+Qwen states 1536/10000
+Qwen states 1664/10000
+Qwen states 1792/10000
+Qwen states 1920/10000
+Qwen states 2048/10000
+Qwen states 2176/10000
+Qwen states 2304/10000
+Qwen states 2432/10000
+Qwen states 2560/10000
+Qwen states 2688/10000
+Qwen states 2816/10000
+Qwen states 2944/10000
+Qwen states 3072/10000
+Qwen states 3200/10000
+Qwen states 3328/10000
+Qwen states 3456/10000
+Qwen states 3584/10000
+Qwen states 3712/10000
+Qwen states 3840/10000
+Qwen states 3968/10000
+Qwen states 4096/10000
+Qwen states 4224/10000
+Qwen states 4352/10000
+Qwen states 4480/10000
+Qwen states 4608/10000
+Qwen states 4736/10000
+Qwen states 4864/10000
+Qwen states 4992/10000
+Qwen states 5120/10000
+Qwen states 5248/10000
+Qwen states 5376/10000
+Qwen states 5504/10000
+Qwen states 5632/10000
+Qwen states 5760/10000
+Qwen states 5888/10000
+Qwen states 6016/10000
+Qwen states 6144/10000
+Qwen states 6272/10000
+Qwen states 6400/10000
+Qwen states 6528/10000
+Qwen states 6656/10000
+Qwen states 6784/10000
+Qwen states 6912/10000
+Qwen states 7040/10000
+Qwen states 7168/10000
+Qwen states 7296/10000
+Qwen states 7424/10000
+Qwen states 7552/10000
+Qwen states 7680/10000
+Qwen states 7808/10000
+Qwen states 7936/10000
+Qwen states 8064/10000
+Qwen states 8192/10000
+Qwen states 8320/10000
+Qwen states 8448/10000
+Qwen states 8576/10000
+Qwen states 8704/10000
+Qwen states 8832/10000
+Qwen states 8960/10000
+Qwen states 9088/10000
+Qwen states 9216/10000
+Qwen states 9344/10000
+Qwen states 9472/10000
+Qwen states 9600/10000
+Qwen states 9728/10000
+Qwen states 9856/10000
+Qwen states 9984/10000
+Qwen states 10000/10000
+text_only warmup epoch=0 step=20 seen=320/8123
+text_only warmup epoch=0 step=40 seen=640/8123
+text_only warmup epoch=0 step=60 seen=960/8123
+text_only warmup epoch=0 step=80 seen=1280/8123
+text_only warmup epoch=0 step=100 seen=1600/8123
+text_only warmup epoch=0 step=120 seen=1920/8123
+text_only warmup epoch=0 step=140 seen=2240/8123
+text_only warmup epoch=0 step=160 seen=2560/8123
+text_only warmup epoch=0 step=180 seen=2880/8123
+text_only warmup epoch=0 step=200 seen=3200/8123
+text_only warmup epoch=0 step=220 seen=3520/8123
+text_only warmup epoch=0 step=240 seen=3840/8123
+text_only warmup epoch=0 step=254 weight=1.0 dev_R1=54.386 harms=9
+text_only warmup epoch=0 step=254 weight=2.0 dev_R1=55.088 harms=7
+text_only warmup epoch=0 step=260 seen=4160/8123
+text_only warmup epoch=0 step=280 seen=4480/8123
+text_only warmup epoch=0 step=300 seen=4800/8123
+text_only warmup epoch=0 step=320 seen=5120/8123
+text_only warmup epoch=0 step=340 seen=5440/8123
+text_only warmup epoch=0 step=360 seen=5760/8123
+text_only warmup epoch=0 step=380 seen=6080/8123
+text_only warmup epoch=0 step=400 seen=6400/8123
+text_only warmup epoch=0 step=420 seen=6720/8123
+text_only warmup epoch=0 step=440 seen=7040/8123
+text_only warmup epoch=0 step=460 seen=7360/8123
+text_only warmup epoch=0 step=480 seen=7680/8123
+text_only warmup epoch=0 step=500 seen=8000/8123
+text_only warmup epoch=0 step=508 weight=1.0 dev_R1=54.737 harms=9
+text_only warmup epoch=0 step=508 weight=2.0 dev_R1=54.386 harms=9
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21452.59it/s]
+text_only joint epoch=0 step=20 seen=320/8123
+text_only joint epoch=0 step=40 seen=640/8123
+text_only joint epoch=0 step=60 seen=960/8123
+text_only joint epoch=0 step=80 seen=1280/8123
+text_only joint epoch=0 step=100 seen=1600/8123
+text_only joint epoch=0 step=120 seen=1920/8123
+text_only joint epoch=0 step=140 seen=2240/8123
+text_only joint epoch=0 step=160 seen=2560/8123
+text_only joint epoch=0 step=180 seen=2880/8123
+text_only joint epoch=0 step=200 seen=3200/8123
+text_only joint epoch=0 step=220 seen=3520/8123
+text_only joint epoch=0 step=240 seen=3840/8123
+text_only joint epoch=0 step=254 weight=1.0 dev_R1=54.737 harms=9
+text_only joint epoch=0 step=254 weight=2.0 dev_R1=54.386 harms=9
+text_only joint epoch=0 step=260 seen=4160/8123
+text_only joint epoch=0 step=280 seen=4480/8123
+text_only joint epoch=0 step=300 seen=4800/8123
+text_only joint epoch=0 step=320 seen=5120/8123
+text_only joint epoch=0 step=340 seen=5440/8123
+text_only joint epoch=0 step=360 seen=5760/8123
+text_only joint epoch=0 step=380 seen=6080/8123
+text_only joint epoch=0 step=400 seen=6400/8123
+text_only joint epoch=0 step=420 seen=6720/8123
+text_only joint epoch=0 step=440 seen=7040/8123
+text_only joint epoch=0 step=460 seen=7360/8123
+text_only joint epoch=0 step=480 seen=7680/8123
+text_only joint epoch=0 step=500 seen=8000/8123
+text_only joint epoch=0 step=508 weight=1.0 dev_R1=55.088 harms=8
+text_only joint epoch=0 step=508 weight=2.0 dev_R1=55.088 harms=7
+text_only joint epoch=1 step=20 seen=320/8123
+text_only joint epoch=1 step=40 seen=640/8123
+text_only joint epoch=1 step=60 seen=960/8123
+text_only joint epoch=1 step=80 seen=1280/8123
+text_only joint epoch=1 step=100 seen=1600/8123
+text_only joint epoch=1 step=120 seen=1920/8123
+text_only joint epoch=1 step=140 seen=2240/8123
+text_only joint epoch=1 step=160 seen=2560/8123
+text_only joint epoch=1 step=180 seen=2880/8123
+text_only joint epoch=1 step=200 seen=3200/8123
+text_only joint epoch=1 step=220 seen=3520/8123
+text_only joint epoch=1 step=240 seen=3840/8123
+text_only joint epoch=1 step=254 weight=1.0 dev_R1=54.737 harms=8
+text_only joint epoch=1 step=254 weight=2.0 dev_R1=54.737 harms=7
+text_only joint epoch=1 step=260 seen=4160/8123
+text_only joint epoch=1 step=280 seen=4480/8123
+text_only joint epoch=1 step=300 seen=4800/8123
+text_only joint epoch=1 step=320 seen=5120/8123
+text_only joint epoch=1 step=340 seen=5440/8123
+text_only joint epoch=1 step=360 seen=5760/8123
+text_only joint epoch=1 step=380 seen=6080/8123
+text_only joint epoch=1 step=400 seen=6400/8123
+text_only joint epoch=1 step=420 seen=6720/8123
+text_only joint epoch=1 step=440 seen=7040/8123
+text_only joint epoch=1 step=460 seen=7360/8123
+text_only joint epoch=1 step=480 seen=7680/8123
+text_only joint epoch=1 step=500 seen=8000/8123
+text_only joint epoch=1 step=508 weight=1.0 dev_R1=55.088 harms=7
+text_only joint epoch=1 step=508 weight=2.0 dev_R1=54.737 harms=7
+text_only joint epoch=2 step=20 seen=320/8123
+text_only joint epoch=2 step=40 seen=640/8123
+text_only joint epoch=2 step=60 seen=960/8123
+text_only joint epoch=2 step=80 seen=1280/8123
+text_only joint epoch=2 step=100 seen=1600/8123
+text_only joint epoch=2 step=120 seen=1920/8123
+text_only joint epoch=2 step=140 seen=2240/8123
+text_only joint epoch=2 step=160 seen=2560/8123
+text_only joint epoch=2 step=180 seen=2880/8123
+text_only joint epoch=2 step=200 seen=3200/8123
+text_only joint epoch=2 step=220 seen=3520/8123
+text_only joint epoch=2 step=240 seen=3840/8123
+text_only joint epoch=2 step=254 weight=1.0 dev_R1=54.737 harms=8
+text_only joint epoch=2 step=254 weight=2.0 dev_R1=54.386 harms=8
+text_only early stopping after 3 development checks without improvement
+candidate warmup epoch=0 step=20 seen=320/8123
+candidate warmup epoch=0 step=40 seen=640/8123
+candidate warmup epoch=0 step=60 seen=960/8123
+candidate warmup epoch=0 step=80 seen=1280/8123
+candidate warmup epoch=0 step=100 seen=1600/8123
+candidate warmup epoch=0 step=120 seen=1920/8123
+candidate warmup epoch=0 step=140 seen=2240/8123
+candidate warmup epoch=0 step=160 seen=2560/8123
+candidate warmup epoch=0 step=180 seen=2880/8123
+candidate warmup epoch=0 step=200 seen=3200/8123
+candidate warmup epoch=0 step=220 seen=3520/8123
+candidate warmup epoch=0 step=240 seen=3840/8123
+candidate warmup epoch=0 step=254 weight=1.0 dev_R1=54.737 harms=8
+candidate warmup epoch=0 step=254 weight=2.0 dev_R1=55.088 harms=7
+candidate warmup epoch=0 step=260 seen=4160/8123
+candidate warmup epoch=0 step=280 seen=4480/8123
+candidate warmup epoch=0 step=300 seen=4800/8123
+candidate warmup epoch=0 step=320 seen=5120/8123
+candidate warmup epoch=0 step=340 seen=5440/8123
+candidate warmup epoch=0 step=360 seen=5760/8123
+candidate warmup epoch=0 step=380 seen=6080/8123
+candidate warmup epoch=0 step=400 seen=6400/8123
+candidate warmup epoch=0 step=420 seen=6720/8123
+candidate warmup epoch=0 step=440 seen=7040/8123
+candidate warmup epoch=0 step=460 seen=7360/8123
+candidate warmup epoch=0 step=480 seen=7680/8123
+candidate warmup epoch=0 step=500 seen=8000/8123
+candidate warmup epoch=0 step=508 weight=1.0 dev_R1=54.386 harms=9
+candidate warmup epoch=0 step=508 weight=2.0 dev_R1=55.088 harms=7
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15047.03it/s]
+candidate joint epoch=0 step=20 seen=320/8123
+candidate joint epoch=0 step=40 seen=640/8123
+candidate joint epoch=0 step=60 seen=960/8123
+candidate joint epoch=0 step=80 seen=1280/8123
+candidate joint epoch=0 step=100 seen=1600/8123
+candidate joint epoch=0 step=120 seen=1920/8123
+candidate joint epoch=0 step=140 seen=2240/8123
+candidate joint epoch=0 step=160 seen=2560/8123
+candidate joint epoch=0 step=180 seen=2880/8123
+candidate joint epoch=0 step=200 seen=3200/8123
+candidate joint epoch=0 step=220 seen=3520/8123
+candidate joint epoch=0 step=240 seen=3840/8123
+candidate joint epoch=0 step=254 weight=1.0 dev_R1=54.035 harms=9
+candidate joint epoch=0 step=254 weight=2.0 dev_R1=54.386 harms=9
+candidate joint epoch=0 step=260 seen=4160/8123
+candidate joint epoch=0 step=280 seen=4480/8123
+candidate joint epoch=0 step=300 seen=4800/8123
+candidate joint epoch=0 step=320 seen=5120/8123
+candidate joint epoch=0 step=340 seen=5440/8123
+candidate joint epoch=0 step=360 seen=5760/8123
+candidate joint epoch=0 step=380 seen=6080/8123
+candidate joint epoch=0 step=400 seen=6400/8123
+candidate joint epoch=0 step=420 seen=6720/8123
+candidate joint epoch=0 step=440 seen=7040/8123
+candidate joint epoch=0 step=460 seen=7360/8123
+candidate joint epoch=0 step=480 seen=7680/8123
+candidate joint epoch=0 step=500 seen=8000/8123
+candidate joint epoch=0 step=508 weight=1.0 dev_R1=53.684 harms=9
+candidate joint epoch=0 step=508 weight=2.0 dev_R1=54.737 harms=8
+candidate joint epoch=1 step=20 seen=320/8123
+candidate joint epoch=1 step=40 seen=640/8123
+candidate joint epoch=1 step=60 seen=960/8123
+candidate joint epoch=1 step=80 seen=1280/8123
+candidate joint epoch=1 step=100 seen=1600/8123
+candidate joint epoch=1 step=120 seen=1920/8123
+candidate joint epoch=1 step=140 seen=2240/8123
+candidate joint epoch=1 step=160 seen=2560/8123
+candidate joint epoch=1 step=180 seen=2880/8123
+candidate joint epoch=1 step=200 seen=3200/8123
+candidate joint epoch=1 step=220 seen=3520/8123
+candidate joint epoch=1 step=240 seen=3840/8123
+candidate joint epoch=1 step=254 weight=1.0 dev_R1=55.088 harms=7
+candidate joint epoch=1 step=254 weight=2.0 dev_R1=54.737 harms=7
+candidate joint epoch=1 step=260 seen=4160/8123
+candidate joint epoch=1 step=280 seen=4480/8123
+candidate joint epoch=1 step=300 seen=4800/8123
+candidate joint epoch=1 step=320 seen=5120/8123
+candidate joint epoch=1 step=340 seen=5440/8123
+candidate joint epoch=1 step=360 seen=5760/8123
+candidate joint epoch=1 step=380 seen=6080/8123
+candidate joint epoch=1 step=400 seen=6400/8123
+candidate joint epoch=1 step=420 seen=6720/8123
+candidate joint epoch=1 step=440 seen=7040/8123
+candidate joint epoch=1 step=460 seen=7360/8123
+candidate joint epoch=1 step=480 seen=7680/8123
+candidate joint epoch=1 step=500 seen=8000/8123
+candidate joint epoch=1 step=508 weight=1.0 dev_R1=54.035 harms=9
+candidate joint epoch=1 step=508 weight=2.0 dev_R1=54.035 harms=9
+candidate joint epoch=2 step=20 seen=320/8123
+candidate joint epoch=2 step=40 seen=640/8123
+candidate joint epoch=2 step=60 seen=960/8123
+candidate joint epoch=2 step=80 seen=1280/8123
+candidate joint epoch=2 step=100 seen=1600/8123
+candidate joint epoch=2 step=120 seen=1920/8123
+candidate joint epoch=2 step=140 seen=2240/8123
+candidate joint epoch=2 step=160 seen=2560/8123
+candidate joint epoch=2 step=180 seen=2880/8123
+candidate joint epoch=2 step=200 seen=3200/8123
+candidate joint epoch=2 step=220 seen=3520/8123
+candidate joint epoch=2 step=240 seen=3840/8123
+candidate joint epoch=2 step=254 weight=1.0 dev_R1=55.088 harms=7
+candidate joint epoch=2 step=254 weight=2.0 dev_R1=54.737 harms=7
+candidate joint epoch=2 step=260 seen=4160/8123
+candidate joint epoch=2 step=280 seen=4480/8123
+candidate joint epoch=2 step=300 seen=4800/8123
+candidate joint epoch=2 step=320 seen=5120/8123
+candidate joint epoch=2 step=340 seen=5440/8123
+candidate joint epoch=2 step=360 seen=5760/8123
+candidate joint epoch=2 step=380 seen=6080/8123
+candidate joint epoch=2 step=400 seen=6400/8123
+candidate joint epoch=2 step=420 seen=6720/8123
+candidate joint epoch=2 step=440 seen=7040/8123
+candidate joint epoch=2 step=460 seen=7360/8123
+candidate joint epoch=2 step=480 seen=7680/8123
+candidate joint epoch=2 step=500 seen=8000/8123
+candidate joint epoch=2 step=508 weight=1.0 dev_R1=54.737 harms=7
+candidate joint epoch=2 step=508 weight=2.0 dev_R1=54.386 harms=7
+candidate early stopping after 3 development checks without improvement
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 19803.70it/s]
+text_only TEST R1=50.100 harms=23 calls=27824
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17208.02it/s]
+candidate TEST R1=49.200 harms=27 calls=27824

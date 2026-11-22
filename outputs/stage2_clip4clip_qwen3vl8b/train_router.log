@@ -1,0 +1,9 @@
+train=2123 dev=285
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21080.90it/s]
+[router] action label counts: {'accept': 1554, 'light': 183, 'deep': 386}
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+[router] epoch 0: dev action acc=0.7368 fragile acc=0.4772
+[router] epoch 1: dev action acc=0.7368 fragile acc=0.5368
+[router] epoch 2: dev action acc=0.7368 fragile acc=0.5439
+best adapter -> outputs/stage2_clip4clip_qwen3vl8b/router/best

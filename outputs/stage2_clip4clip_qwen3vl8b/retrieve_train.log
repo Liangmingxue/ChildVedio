@@ -1,0 +1,1 @@
+train: n=9000 R@1=23.51 R@5=46.90 R@10=57.81 MdR=7.0 -> outputs/stage2_clip4clip_qwen3vl8b/retrieval/train.jsonl

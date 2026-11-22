@@ -1,0 +1,13 @@
+{
+  "queries": 1000,
+  "route_dist": {
+    "accept": 124,
+    "deep": 876
+  },
+  "deep_query_count_by_vlm_calls": {
+    "16": 13,
+    "32": 863
+  },
+  "vlm_calls": 27824,
+  "vlm_calls_per_query": 27.824
+}

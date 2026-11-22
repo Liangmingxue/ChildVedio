@@ -1,0 +1,34 @@
+Plan B on physical GPU 0 (GPU-4b07e590-97be-215e-7c4e-1a88e8ca2315)
+dev margin (cuda:0) R@1=32.28% HFR=5.80% calls/q=26.891 {'deep': 249, 'accept': 36}
+Training the gain/risk heads from saved route outcomes
+Training factorized head on 2123 queries per epoch for 3 epochs (microbatch=4, effective_batch=16)
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 22078.20it/s]
+Fitted coarse margin prior [-1.369026780128479, 1.1250864267349243]
+gain epoch 0 step 20 queries=320/2123 loss=1.6110
+gain epoch 0 step 40 queries=640/2123 loss=1.3968
+gain epoch 0 step 60 queries=960/2123 loss=1.4961
+gain epoch 0 step 80 queries=1280/2123 loss=1.4559
+gain epoch 0 step 100 queries=1600/2123 loss=1.5450
+gain epoch 0 step 120 queries=1920/2123 loss=1.7120
+gain epoch 0 harm_weight=1 R@1=32.63% HFR=5.80% calls/q=26.891 {'deep': 250, 'accept': 35}
+gain epoch 0 harm_weight=2 R@1=32.28% HFR=5.80% calls/q=26.891 {'deep': 249, 'accept': 36}
+gain epoch 1 step 20 queries=320/2123 loss=1.0808
+gain epoch 1 step 40 queries=640/2123 loss=1.3528
+gain epoch 1 step 60 queries=960/2123 loss=1.6391
+gain epoch 1 step 80 queries=1280/2123 loss=1.2008
+gain epoch 1 step 100 queries=1600/2123 loss=2.0786
+gain epoch 1 step 120 queries=1920/2123 loss=0.9989
+gain epoch 1 harm_weight=1 R@1=32.63% HFR=5.80% calls/q=26.891 {'deep': 250, 'accept': 35}
+gain epoch 1 harm_weight=2 R@1=32.63% HFR=5.80% calls/q=26.891 {'deep': 250, 'accept': 35}
+gain epoch 2 step 20 queries=320/2123 loss=1.2424
+gain epoch 2 step 40 queries=640/2123 loss=0.8822
+gain epoch 2 step 60 queries=960/2123 loss=1.2859
+gain epoch 2 step 80 queries=1280/2123 loss=1.0255
+gain epoch 2 step 100 queries=1600/2123 loss=1.3048
+gain epoch 2 step 120 queries=1920/2123 loss=1.1046
+gain epoch 2 harm_weight=1 R@1=32.98% HFR=5.80% calls/q=26.891 {'deep': 247, 'light': 16, 'accept': 22}
+gain epoch 2 harm_weight=2 R@1=32.63% HFR=5.80% calls/q=26.891 {'deep': 250, 'accept': 35}
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21358.99it/s]
+test margin R@1=50.60% HFR=6.06% calls/q=27.824 {'deep': 876, 'accept': 124}
+test selected router R@1=50.60% HFR=6.06% calls/q=27.824 {'deep': 875, 'accept': 125}

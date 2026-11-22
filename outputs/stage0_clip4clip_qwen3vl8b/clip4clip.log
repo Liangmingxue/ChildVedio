@@ -1,0 +1,17 @@
+Stage-One:True, Stage-Two:False
+Test retrieval by loose type.
+	 embed_dim: 512
+	 image_resolution: 224
+	 vision_layers: 12
+	 vision_width: 768
+	 vision_patch_size: 32
+	 context_length: 77
+	 vocab_size: 49408
+	 transformer_width: 512
+	 transformer_heads: 8
+	 transformer_layers: 12
+		 linear_patch: 2d
+	 cut_top_layer: 0
+	 sim_header: meanP
+CLIP4Clip encode test gallery:   0%|          | 0/63 [00:00<?, ?it/s]CLIP4Clip encode test gallery:   2%|▏         | 1/63 [00:06<06:26,  6.23s/it]CLIP4Clip encode test gallery:   5%|▍         | 3/63 [00:07<01:56,  1.94s/it]CLIP4Clip encode test gallery:  10%|▉         | 6/63 [00:07<00:44,  1.29it/s]CLIP4Clip encode test gallery:  14%|█▍        | 9/63 [00:10<00:47,  1.13it/s]CLIP4Clip encode test gallery:  16%|█▌        | 10/63 [00:10<00:40,  1.31it/s]CLIP4Clip encode test gallery:  17%|█▋        | 11/63 [00:10<00:35,  1.46it/s]CLIP4Clip encode test gallery:  19%|█▉        | 12/63 [00:11<00:34,  1.48it/s]CLIP4Clip encode test gallery:  24%|██▍       | 15/63 [00:11<00:17,  2.78it/s]CLIP4Clip encode test gallery:  27%|██▋       | 17/63 [00:15<00:42,  1.09it/s]CLIP4Clip encode test gallery:  32%|███▏      | 20/63 [00:16<00:26,  1.61it/s]CLIP4Clip encode test gallery:  37%|███▋      | 23/63 [00:16<00:16,  2.46it/s]CLIP4Clip encode test gallery:  40%|███▉      | 25/63 [00:20<00:31,  1.22it/s]CLIP4Clip encode test gallery:  44%|████▍     | 28/63 [00:20<00:19,  1.77it/s]CLIP4Clip encode test gallery:  49%|████▉     | 31/63 [00:20<00:12,  2.59it/s]CLIP4Clip encode test gallery:  52%|█████▏    | 33/63 [00:25<00:25,  1.16it/s]CLIP4Clip encode test gallery:  57%|█████▋    | 36/63 [00:25<00:15,  1.72it/s]CLIP4Clip encode test gallery:  62%|██████▏   | 39/63 [00:25<00:09,  2.48it/s]CLIP4Clip encode test gallery:  65%|██████▌   | 41/63 [00:29<00:17,  1.29it/s]CLIP4Clip encode test gallery:  70%|██████▉   | 44/63 [00:31<00:12,  1.51it/s]CLIP4Clip encode test gallery:  73%|███████▎  | 46/63 [00:31<00:08,  1.93it/s]CLIP4Clip encode test gallery:  78%|███████▊  | 49/63 [00:33<00:08,  1.59it/s]CLIP4Clip encode test gallery:  83%|████████▎ | 52/63 [00:34<00:05,  1.86it/s]CLIP4Clip encode test gallery:  89%|████████▉ | 56/63 [00:34<00:02,  2.92it/s]CLIP4Clip encode test gallery:  92%|█████████▏| 58/63 [00:36<00:02,  2.20it/s]CLIP4Clip encode test gallery:  98%|█████████▊| 62/63 [00:36<00:00,  3.38it/s]CLIP4Clip encode test gallery: 100%|██████████| 63/63 [00:36<00:00,  1.71it/s]
+CLIP4Clip similarities (1000, 1000) -> outputs/stage0_clip4clip_qwen3vl8b/clip4clip_test_sim.npy

@@ -1,0 +1,10 @@
+Waiting for the 9,000 training videos
+Encoding the 9K training gallery and extracting verifier frames
+train: n=9000 R@1=23.51 R@5=46.90 R@10=57.81 MdR=7.0 -> outputs/stage2_clip4clip_qwen3vl8b/retrieval/train.jsonl
+true
+Scoring the three routes on 3,000 training queries
+Waiting for the 9,000 training videos
+Encoding the 9K training gallery and extracting verifier frames
+Scoring the three routes on 3,000 training queries
+Training the Jev-style Qwen3-4B router
+Stage 2 labels and router training complete

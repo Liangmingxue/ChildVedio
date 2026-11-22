@@ -1,0 +1,19 @@
+Stage-One:True, Stage-Two:False
+Test retrieval by loose type.
+	 embed_dim: 512
+	 image_resolution: 224
+	 vision_layers: 12
+	 vision_width: 768
+	 vision_patch_size: 32
+	 context_length: 77
+	 vocab_size: 49408
+	 transformer_width: 512
+	 transformer_heads: 8
+	 transformer_layers: 12
+		 linear_patch: 2d
+	 cut_top_layer: 0
+	 sim_header: meanP
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15399.61it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21606.69it/s]
+{'device': 'cuda:0', 'real_pretrained_4b': True, 'queries': ['train_video1824_0', 'train_video409_0'], 'retriever_max_abs_error': 0.014690399169921875, 'warmup_loss': 0.9348927140235901, 'warmup_backbone_gradients': False, 'joint_gradients': [{'step': 0, 'loss': 0.3297807276248932, 'nonzero_lora': 252}, {'step': 1, 'loss': 0.20825275778770447, 'nonzero_lora': 504}], 'reload_max_abs_probability_error': 0.0, 'seconds': 8.17802493495401}

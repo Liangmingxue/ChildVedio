@@ -1,0 +1,1000 @@
+{"qid": "test_0", "text": "a person is connecting something to system", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 90, "new_rank": 90}
+{"qid": "test_1", "text": "a little girl does gymnastics", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_2", "text": "a woman creating a fondant baby and flower", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_3", "text": "a boy plays grand theft auto 5", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_4", "text": "a man is giving a review on a vehicle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_5", "text": "a man speaks to children in a classroom", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_6", "text": "one micky mouse is talking to other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_7", "text": "a naked child runs through a field", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_8", "text": "a little boy singing in front of judges and crowd", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_9", "text": "fireworks are being lit and exploding in a night sky", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_10", "text": "a man is singing and standing in the road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_11", "text": "cartoon show for kids", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 25, "new_rank": 25}
+{"qid": "test_12", "text": "some cartoon characters are moving around an area", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_13", "text": "baseball player hits ball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_14", "text": "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_15", "text": "the man in the video is showing a brief viewing of how the movie is starting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 110, "new_rank": 110}
+{"qid": "test_16", "text": "a woman is mixing food in a mixing bowl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_17", "text": "little pet shop cat getting a bath and washed with little brush", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_18", "text": "a student explains to his teacher about the sheep of another student", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 41, "new_rank": 41}
+{"qid": "test_19", "text": "a video about different sports", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_20", "text": "a family is having coversation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 627, "new_rank": 627}
+{"qid": "test_21", "text": "a computer generated cartoon figure operates a control panel while another character sleeps in the background", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_22", "text": "adding ingredients to a pizza", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_23", "text": "two men discuss social issues", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_24", "text": "cartoons of a sponge a squid and a starfish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_25", "text": "person cooking up somefood", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_26", "text": "models are walking down a short runway", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_27", "text": "a man is talking on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_28", "text": "a hairdresser and client speak to each other with kid voices", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_29", "text": "some one talking about top ten movies of the year", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_30", "text": "a man with a very red nose", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_31", "text": "a young girl in a horror movie is haunted", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_32", "text": "news reporters talk about a strange sight in part of san diego", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_33", "text": "a group of people are walking a woman is talking about their culture", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_34", "text": "people are singing on the beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_35", "text": "a girl and a man are talking to each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 21, "new_rank": 21}
+{"qid": "test_36", "text": "a man is showing off a new vehicle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_37", "text": "while other friends too try and hitting the basket another is eager to achieve his fourth successful basket in basketball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_38", "text": "a child in pink watches a white bird in an open box", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_39", "text": "there is a man shooting other people in a corridor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 116, "new_rank": 116}
+{"qid": "test_40", "text": "sports vine clips of football", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_41", "text": "the demonstration of mobile rack", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_42", "text": "band performing a hard rock song about diamonds in the sky", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_43", "text": "the ground rules of the republican presidential debate are introduced", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_44", "text": "cartoon cars smiling talking and driving down a city road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_45", "text": "the articles of a shop is being shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_46", "text": "some people cross a street in a busy road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 73, "new_rank": 73}
+{"qid": "test_47", "text": "a man and a woman are singing on the beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_48", "text": "a man talks about the publication of a nasa technical report", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_49", "text": "video of a computer program while someone navigates through its menus", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_50", "text": "two men talk about stealing land and the bible", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 36, "new_rank": 36}
+{"qid": "test_51", "text": "tv show presenters speak about will smith and other actors and their respective characters", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_52", "text": "cartoon girl is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_53", "text": "lady speaking on her show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_54", "text": "a woman holds up a leather jacket", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_55", "text": "a reporter asks questions at a gun range", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_56", "text": "men are doing wrestling", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_57", "text": "newscasters speak about a school shooting on the news program info wars", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_58", "text": "two men and a women are sitting on the chair", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_59", "text": "a person comes up in the hill on a orange motor bike and falls down", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_60", "text": "people perform on the voice", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_61", "text": "boy band performs for a crowd", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_62", "text": "a person on the computer looking at data", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_63", "text": "a woman is talking about how jeans with patches or rips is trendy", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_64", "text": "pokemon video game play", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_65", "text": "two women rare sitting speaking on sites in los angeles", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_66", "text": "a man speaks on driving and a car model", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_67", "text": "a woman is smiling", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 37, "new_rank": 37}
+{"qid": "test_68", "text": "this is a video of a live tv show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_69", "text": "a boy is singing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 30, "new_rank": 30}
+{"qid": "test_70", "text": "people are cheering at a stadium", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_71", "text": "a news program about overweight people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_72", "text": "a guy wearing a red shirt drives a car while talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_73", "text": "a man gets shot in the face", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_74", "text": "many ladies and men are walking upstairs inside of a caged fence", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_75", "text": "a news reporter talks about a shooting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_76", "text": "a woman interviewing about her part in a protest happening in brazil", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_77", "text": "a man punches a faucet to show how much better bottled water is", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_78", "text": "a lady is put makeup especially around her eyes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_79", "text": "animals are communicating with one another through thought bubbles in three different scenes from a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_80", "text": "a trailer for an upcoming movie with people on a beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_81", "text": "a girl singing song on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_82", "text": "the man is giving an informational speech to a group of people about telling someone something", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_83", "text": "a blonde woman is speaking and then a radio button to subscribe to her webcasts appears", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_84", "text": "a man is showing the foot well under the door jam area of the car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 552, "new_rank": 552}
+{"qid": "test_85", "text": "the girl shoots her nerf bow", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_86", "text": "a man is giving his commentary on a current event television show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_87", "text": "sports are being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_88", "text": "three woman doing a fashion show to music", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_89", "text": "guy showing how to make items", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_90", "text": "women walking on the stage with different styles of dressing in a fashion show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_91", "text": "the press would rather interview the most ignorant person they can find than beautiful women", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 49, "new_rank": 49}
+{"qid": "test_92", "text": "one sad one trying to comfort", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 57, "new_rank": 57}
+{"qid": "test_93", "text": "woman is slicing the vegetables and decorating the meal", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 95, "new_rank": 95}
+{"qid": "test_94", "text": "the water safety teams arrives with the safety devices and water bike to save a person who had been drifted away", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_95", "text": "cartoon birds are flying", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_96", "text": "gameplay footage of someone playing a game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 57, "new_rank": 57}
+{"qid": "test_97", "text": "a woman in red dress explaining about cushion seat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_98", "text": "a woman giving a photoshop tutorial", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_99", "text": "a girl is preparing potato ball and explains the recipe", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_100", "text": "a movie director talking to the media men in press conference regarding his movie and hero also", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_101", "text": "a news reader is reading the news and asking question to some people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_102", "text": "a man is commentating while playing minecraft", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_103", "text": "people are walking down a street holding signs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_104", "text": "there is someone playing a game in a computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_105", "text": "serene music plays over scenery of mountains while a woman speaks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_106", "text": "man in black shirt is holding a baby upside down and talking about universal studios", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_107", "text": "the animals are having nice time together and eating food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_108", "text": "a video of a rock group performing one of their songs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 34, "new_rank": 34}
+{"qid": "test_109", "text": "a man grabs at snakes and throws them around the room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_110", "text": "a man talks about a war between two generals one of which became king", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_111", "text": "a video of someone talking about some girls", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 49, "new_rank": 49}
+{"qid": "test_112", "text": "a man is driving a car through the countryside", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 23, "new_rank": 23}
+{"qid": "test_113", "text": "a woman feeds another", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_114", "text": "girl in pink dress fashion model walking in ramp", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_115", "text": "a man is holding a coffee mug", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_116", "text": "a man and a woman stand in a bedroom", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_117", "text": "cartoon characters are talking to a pokemon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_118", "text": "sitting and converstion 2 lady and 2 gents", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 57, "new_rank": 57}
+{"qid": "test_119", "text": "a woman looks after abandoned children for free in her home", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_120", "text": "friends enjoy eating", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_121", "text": "a woman plays instruments in a field", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_122", "text": "video game footage of a killing spree during call of duty black ops", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_123", "text": "a woman is stirring food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_124", "text": "the women sit at the lap top and talk to one another", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_125", "text": "a group of indian guys meeting on a bridge while it s raining", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_126", "text": "airport security figure explains requirements for transporting medicines", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 54, "new_rank": 54}
+{"qid": "test_127", "text": "a video game character rides around on a motorcycle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 98, "new_rank": 98}
+{"qid": "test_128", "text": "a group of people are swimming in a boat a monkey is walking on the tree", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_129", "text": "some people was swimming under the waterit is very good job", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_130", "text": "an animated horse is in a barn and the maker asks for comments", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_131", "text": "a cartoon clip of pokemon dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_132", "text": "it is the animation cartoon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 28, "new_rank": 28}
+{"qid": "test_133", "text": "a police officer drives his white car onto a grassy field and then back on to the street", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_134", "text": "a man talking about kuru disease", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_135", "text": "a fearful animation scene", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 107, "new_rank": 107}
+{"qid": "test_136", "text": "a woman is giving demo for baby trolley", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_137", "text": "a guest is speaking with a television show host", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_138", "text": "there was a resistor in the back", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_139", "text": "this is a vine sports compilation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_140", "text": "a guy is talking over loud music at the end of a youtube video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_141", "text": "basketball players making a shot in the last seven seconds", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_142", "text": "a man in a flying contraption crashes in a field", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_143", "text": "two cartoon characters walking underwater", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_144", "text": "a man in striped collared shirt discusses jobs in news room of bloomberg", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_145", "text": "a cartoon character prepares to ride a bicycle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_146", "text": "a girl with a hat on and dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_147", "text": "a young girl is abusing a young man", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 37, "new_rank": 37}
+{"qid": "test_148", "text": "this is about a young boy s photo shoot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_149", "text": "a man is talking about business", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 100, "new_rank": 100}
+{"qid": "test_150", "text": "a man and woman looking at each other on the subway", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_151", "text": "a video game car is driving recklessly", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_152", "text": "will smith has starred in a lot of movies including the movie ali", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_153", "text": "a female inside a white themed bathroom while someone else makes her makeup", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_154", "text": "a soccer team walking out on the field", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_155", "text": "views of two persons working on the super computer with the head phones on", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_156", "text": "the sky roads game on the computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 231, "new_rank": 231}
+{"qid": "test_157", "text": "a woman introducing someone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_158", "text": "a woman is talking about a baby stroller", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_159", "text": "there is a man repairing a product on the table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_160", "text": "person walking around building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 54, "new_rank": 54}
+{"qid": "test_161", "text": "cartoon of a squid on a bike looking up at a treehouse", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_162", "text": "a woman flanked by two men are with a discussion", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_163", "text": "a news convention is held", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_164", "text": "a man talks about cars", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_165", "text": "a man runs into the crowd when trying to catch a basketball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_166", "text": "a narrator explains where to find a rare vehicle in grand theft auto", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_167", "text": "a woman cooking an orange substance", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_168", "text": "an animal is throwing a piece of junk", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_169", "text": "she used an electric blender", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_170", "text": "a man rides his motorcycle to a building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_171", "text": "a salad in a bowl is being filmed on a table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_172", "text": "a man with glasses and a goatee talking about his former job", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_173", "text": "mario and friends play in a video game together", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_174", "text": "a person is putting the vegetable in to the water and boil it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_175", "text": "a woman holding a ribbon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 65, "new_rank": 65}
+{"qid": "test_176", "text": "a man talks to someone and also the camera", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 52, "new_rank": 52}
+{"qid": "test_177", "text": "a young girl shopping", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_178", "text": "a man rowing a kayak is shown in slow motion", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_179", "text": "a dog and a cat are in a standoff", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_180", "text": "a man talks about dna force", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_181", "text": "a group of people are singing while holding coke in their hands", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_182", "text": "a baby playing with a cats tail", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_183", "text": "a woman jumps over a bar and attacks a man", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_184", "text": "a video showing footage from sporting events", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_185", "text": "lego stormtroppers are in a facility", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_186", "text": "a girl talks about photos and her life", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_187", "text": "person is talking about the big growth in the cities", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_188", "text": "a man getting interviewed by a beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_189", "text": "a man showing his finished product of a wood floor in his home", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_190", "text": "a man is wearing a cap", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_191", "text": "this is a live tv show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_192", "text": "two men in a wrestling competition", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_193", "text": "woman playing instruments in a field for a music video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_194", "text": "lyrics are written for the song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_195", "text": "a woman speaking about scifi and fantasy disasters", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_196", "text": "a princess tries not to cry in front of malificent", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_197", "text": "the actor playing thor talking about the new movie", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_198", "text": "a crowd of people sitting next to each other as one man plays a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_199", "text": "a grey haired man interviews someone else", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_200", "text": "a girl is talking about relationships", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 15, "new_rank": 15}
+{"qid": "test_201", "text": "a woman is explaining how to do something on a computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_202", "text": "some people video conferencing as they watch a movie", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_203", "text": "a man is talking about making it easier for kids to learn while scenes of a school are shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_204", "text": "a woman talking about education", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_205", "text": "a guy fixing up another car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_206", "text": "opening of a nest a rate is coming out and searching something it eats something on a human hand", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_207", "text": "in an interview a person in advocating education among the populace", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_208", "text": "a man is talking about his car s features while inside his car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_209", "text": "i see a prince trying to get a girl and i see peter pan play around", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_210", "text": "cabins on a sandy beach have walkways going up to their porches", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_211", "text": "dogs are walking across the road in a video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_212", "text": "a woman bakes and decorates a cake", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_213", "text": "men pushing a car down assembly line", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_214", "text": "a man is looking out a window to look at another man who jumped from the window to his death", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_215", "text": "there are crocodiles about to eat the group of people walking across the water", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_216", "text": "a women is in an make up room telling about here itenary time wise", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_217", "text": "two man s are talking to each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 15, "new_rank": 15}
+{"qid": "test_218", "text": "bbc news story about military crackdown in an unknown asian country", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_219", "text": "scene of thor from the avengers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_220", "text": "a white man in a suit talking in front of a tv about logic and law", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_221", "text": "list of people s involved in making the documentary", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_222", "text": "a woman serves a bowl of soup woth stuff in it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_223", "text": "a man with head band is demonstrating how to play ping pong", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_224", "text": "two women are walking in a parking lot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_225", "text": "a female nurse washes her hands and then cleans off a surface", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_226", "text": "he is playing with ball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 23, "new_rank": 23}
+{"qid": "test_227", "text": "a young man is touching a young girls back", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_228", "text": "woman talking to a man in an interview", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_229", "text": "this is a jigsaw puzzle video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_230", "text": "a cartoon character falls asleep on a couch", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_231", "text": "a man is stirring something in a pot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_232", "text": "a person is explaining something", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 953, "new_rank": 953}
+{"qid": "test_233", "text": "a cook prepares food items in a metal bowl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_234", "text": "a computer animation using the source engine", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 77, "new_rank": 77}
+{"qid": "test_235", "text": "a man explains how to do a experiment", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_236", "text": "a women is talking about the books she likes and the second favourite one is the amc the walking dead", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_237", "text": "the chef adds fish sauce and fish paste to a large stainless steel cooking pot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_238", "text": "a man in a suit is talking on a television economy program", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_239", "text": "a commercial for the mazda 3 the card sliding around a corner", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_240", "text": "a man explains the condition of someone in the hospital to the press outside of a building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_241", "text": "the woman has a baby monitor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_242", "text": "a man folds up a stroller", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_243", "text": "text explains about a pokemon expisode that caused seizures", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_244", "text": "a guy barbequeing potatoes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_245", "text": "a person is discussing a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_246", "text": "a bunch of cartoon faces are chomping their teeth and making eating gestures", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_247", "text": "a slideshow with captions", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_248", "text": "a video gamer is seen as he plays a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_249", "text": "a person is passing by a jolly group of men", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_250", "text": "spongebob is showing memories of him with mr", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_251", "text": "people are playing basketball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_252", "text": "a man is giving a presentation on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_253", "text": "a man is cooking in the kitchen he states he will return later to add to the dish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_254", "text": "fried potatoes are being eaten", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_255", "text": "a woman is cooking food and a man is setting a table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 61, "new_rank": 61}
+{"qid": "test_256", "text": "a young girl petting a dog that is laying on a couch", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_257", "text": "this is a video of a confrence", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_258", "text": "a 3d animation of a cabinet with plates", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_259", "text": "a girl messaging her friend", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_260", "text": "a women preparing a duck to roast", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_261", "text": "a man checks out detail on a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_262", "text": "a man explain why he uses edible blooms for gifts", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_263", "text": "in a kitchen a woman is chopping tomatoes in a food processor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_264", "text": "a person juggling sticks on the summit of a snowy mountain", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_265", "text": "a man is talking about appliances", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_266", "text": "article about nasa s johnson space center being broadcasted on news", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_267", "text": "playing with toy kitchen accessories", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_268", "text": "person straightening out string of magnets and wrapping them around his finger", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_269", "text": "a woman is singing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_270", "text": "the queen of england is seen walking with an entourage including a few islamic women a woman narrates how the queen created an outfit similar to the women in islam", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_271", "text": "a lady talks into a megaphone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 305, "new_rank": 305}
+{"qid": "test_272", "text": "presentation of the machine and its functions while working", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_273", "text": "a news program with a woman interviewing a man about merchant market currencies", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_274", "text": "many persons walking inside shoping mall hall and computer shop selling displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_275", "text": "the man sitting in the black chair and wearing brown suit is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_276", "text": "two people wear and touch their masks made to resemble a camera cube with centered black lens one of which is covered in colorful flowers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_277", "text": "red balloons float in the sky and have packages tied to them", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_278", "text": "few barbie dolls are playing one doll puts shoe to other barbie these are used to play by a kid", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_279", "text": "a man talks to a little boy about not letting people convince him that anything he wants to do in life isn t possible", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_280", "text": "a man is giving a speech", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_281", "text": "a video game woman character runs down a hill followed by a dog running down the hill they both then run up the hill together", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_282", "text": "men are loading their guns with ammunition", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_283", "text": "two men walking and talking about the road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 47, "new_rank": 47}
+{"qid": "test_284", "text": "preview for the movie insidious", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_285", "text": "a man examining the length of a person s arm when opening a glove compartment", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 54, "new_rank": 54}
+{"qid": "test_286", "text": "a man kicks at a bull", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 44, "new_rank": 44}
+{"qid": "test_287", "text": "a man is singing and dancing in an elevator while people watch", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_288", "text": "there is a man is talking with a commando", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_289", "text": "guy explaining what stiff person syndrome is", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_290", "text": "a monkey and a man feeding monkey with hand displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_291", "text": "women of a foreign nation comb their hair and perform in traditional costumes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_292", "text": "woman with swimming suit is plunging into the water and gets rid of the suit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_293", "text": "a yellow sports car with a guy speaking about the car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_294", "text": "someone is arranging utensilslarge saucepan and spoons as a preparation to cook something", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_295", "text": "a woman laughs until she chokes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_296", "text": "a red truck is burning while three men talk about a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_297", "text": "a person describing a recording of a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 49, "new_rank": 49}
+{"qid": "test_298", "text": "a man is talking to a crowd", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_299", "text": "two women are outside and are discussing something in a foreign language", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_300", "text": "screen showing some people talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 34, "new_rank": 34}
+{"qid": "test_301", "text": "a man is singing on stage to a huge audience he is holding a microphone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_302", "text": "people are using a computer software tool", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_303", "text": "someone is talking about a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_304", "text": "pictures of a beach while a voice talks about a shark attack", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_305", "text": "a cartoon woman cries at a bench while a woman in blue appears", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_306", "text": "a cartoon man in sunglasses waves at the crowd and smiles", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_307", "text": "a dad plays video games with his son", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 25, "new_rank": 25}
+{"qid": "test_308", "text": "a person walks down a staircase surrounded by greenery and other foliage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_309", "text": "a woman is making a hair accessory", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_310", "text": "a man jumps onto a ledge of a building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_311", "text": "a bowl of shrimp green onions and other assorted ingredients in a soup broth", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_312", "text": "a hospital mortuary room and a doctor treat the special case", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_313", "text": "a man has tried to solve a rubik s cube", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_314", "text": "this is a scene from a disney cartoon set in ancient times", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_315", "text": "a talk show with dr", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_316", "text": "numbers are displayed on the screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 173, "new_rank": 173}
+{"qid": "test_317", "text": "he drew a beautiful picture", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 630, "new_rank": 630}
+{"qid": "test_318", "text": "a man is on a cell phone while people are fighting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_319", "text": "outer space pictures that have parts of equipments in them with water droplets on it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_320", "text": "a man sits in a large black truck adjusting mirror", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_321", "text": "two men stand on a platform suspended high above the city", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_322", "text": "kids feeding and playing with the horse", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_323", "text": "a man playing video games", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 137, "new_rank": 137}
+{"qid": "test_324", "text": "a foreign military themed show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_325", "text": "a group of men carry a body covered in a sheet", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 315, "new_rank": 315}
+{"qid": "test_326", "text": "a female journalist wearing a purple shirt and white blazer is talking on a news show next to the image of a male in a dark suit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_327", "text": "disney movie video clips", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_328", "text": "an animated grey shark in the middle of a blue water simulation background rotating in a circle on the screen of a monitor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_329", "text": "the video shows gameplay of a car racing video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_330", "text": "a man is riding on horseback", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_331", "text": "its a cooking recipe show with chicken vegetables", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_332", "text": "a man picking out a vehicle from the trailer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_333", "text": "a woman is talking in the tv channel", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_334", "text": "someone is assembling a small hello kitty oven toy", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_335", "text": "a man teaching students in class", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_336", "text": "a man and a woman are talking at a bus stop", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_337", "text": "people act in a comedy program", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_338", "text": "video of a church chior", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_339", "text": "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_340", "text": "a cartoon of a dog running and howling", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_341", "text": "kids in a circle play with beach ball and surf boards", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_342", "text": "an orange sports car accelerates quickly", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_343", "text": "cartoons are talking to each otehr", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 116, "new_rank": 116}
+{"qid": "test_344", "text": "a person explaining a concept in a show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 61, "new_rank": 61}
+{"qid": "test_345", "text": "a person playing a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 51, "new_rank": 51}
+{"qid": "test_346", "text": "a chef stirs up some ingredients inside of a pan", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 22, "new_rank": 22}
+{"qid": "test_347", "text": "a woman with blonde hair and a black shirt is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_348", "text": "two ladies sitting down and talking in an office room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_349", "text": "an intelligent man with glasses talk about certain phrenologists", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_350", "text": "an animated micky is driving a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_351", "text": "lady gaga sings in a music video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_352", "text": "a girl playing the game the sims", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_353", "text": "a man giving a presentation and showing the planet earth", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_354", "text": "a woman is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 90, "new_rank": 90}
+{"qid": "test_355", "text": "various rugby scenes from different games", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_356", "text": "inside of a toyota car with large space and safety", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_357", "text": "assorted people are shown holding cute pets", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_358", "text": "rusty houser talks about how hitler is loved from his results", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 53, "new_rank": 53}
+{"qid": "test_359", "text": "someone speaking about a violent act regarding the police", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 141, "new_rank": 141}
+{"qid": "test_360", "text": "a fat guy with a tie is looking at a man", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 15, "new_rank": 15}
+{"qid": "test_361", "text": "a group of women are singing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_362", "text": "a figure in camouflage clothing walks with bent knees through large cement rooms toward a door as people are being shot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_363", "text": "a man gives a lecture with a microphone in front of a laptop with a red glow behind him", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_364", "text": "someone is putting a skeleton slide on a projector", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_365", "text": "a tv channel named how to cook great foodcom is telling how to prepare a dish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_366", "text": "a woman is talking about facial care products", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_367", "text": "foreign language music video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_368", "text": "an asian woman is talking about food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_369", "text": "a guy talks about how a car s alternator wasn t working", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_370", "text": "a cartoon on a young guy cursing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_371", "text": "a woman is reporting on keds commercials", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_372", "text": "impoverished children are eating and a man is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_373", "text": "someone is mixing ingredients in a bowl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_374", "text": "late night sneak peek preview", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_375", "text": "batman is beating up bane in a scene from a batman movie", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_376", "text": "the view of a boat and the water is blocked by clouds and fog", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_377", "text": "a man is talking about cooking and presenting a thermometer and way of preparation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_378", "text": "there is a man working on a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_379", "text": "a warrior is fighting a battle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_380", "text": "two men walk behind a couple of rhinoceroses one of which attacks a man", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_381", "text": "man in black suit is having meeting with group of people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 107, "new_rank": 107}
+{"qid": "test_382", "text": "miniature donkeys walking around and making noises", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_383", "text": "several women in pink outfits and various other styles are standing and smiling", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_384", "text": "a middle aged woman giving another woman a message", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 162, "new_rank": 162}
+{"qid": "test_385", "text": "threee kids sing together on the voice", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_386", "text": "men are playing instruments in a band", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_387", "text": "a cartoon man dances for his girl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_388", "text": "the small and large needles moving fast in a clock", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_389", "text": "the beautiful scene on the screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_390", "text": "guys play minecraft", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_391", "text": "two kids talking to the camera and then a woman talking to the camera", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_392", "text": "a man is singing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 80, "new_rank": 80}
+{"qid": "test_393", "text": "a man is sitting and playing guitar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_394", "text": "a woman is talking about movies", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_395", "text": "two parrots in a bird cage one white chick and on green adult", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_396", "text": "someone is driving around the city in grand theft auto v", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_397", "text": "girl is checking twitter", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_398", "text": "shania twain does a closeup for her video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_399", "text": "a flower and other natural scenes are displaying", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_400", "text": "a man in sunglasses and a blue shirt beat boxes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_401", "text": "peter is driving in the car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_402", "text": "a man describing how to do something in windows", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_403", "text": "a man looks at the battery of a computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_404", "text": "a woman is making a recipe in a sauce pan", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_405", "text": "a girl doing gymnastics in the front yard", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_406", "text": "a man is talking with his friends on a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_407", "text": "a character is jumping and floating in the air in a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_408", "text": "different letters are coming out and sounding out the way they sound", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_409", "text": "the lighting work is going on the building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_410", "text": "an astronaut is looking at a flag", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_411", "text": "a woman on a couch talks to a a man", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_412", "text": "a man walks towards a woman and the woman breaks a bottle to defend her belongings", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_413", "text": "a woman is demonstrating a nail painting technique", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_414", "text": "two women are embracing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_415", "text": "comedy skit with dc comics character vane", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_416", "text": "a girl is on the voice", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_417", "text": "guys holding cups and talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_418", "text": "a cartoon girl and animal jumping on body of male guy girl image still shown displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_419", "text": "guys playing minecraft", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_420", "text": "man talking about hiking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_421", "text": "a person is singing in a studio", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_422", "text": "people compete in a backyard competition", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_423", "text": "a man is talking and more peoples are in the round", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 56, "new_rank": 56}
+{"qid": "test_424", "text": "a group of friends are in a room talking with each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_425", "text": "a man points his gun towards a woman in a room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_426", "text": "a woman is giving a demonstration about pancake presentation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_427", "text": "a man and a woman are singing a song in a stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_428", "text": "a man drives while discussing his car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_429", "text": "water is being filtered in a tank with rocks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_430", "text": "advertisement of seat basket", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_431", "text": "it is a vine compilation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_432", "text": "two people are preparing for sports", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 35, "new_rank": 35}
+{"qid": "test_433", "text": "a man is showing the interior of a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_434", "text": "a hand print is outlined within the silhouette of a green dinosaur shape for a movie promotion", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_435", "text": "a vehicle with details on what comes with it by carfax", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_436", "text": "tennis players are involved in matches in large stadiums in front of large crowds", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_437", "text": "two snakes are shown in containers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_438", "text": "a man is acting out a scene", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 125, "new_rank": 125}
+{"qid": "test_439", "text": "a movie scene starring morgan freeman and men in armor running", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_440", "text": "a minecraft video game is being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_441", "text": "a video game is played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 27, "new_rank": 27}
+{"qid": "test_442", "text": "sports vine clips of basketball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_443", "text": "the opeing credit to gullah grub authentic cooking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_444", "text": "the tennis players wearing blue and red t shirts and play the tennis in the tennis court at the night time", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_445", "text": "customers wait in line at an ice cream shop while employees tend to them", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_446", "text": "music is playing and advertisements was showing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 343, "new_rank": 343}
+{"qid": "test_447", "text": "a heart is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_448", "text": "a soccer player shoots a goal during a soccer game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_449", "text": "two teams play at the olympics", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_450", "text": "gameplay footage of someone playing minecraft", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_451", "text": "a man a woman cooking on a cooking show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_452", "text": "a person is doing cooking show and telling the ingredients", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_453", "text": "anchor talking about a shows", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 313, "new_rank": 313}
+{"qid": "test_454", "text": "a man is highlighted playing basketball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_455", "text": "the intro to world news focus on africa plays and we are greeted by the bbc reporter based in johannesburg south africa", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_456", "text": "a man looks up towards a cathedrals organ pipes and talks to a priest in a confessional", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_457", "text": "a girl using her smartphone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_458", "text": "a woman talks about a skin care treatment she takes with her everwhere", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_459", "text": "couples describing the logic behind movie scenes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_460", "text": "man and woman are showing affection", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_461", "text": "a man is dodging bombs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 155, "new_rank": 155}
+{"qid": "test_462", "text": "an ethiopian woman asks a child what she is good at", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_463", "text": "a group of people are riding on a raft in a body of water", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_464", "text": "man is crossing the street with big lion and friend", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_465", "text": "cameras filming near accidents between cars in traffic", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_466", "text": "this little light of mine song with different photos", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 23, "new_rank": 23}
+{"qid": "test_467", "text": "some girls are practicing gymnastics", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_468", "text": "a man playing a video game character that is carrying a sword and killing animals with it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_469", "text": "a man speaks on a a news panel", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_470", "text": "one of two guys walking on a carton of eggs with bare feet", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_471", "text": "a man is giving an interview in a tv show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_472", "text": "an animated video game song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_473", "text": "two animated woman s are talking to eachother", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_474", "text": "a girl practising her boy and arrow tricks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_475", "text": "the woman wearing the white top talks to the people in the audience", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_476", "text": "the girl shows the boys her medal in this cartoon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_477", "text": "a woman is mixing nailpolish and putting an egg into it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_478", "text": "a man rides a lft to the top of a mountain", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_479", "text": "the band member takes a seat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 41, "new_rank": 41}
+{"qid": "test_480", "text": "a man is talking about space project adam", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_481", "text": "girl is dancing in the garden", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_482", "text": "a person looks at a celebrity on the computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_483", "text": "spices being combined in a stainless steel bowl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_484", "text": "a man points a gun at another persons face", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 129, "new_rank": 129}
+{"qid": "test_485", "text": "on google earth is a man who is talking about the flights", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_486", "text": "sports people are fighting on field", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_487", "text": "a girl being surprised with a stuffed animal by male friend", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 32, "new_rank": 32}
+{"qid": "test_488", "text": "a man and woman performing in front of judes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_489", "text": "somebody slices white onion with sharp knife on the table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_490", "text": "people practising marshal arts", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_491", "text": "a woman in lots of pain", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_492", "text": "a man chopping lobster and taking off the shell", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_493", "text": "a woman is showing nail polish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_494", "text": "a elecopter moving in air and red and yellow dress man hand touching speaking in snow land wearing helmet displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_495", "text": "person is recording the brown horse which is having fun", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_496", "text": "a gospel band playing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_497", "text": "a man talks back to a cop and handcuffs him to the table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_498", "text": "jeremy is describing a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 25, "new_rank": 25}
+{"qid": "test_499", "text": "a golf player is trying to hit the ball into the pit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_500", "text": "three soccer balls are laying in a field and then three men in black athletic cloths attempt to shoot a goal", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_501", "text": "animated comic scene of guy cutting up food for dinner", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_502", "text": "some men play a game of kickball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_503", "text": "a man is talking about a sports car he is driving", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_504", "text": "three men talking about their youtube channel and thanking their viewers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_505", "text": "people are talking to each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 131, "new_rank": 131}
+{"qid": "test_506", "text": "a man is sweeping dust off the floor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_507", "text": "the men eat the mexican food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_508", "text": "a soldier is speaking to a superior person in a movie", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_509", "text": "two men are in the classroom and having conversation", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 34, "new_rank": 34}
+{"qid": "test_510", "text": "a couple dancing doing salsa", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_511", "text": "someone looking at a japanese book", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_512", "text": "minecraft zombie kills player and takes heart", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_513", "text": "a man speaking in a microphone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_514", "text": "men are being filmed in the darkness", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_515", "text": "a girl explains about some studies showing some hands actions", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_516", "text": "a very young baby is wearing a disguise and laughing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_517", "text": "a woman in black puts on blush while looking in a mirror", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_518", "text": "foreign language cooking show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_519", "text": "a girl in white night wear dancing very sexy", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_520", "text": "people are on stage talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 27, "new_rank": 27}
+{"qid": "test_521", "text": "a girl wearing red top and black trouser is putting a sweater on a dog", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_522", "text": "two girls are sitting in the bed with a cat and talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_523", "text": "guy in purple tshirt playing guitar as they drive through", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_524", "text": "guys trying out ice cream", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_525", "text": "a girl dresses up in a bright wig", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_526", "text": "man shows how to prepare potatoes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_527", "text": "someone is playing a game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 43, "new_rank": 43}
+{"qid": "test_528", "text": "a man discusses a bollywood celebrity", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_529", "text": "a boy is trying out for a part on the voice kids", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_530", "text": "a man and a woman are sitting in front of a television and addressing and audience", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_531", "text": "a girl is painting easter designs on nails", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_532", "text": "a cartoon clip is being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 69, "new_rank": 69}
+{"qid": "test_533", "text": "a man playing guitar and singing on the road side", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_534", "text": "an indian man talking about iphones and a new type of clothing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_535", "text": "it is the video of military men", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 21, "new_rank": 21}
+{"qid": "test_536", "text": "a woman gets trapped in a burning trailer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 139, "new_rank": 139}
+{"qid": "test_537", "text": "penguins wander around on ice", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_538", "text": "a blonde man lies on a bed with a little baby", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_539", "text": "men talking about and eating hot dogs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_540", "text": "two boys sneak up to a girls performing choir", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 37, "new_rank": 37}
+{"qid": "test_541", "text": "a man is driving a black car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_542", "text": "animated video showing a bottle rolling across an empty hallway", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_543", "text": "a couple is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_544", "text": "a car is racing on road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_545", "text": "in the kitchen the chef is interviewed by a lady and the ingredients are kept on the table", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_546", "text": "a female in a space age outfit crawling and dancing on the floor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_547", "text": "there is a guy talking to his father", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_548", "text": "a man talks about visiting visiting a specific place to buy some things", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_549", "text": "jolly good music troop delivering a program and the lady is in good spirit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_550", "text": "the olympics wight lifting photo is illustrated to explain gravitational force", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_551", "text": "vladmir putin talks on the news about the fight against terrorism", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_552", "text": "a group of young athletes race around a track", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_553", "text": "men in a garage talk about a car they are going to restore", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_554", "text": "a group of people are dancing in a room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_555", "text": "a man and woman are talking in a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_556", "text": "two girls in design dress wearing cloth standing holding mic in hand on street and person walking beside discusing on topic", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_557", "text": "a person is preparing some food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 35, "new_rank": 35}
+{"qid": "test_558", "text": "a women is sitting with her baby and two people talking about that", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 23, "new_rank": 23}
+{"qid": "test_559", "text": "young children in red fire chief hats are guided to a fire engine and up its metal textured stairs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_560", "text": "a fatality from mortal kombat is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_561", "text": "several dogs playing dead", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_562", "text": "man standing on the ledge of a vary tall building jumps off", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_563", "text": "a tour through chinese architecture", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_564", "text": "a lady is play the sims while talking about it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_565", "text": "animated pirates sing on a ship", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_566", "text": "a pirate man tries to lift a lantern with his sword while on a boat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_567", "text": "a girl talking with long hair", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_568", "text": "a young girl is showing everybody how to apply make up", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_569", "text": "a man is talking about something", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_570", "text": "a lady tries to ride on bicycle but fails", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_571", "text": "a cat is layingon a couch and another islaying in a basket", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_572", "text": "a rock band performs on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_573", "text": "a man cooks some food in a kitchen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_574", "text": "video showing helping attitude of human beings", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 21, "new_rank": 21}
+{"qid": "test_575", "text": "multi colored horses in a barn and outside in the snow", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_576", "text": "a man discusses and shows traits of some computer functions", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_577", "text": "a woman talks about horse racing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_578", "text": "a man in black suit is talking about deforestation and about climate change", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_579", "text": "a group of actors sit in a control room and think about their next move together", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_580", "text": "some women models pictures are shown as a slide show presentation and a women is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_581", "text": "a man drives a motorcycle in a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_582", "text": "a woman giving a photoshop tutorial", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_583", "text": "a mashup of music videos is being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_584", "text": "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_585", "text": "vines of sports are being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_586", "text": "a little girl talking to her and is scared", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_587", "text": "a reporter talks about a police incident", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_588", "text": "a woman applies makeip to her eyes in double speed", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_589", "text": "a special songs for the game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_590", "text": "a group of people are stamp dancing on stage in front of a crowd", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_591", "text": "delicious and colorful food is in the bowl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 31, "new_rank": 31}
+{"qid": "test_592", "text": "men working in surveillance room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_593", "text": "a man is very excited", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_594", "text": "polar bear jumps into water then plays around while people watch", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_595", "text": "the song hero by skillet with lyrics", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_596", "text": "a police officer pulls a gun at a swimming pool", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_597", "text": "a cute girl with nice headgear standing in a room is talking through a microphone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_598", "text": "a bus crashes into a car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_599", "text": "a girl is talking about a celebrity", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 53, "new_rank": 53}
+{"qid": "test_600", "text": "food in a refrigerator is displayed on shelves in containers and on a lazy suzan", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_601", "text": "people on stage performing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_602", "text": "woman is using a baby stroller", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_603", "text": "an interview is conducted", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_604", "text": "a woman in a purple dress is talking on a video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_605", "text": "a man is playing piano", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_606", "text": "someone playing the game dark souls", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_607", "text": "a man is discussing some functions for a science expirement", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_608", "text": "instructional video on home improvement subjects", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_609", "text": "guy in tshirt playing guitar and singing song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_610", "text": "bride standing with a old man in formal wear", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_611", "text": "vest of sports vines", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_612", "text": "men and women sing in a choir on stage with a piano", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_613", "text": "scrolling the the menu of movieclips with different movie trailers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_614", "text": "women are celebrating a soccer victory", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_615", "text": "city limits photograph taken from high point in day time", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_616", "text": "high school wrestling match", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_617", "text": "episode from spongebob cartoon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 13, "new_rank": 13}
+{"qid": "test_618", "text": "persons are attending a class with laptops", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_619", "text": "a animated car going on the roads with blue mark on either sides", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_620", "text": "person playing a game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 948, "new_rank": 948}
+{"qid": "test_621", "text": "race cars of different colors lined up on a dark track", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_622", "text": "a woman is advertising a stroller", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_623", "text": "a woman giving skin care tips", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_624", "text": "a cat is licking a baby", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_625", "text": "a woman demonstrates how to cook chitlins", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_626", "text": "a woman is making lasagna", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_627", "text": "a man and a woman are walking a dog on a beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_628", "text": "a group of people talking about stuff", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 36, "new_rank": 36}
+{"qid": "test_629", "text": "minecraft gamer puts on iron armor", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_630", "text": "a band of singers and guitarists are performing on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_631", "text": "a man is running around and playing a guitar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_632", "text": "a news anchor is interviewing a person on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 26, "new_rank": 26}
+{"qid": "test_633", "text": "cheese is being sliced", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_634", "text": "man driving in a car an talking about the car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_635", "text": "the couples are kissing in the game of throne", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_636", "text": "an emotional scene of two persons where they are crying on meeting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_637", "text": "person driving in car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 33, "new_rank": 33}
+{"qid": "test_638", "text": "a foul mouthed chef demonstrates and describes a vegetable recipe", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_639", "text": "a man plays a video game where the player has a first person perspective and shoots other characters", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_640", "text": "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_641", "text": "a man in his backyard talks tot he camera and is going to skin a snake", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_642", "text": "several groups of people are kayaking on a waterway", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_643", "text": "a tamil movie scene is being shown they travel through a auto riksha and speak about the importance of work", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_644", "text": "man driving a car in a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_645", "text": "a man is talking about the making of the movie avatar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_646", "text": "a man talking about human relationships", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_647", "text": "a pop singer singing while she standing on a step the video is shown double", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_648", "text": "a girl sitting in a restaurant", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_649", "text": "scenes of romantic film", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_650", "text": "a web animation of a businessman", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_651", "text": "a man playing a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_652", "text": "a guy talks outside in the snow at a ski resort", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_653", "text": "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_654", "text": "a man is talking about opening a laptop case", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_655", "text": "a martial arts cartoon", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_656", "text": "a woman with a camel", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_657", "text": "a woman is showing shrimp and bunch of different other ingredients in order to cook a dish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_658", "text": "a man loads a clip into a pistol", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_659", "text": "a person is cooking on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_660", "text": "cartoon people are eating at a restaurant", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_661", "text": "a busy city street in far east is seen with people holding baskets on heads", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_662", "text": "this is a rock band music video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_663", "text": "someone giving demo for some game and talking about that", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_664", "text": "a class is being introduced to a digital reading device", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_665", "text": "a man in a music video screams shut up a bunch of times", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_666", "text": "someone is playing a game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 28, "new_rank": 28}
+{"qid": "test_667", "text": "dog is drinking milk with baby nibble bottle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_668", "text": "a man discusses spongebob", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_669", "text": "a black t shirted man with a hat talking about an event", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_670", "text": "bill murray is covered in frosting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_671", "text": "a girl walking down a path", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 220, "new_rank": 220}
+{"qid": "test_672", "text": "two mermaid with red hair is sitting on a rock", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_673", "text": "space explorers in red and silver suits float about in a black abyss filled with blue crystals", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_674", "text": "a man kicks a ball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_675", "text": "a person giving his opinion on how crowded the world is", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_676", "text": "a lady is walking in the beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_677", "text": "a man discussed a few products", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 54, "new_rank": 54}
+{"qid": "test_678", "text": "athletes are getting ready and start running for an event", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_679", "text": "a critic about wine speaks about the french wines", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 29, "new_rank": 29}
+{"qid": "test_680", "text": "a group of women are rubbing oil and milk all over a woman", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_681", "text": "a woman walking along side a river in a bikini", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_682", "text": "a puppy is crawling down some stairs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_683", "text": "a cartoon that is blurryb on a tv screen of a fashion run way", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_684", "text": "someone is adding ingredients for a batter", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_685", "text": "someone giving demo for some game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_686", "text": "an oriental femal is dressed in a pink wig with girlish clothing and is carrying a stuffed animal", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_687", "text": "an old man shakes hands with another man and then they hug each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_688", "text": "women are modeling clothes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 14, "new_rank": 14}
+{"qid": "test_689", "text": "a kid unwrapping his presents", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_690", "text": "someone ends their tutorial on their computer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_691", "text": "a man is playing a guitar with a band in a live concert", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_692", "text": "a cheif is preparing a treat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_693", "text": "a man works on a computer s motherboard", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_694", "text": "a band plays on a stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_695", "text": "a man drives a red indianapolis 500 type race car around an asphalt track", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_696", "text": "a dark skinned couple make love in bed the man is on top and the woman s blouse is partly transparent", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_697", "text": "commercial for a service called eva which will help people find a vehicle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_698", "text": "a woman in a yellow top is holding a red drink", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_699", "text": "there is a vehicle riding dangerously through forest", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_700", "text": "a man talking about the two cars he test drove", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_701", "text": "a pretty young girl talks to a man with a mustache", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_702", "text": "an exploration about the title of professional video advertisement", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_703", "text": "the man is making a sauce in the kitchen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_704", "text": "animated cartoon character is catching the ball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 57, "new_rank": 57}
+{"qid": "test_705", "text": "a football video game is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_706", "text": "the judges make a decision", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_707", "text": "a man walking into a room with two kids with red helmets", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_708", "text": "shows a globe and a bunch of people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_709", "text": "a woman is interviewed on a tv talk show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_710", "text": "a woman plays guitar and sings for a televised competition", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_711", "text": "the boy in karate dresswho is remembering the memorable hours with his father", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 96, "new_rank": 96}
+{"qid": "test_712", "text": "people share their thoughts on a boxing match", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_713", "text": "several young girls are singing on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_714", "text": "a video is shown showing different cars", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_715", "text": "a man plays an online multiplayer game and talks about how the game works", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_716", "text": "a girl singing a song and her group were playing music", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_717", "text": "a compilation of vine videos is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_718", "text": "two guys are wrestling in a competition", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_719", "text": "various sports clips with music are shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_720", "text": "a song with skeletons dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_721", "text": "person lighting a kettle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_722", "text": "there is a guy filling a toy with cotton to play with it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_723", "text": "long legged woman with black clothes is walking on the scene", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_724", "text": "a girl talking to her dead mom", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_725", "text": "a picture of what could be the moon or mars is on the screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_726", "text": "a man giving information about the mormon game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 92, "new_rank": 92}
+{"qid": "test_727", "text": "a women is explaining about the information of responders and the non responders for precision medicine", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_728", "text": "an older woman who is blind is talking to a girl named lilly", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_729", "text": "a video on how to make knots for fishing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_730", "text": "a man talking about a womans genital problems", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 173, "new_rank": 173}
+{"qid": "test_731", "text": "a person is playing a violin", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 37, "new_rank": 37}
+{"qid": "test_732", "text": "sygornie weaver pointing a gun and then running", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_733", "text": "there is a woman in her roomshe is a net idol show her new vedio", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_734", "text": "a man and a woman are talking about something", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_735", "text": "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_736", "text": "a woman with long white hair and dressed all in white is sailing through the sky over snow covered ground", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_737", "text": "young people sit around the edges of a room clapping and raising their arms while others dance in the center during a party", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_738", "text": "man in grey shirt is having an interview in the building", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_739", "text": "a car of 1970 is on the screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_740", "text": "a person is using a phone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_741", "text": "people talking about their trip and how they are taken care of", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_742", "text": "garage opening for a old bug to pull out to drive away", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_743", "text": "sleeping beauty play promotion", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_744", "text": "a woman talking about a white tank top", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_745", "text": "a man puts his phone down to be charged", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_746", "text": "a woman is making playdoh", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_747", "text": "a soldier is laying down", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_748", "text": "band playing music and people dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 22, "new_rank": 22}
+{"qid": "test_749", "text": "a video of a young man in a white shirt inviting his colleagues to join him", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_750", "text": "a lady describes about workout and exercises for women", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_751", "text": "a machine drills holes in a section of metal piping", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_752", "text": "two boys introducing a young lady who plays the cups and sings", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 77, "new_rank": 77}
+{"qid": "test_753", "text": "a woman makes crafts", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_754", "text": "a man with a guitar sings on a farm", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_755", "text": "a man drives his car down the road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 31, "new_rank": 31}
+{"qid": "test_756", "text": "a girl plays a videogame", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_757", "text": "barbecued cheese bacon burgers showcased", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_758", "text": "in game footage of a mine craft character walking up stairs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_759", "text": "the person is frying the prawns and fish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_760", "text": "video game of a truck driving through desert obstacles", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_761", "text": "some people are inside of a room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 213, "new_rank": 213}
+{"qid": "test_762", "text": "a girl digging in the sand", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_763", "text": "com long sheeps are in the big mountains", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_764", "text": "a lady named lizzy is speaking about movies she is wearing a very nice outfit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_765", "text": "some people are shooting outside", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_766", "text": "a woman is singing and pouring drinks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_767", "text": "a song from the movie beauty and the beast", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_768", "text": "a woman swings her hair in front of a large sing on a brick wall", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 195, "new_rank": 195}
+{"qid": "test_769", "text": "news of marijuana business having trouble growing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_770", "text": "a player is putting a basket ball into the basket from distance", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_771", "text": "some yellow text is on a purple and white screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 23, "new_rank": 23}
+{"qid": "test_772", "text": "an instructional video on painting your nails", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_773", "text": "still photos from the 2002 movie the pianist are shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_774", "text": "a group of young people are playing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_775", "text": "a person is looking at a camera during a wrestling event", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_776", "text": "a pitcher throws a fastball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_777", "text": "a woman stirs up some soup sprinkles a spice in and drops a shot of liquid into it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_778", "text": "several shots of tv shows combined were shown here", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 42, "new_rank": 42}
+{"qid": "test_779", "text": "a man in a suit and a woman wearing brown giving the news", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_780", "text": "a red haired woman holds a green parrot near shelves filled with bird food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_781", "text": "models are walking the runway as part of a fashion show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_782", "text": "bbc talking to guys with very expensive red sports car", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_783", "text": "a video of different racially motivated protests is playing while the song everyone s a little bit racist plays", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_784", "text": "a person chops up lettuce and a strainer of kidney beans is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_785", "text": "a man eats rice and a woman goes to the hospital", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_786", "text": "a woman is dressed up in face paint", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_787", "text": "a man talks about molecules and certain types of antibodies", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_788", "text": "there is a man in black is walking in to the bridge", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_789", "text": "a group discusses a man s outfit", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_790", "text": "three men were discussing the national football league", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_791", "text": "a woman dances around for a music video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 25, "new_rank": 25}
+{"qid": "test_792", "text": "an indian woman is applying makeup between her hair", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_793", "text": "a man is talking to an athlete", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_794", "text": "a man is filming as he and a woman watch the news where it shows an area filled with smoke", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_795", "text": "two wrestlers are fighting on a mat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_796", "text": "a woman is discussing a new video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_797", "text": "the mountain views are from a boat on the center of a lake", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_798", "text": "all womans singing and dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 26, "new_rank": 26}
+{"qid": "test_799", "text": "a woman discusses how we can help children in a classroom", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_800", "text": "women poring sauce to cooking vegetables", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_801", "text": "handsome man plays guitar and sings", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 29, "new_rank": 29}
+{"qid": "test_802", "text": "a person in white color dress wearing cloth speaking on topic white board explayning and many persons sitting displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_803", "text": "a man playing video games", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 201, "new_rank": 201}
+{"qid": "test_804", "text": "man talks in front of a green bicycle", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_805", "text": "person is driving his black car fast on the street", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_806", "text": "a planet is being filmed from space outside", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_807", "text": "a display of clips of the movie there will be blood", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_808", "text": "characters from video games are dancing to old mc donald had a farm", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_809", "text": "a woman dances in the background while a guy doesn t move", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 61, "new_rank": 61}
+{"qid": "test_810", "text": "two guys wrestling at an event", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_811", "text": "a car is in a wreck", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_812", "text": "selena gomez clips of her videos and her dancing with a man in a tux while she wears pink", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_813", "text": "a woman on her way out the door gets a call from a man standing in a store", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_814", "text": "a cnn report is talking about their dogs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 19, "new_rank": 19}
+{"qid": "test_815", "text": "a group of people watching a screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_816", "text": "a man is talking and playing a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 67, "new_rank": 67}
+{"qid": "test_817", "text": "a man is folding pieces of paper", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_818", "text": "a commercial for the website called eharmony", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_819", "text": "behind the scenes in a professional kitchen as the chefs work and the waiters run food can be a very noisy experience", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_820", "text": "the man thought students should be given the freedom to learn", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 29, "new_rank": 29}
+{"qid": "test_821", "text": "cartoon play for kids", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_822", "text": "two astronauts experiencing a tense situation before relaxing afterwards", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_823", "text": "blonde woman with black nails is recording herself in a room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_824", "text": "man in white hoodie turns a page to tell you about an online store the url is available in the description", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_825", "text": "a man drives aroud curves through a wooden mountainside", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_826", "text": "wrestlers are involved in a large wrestling meet", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_827", "text": "someone plays a guitar and sings on stage of a tv show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_828", "text": "women athletes taking their positions for a running race", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_829", "text": "video of gymasts practicing to roll", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_830", "text": "a robot is seen in a movie preview", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_831", "text": "scene from a popular party", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 65, "new_rank": 65}
+{"qid": "test_832", "text": "a man hits another man while wrestling", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_833", "text": "valencia vesus hokit in a wrestling match", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_834", "text": "a person covers a popular song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 119, "new_rank": 119}
+{"qid": "test_835", "text": "people enjoy the performance of singer", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 37, "new_rank": 37}
+{"qid": "test_836", "text": "two ladies in a cookery show explain how to marinate chicken already cleaned and ready with salt and cilantro sprigs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_837", "text": "a woman singing on the voice", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_838", "text": "spongebob is talking to patrick while holding a butterfly net", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_839", "text": "a group of people are dancing in a room", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_840", "text": "there is no sound while the screen shows a person playing a computer game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_841", "text": "a female soccer player accepts a reward while being cheered on by the crowd", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_842", "text": "lady and her dogs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_843", "text": "a helicopter is shown flying in what seems to be a war zone in syria", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_844", "text": "young men discuss and demonstrate a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 38, "new_rank": 38}
+{"qid": "test_845", "text": "a small boy is crying and a car is showed", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_846", "text": "hands rubbing together in the dark and band members singing and playing the guitar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_847", "text": "a man talking about finances", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_848", "text": "showing anushka sharma bollywood actress", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_849", "text": "a person is riding red car on road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_850", "text": "a girl wearing a dress stands to the side of the screen while lyrics to a song playing in the background appear on the other side", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_851", "text": "two child playing in the house", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_852", "text": "a goat attacks a man and the man fights back", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_853", "text": "a man shows how a video game works", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 26, "new_rank": 26}
+{"qid": "test_854", "text": "someone is frying food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_855", "text": "a woman is ripping off a man clothes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 57, "new_rank": 57}
+{"qid": "test_856", "text": "a diver goes underwater", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_857", "text": "a young boy rocks out on a guitar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_858", "text": "someone is drawing pictures", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_859", "text": "a team with blue uniforms are playing badmitten with a team in white", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_860", "text": "people talking about a fight", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_861", "text": "two men talk with children s voices", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 58, "new_rank": 58}
+{"qid": "test_862", "text": "a guy is spinning around with a bat", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_863", "text": "george lopez s family sits down for dinner", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_864", "text": "a movie scene little boys inside water flowing inside forest displaying on screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_865", "text": "cartoon one women in horse and speak to that calmly", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_866", "text": "in the ocean a man on a surfboard rides a wave", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_867", "text": "broth is being added to a soup pot and stirred with a rubber spatula", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_868", "text": "a guy reports on complex news", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_869", "text": "video game clip showing here different charcters", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 17, "new_rank": 17}
+{"qid": "test_870", "text": "a man talks about the school system", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 48, "new_rank": 48}
+{"qid": "test_871", "text": "someone is showing some drink", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 6, "new_rank": 6}
+{"qid": "test_872", "text": "a solider gives a speech", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_873", "text": "boys and girls dancing and singing on beach", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_874", "text": "a tv shows review program hosts discuss about the performance and staying on air of star trek", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_875", "text": "colored lights and pictures of people fade in and out of view", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_876", "text": "a clip of soccer plays", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_877", "text": "a child is singing on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_878", "text": "different women in colorful clothing are walking down a runway for a fashion show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_879", "text": "a man and woman stand together and cook in the kitchen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_880", "text": "fox newscasters discuss chris christie and his poll numbers", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_881", "text": "a multiplayer game of mario party is played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_882", "text": "a person folds a paper airplane", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_883", "text": "fast moving time is shown here", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_884", "text": "a women is doing craft and talking about that", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 61, "new_rank": 61}
+{"qid": "test_885", "text": "a man prepares some food in the kitchen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 107, "new_rank": 107}
+{"qid": "test_886", "text": "a person points out certain figures on a paper", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 27, "new_rank": 27}
+{"qid": "test_887", "text": "two people welcome people to an episode of their show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_888", "text": "a man talking something about the new smart phones", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 43, "new_rank": 43}
+{"qid": "test_889", "text": "a young man and his dad are rubbing each other s hair it s a commercial for vodafone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_890", "text": "a woman talking to a man in a hood", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_891", "text": "a person is swimming in some white water rapids", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_892", "text": "there is a wrestling match going on between two people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_893", "text": "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_894", "text": "a man is sitting on a chair", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_895", "text": "tom jones performing live on a television show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_896", "text": "an anime cartoon character speaks to another character", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_897", "text": "demonstration on how to prepare something using a microwave", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_898", "text": "there are two men swimming in a pond", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 60, "new_rank": 60}
+{"qid": "test_899", "text": "fox news presidential debate recapping the gop debate with donald trump and ted cruz", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_900", "text": "bill murray is being interviewed by david letterman while talking about bill s past roles", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_901", "text": "someone demonstrates about the small motor uses to the video", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_902", "text": "an animated girl talks to a baby and plays with it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_903", "text": "a woman s background voice describes a virtual scene where a dog enters a bathroom", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_904", "text": "a white male raps while another plays guitar", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_905", "text": "explainin about the scene in the net", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 234, "new_rank": 234}
+{"qid": "test_906", "text": "the house has at least three small pets", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_907", "text": "a news scene of the dog s exercise and diet", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_908", "text": "a man in a kitchen is preparing pancakes he s wearing a white shirt and has black hair", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_909", "text": "a clip from fox news on the shelby north carolina shooting", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_910", "text": "a girl shows a pack of toy building blocks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_911", "text": "a young girl sits in a room and looks into a bag", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_912", "text": "dogs and cats playing in a park", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_913", "text": "a guy chops up garlic and pours it over chicken frying in a pan", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_914", "text": "a famous tv talk show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_915", "text": "a documentary on how to windsurf and in particular recover from a wipeout", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_916", "text": "boy playing with a dump truck", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_917", "text": "a man is swimming in the swimming pool", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_918", "text": "a guy with glasses is standing next to some signs", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_919", "text": "three kids are performing a song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_920", "text": "screen cast of mine craft oneline", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 20, "new_rank": 20}
+{"qid": "test_921", "text": "flight is shaken and the pilots trying to land the flight while they opened the air", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_922", "text": "there are pictures and quotes from george bernard shaw and vincent van gogh while a voice over artist talks about making mistakes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_923", "text": "a woman peeling vegetables in her kitchen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_924", "text": "a man is trying some sushi", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_925", "text": "people are playing baseball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_926", "text": "a football player with a football", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_927", "text": "a person pointing to food on a plate", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 11, "new_rank": 11}
+{"qid": "test_928", "text": "a person playing a video game and commentating", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_929", "text": "it is about a cartoon film", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 85, "new_rank": 85}
+{"qid": "test_930", "text": "interview with artist shanai twain", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_931", "text": "squidward scenes playing with a lil wayne song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_932", "text": "a woman talking about different pictures next to her", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_933", "text": "a man is yelling on the phone", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_934", "text": "a boy gets out of a play police car and talks to a girl", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_935", "text": "people are riding horses in grassland", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_936", "text": "a man is discussing oxiders in bulk form", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_937", "text": "young men in a middle of the bush almos naked and scratching themselves", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_938", "text": "japanese people laughing and dancing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_939", "text": "a person drawling people on a canvas", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_940", "text": "they are singing a song and playing a guitar in the stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 16, "new_rank": 16}
+{"qid": "test_941", "text": "documentary about museum in peninsula", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_942", "text": "man interviews bill murray", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_943", "text": "a beautiful sceneary is shown and the sight seeing through the train is amazing and place is so lovely to watch", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_944", "text": "in an animated scene two characters are outside under a menacing sky glaring at each other", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_945", "text": "a man playing video games", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 265, "new_rank": 265}
+{"qid": "test_946", "text": "a man with brown hair is singing a song", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 98, "new_rank": 98}
+{"qid": "test_947", "text": "a man cooks burgers and bacon on a grill", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_948", "text": "a person is playing a video game", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 35, "new_rank": 35}
+{"qid": "test_949", "text": "there is someone serving a crab dish", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_950", "text": "the models walk the catwalk", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 4, "new_rank": 4}
+{"qid": "test_951", "text": "a car goes racing down the road", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 28, "new_rank": 28}
+{"qid": "test_952", "text": "a football match between usa and japan", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_953", "text": "three young people sing on stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 7, "new_rank": 7}
+{"qid": "test_954", "text": "the lady came their room go to the kitchen try to make their food", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 56, "new_rank": 56}
+{"qid": "test_955", "text": "a cartoon with violence", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 25, "new_rank": 25}
+{"qid": "test_956", "text": "how to make a galaxy fighter", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_957", "text": "a squid is talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_958", "text": "children singing a song as a group on a stage", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 8, "new_rank": 8}
+{"qid": "test_959", "text": "a guy trying to climb on a rope while another guy timing him", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_960", "text": "someone is showing a car features", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 9, "new_rank": 9}
+{"qid": "test_961", "text": "a trailer for a film with words over the top", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_962", "text": "a news story about hillary clinton", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_963", "text": "a man walks between two brick buildings a dusk", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_964", "text": "two people playing basketball and the one with a hat makes every shot", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_965", "text": "people scoring in sports videos", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_966", "text": "a football video game is being played", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_967", "text": "a woman in black dress and a man in a black suit sits together", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_968", "text": "a group of zombis walking towards a very tall building with a globe in front of it", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_969", "text": "basketball highlights of players scoring", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_970", "text": "a trailer for a movie with a girl knocking on the wall", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_971", "text": "several enormous juicy burgers are all stacked together", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_972", "text": "a cartoon plane picking up fruit and putting it in trucks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_973", "text": "the man is driving his motorbike fast and having problems on the race", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_974", "text": "all persons are wearing bikini dresses and playing in sea", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 12, "new_rank": 12}
+{"qid": "test_975", "text": "a women in blue shows two pink lipsticks", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 24, "new_rank": 24}
+{"qid": "test_976", "text": "people are stoppped by military in the street", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 3, "new_rank": 3}
+{"qid": "test_977", "text": "a cartoon shows two dogs talking to a bird", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_978", "text": "old black and white films are shown and the history of motion pictures is being dealt with", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_979", "text": "many potatoes get washed and move through machinery", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_980", "text": "a news reader describing about a news", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 45, "new_rank": 45}
+{"qid": "test_981", "text": "a guy wearing a black shirt talks and shows a chart on the tv screen", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_982", "text": "a man is playing baseball", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_983", "text": "there is a wrestling match", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 5, "new_rank": 5}
+{"qid": "test_984", "text": "a man talks about kim chi to a camera", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 15, "new_rank": 15}
+{"qid": "test_985", "text": "a cartoon announcing the next event in a fake show", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 30, "new_rank": 30}
+{"qid": "test_986", "text": "a woman pours water into her pot of meat then tomato sauce and stirs it all around while talking", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_987", "text": "man pretends to be two different people", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_988", "text": "tourists walking around the mount fuji visitor center", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_989", "text": "calm pond with lush green hills lining the background is shown", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_990", "text": "a man dressed as a woman in a spanish language tv program", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_991", "text": "in a music video a man is laying with women while singing", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 2, "new_rank": 2}
+{"qid": "test_992", "text": "a man extinguishes a fire outside", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 52, "new_rank": 52}
+{"qid": "test_993", "text": "goldfish chase each other around a blue tank to music", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_994", "text": "the woman in the purple blouse talk as the shelves are behind her", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_995", "text": "the young performer impressed his audience", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}
+{"qid": "test_996", "text": "some peole are sitting in hall", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 120, "new_rank": 120}
+{"qid": "test_997", "text": "man shows how to prepare pizza", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 1, "new_rank": 1}
+{"qid": "test_998", "text": "someone is playing a first person shooter game and is making jokes", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 543, "new_rank": 543}
+{"qid": "test_999", "text": "bearded guy in grey tshirt talking to the camera", "action": "accept", "fragile": "auto", "hyps": null, "scores": [], "base_rank": 10, "new_rank": 10}

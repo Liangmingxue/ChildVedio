@@ -1,0 +1,29 @@
+{
+  "signature": "4f7777f1307f636d182cfd62241c6b96f7aa5e61ecb5e530361cb4466bd4f919",
+  "identity": {
+    "snapshot": {
+      "router_data.jsonl": "fe9a452ed06d8d0ea595ceae7e0073a18e7223b0d89f3662ad2ff95fc4cf2568",
+      "test.jsonl": "02e7840b5ff6ed2e023db6aca04b946382a96ef5393920876124850acb30c2f8",
+      "experiment.yaml": "a4449662fbe9d8fbd52fbceaab9e3b72f250c04770af95d412bd9a8dad6f8c85",
+      "stage.yaml": "7920af98a2b582cc3e8c38c820cde066462bd7e8db41b8c207acdd5846d9f4c7",
+      "budget.json": "150eaed2fadbc3d367cd2e4e885ee3ddb68956098d09cac8c31301e11c8d43dc"
+    },
+    "backbone": {
+      "model-00001-of-00003.safetensors": "328a91d3122359d5547f9d79521205bc0a46e1f79a792dfe650e99fc2d651223",
+      "model-00002-of-00003.safetensors": "6cd087b316306a68c562436b5492edbcf6e16c6dba3a1308279caa5a58e21ca5",
+      "model-00003-of-00003.safetensors": "e4bf436957184f4eeb86a80e9db394503f1f56446b2e6b7edeac5b81470f4ca1",
+      "config.json": "8ba006f74fecfaaeb392872a60f4a480e7ec9860153d2e1b769ec81f9a147f8a",
+      "tokenizer.json": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+    },
+    "libraries": {
+      "torch": "2.11.0+cu130",
+      "transformers": "5.14.1",
+      "peft": "0.22.0"
+    },
+    "router_code": "9895e7009aabc79580ff04347637b1ed4f5b4ff5ff4d54d3f158f4d64e0f9b9b",
+    "export_code": "8599238c1c908a7a0e3b99b4e3bab2e1ac7f88484e8f03427b0546c9d1196bf0"
+  },
+  "complete": true,
+  "sha256": "7dbc366ecfc99cced38ff2f434e87691f755be240b0b79b389a8a311ed7279c3",
+  "seconds": 108.91220490203705
+}

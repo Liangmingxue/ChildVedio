@@ -1,0 +1,7 @@
+counterfactuals:   0%|          | 0/3 [00:00<?, ?it/s]counterfactuals:  33%|███▎      | 1/3 [00:00<00:01,  1.28it/s]counterfactuals:  67%|██████▋   | 2/3 [00:01<00:00,  2.15it/s]counterfactuals: 100%|██████████| 3/3 [00:01<00:00,  3.21it/s]counterfactuals: 100%|██████████| 3/3 [00:01<00:00,  2.60it/s]
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 15012.57it/s]
+Queries with a valid counterfactual: 2/3
+queries 1–3/3:   0%|          | 0/48 [00:00<?, ?it/s]queries 1–3/3:  35%|███▌      | 17/48 [00:02<00:04,  6.37it/s]queries 1–3/3:  52%|█████▏    | 25/48 [00:02<00:02,  9.95it/s]queries 1–3/3:  73%|███████▎  | 35/48 [00:02<00:00, 15.55it/s]queries 1–3/3:  96%|█████████▌| 46/48 [00:03<00:00, 23.42it/s]queries 1–3/3: 100%|██████████| 48/48 [00:03<00:00, 15.75it/s]
+[yesno] R@1 66.67->66.67 HFR=0.00% HelpR=0.00% calls/q=16.0
+[delta] R@1 66.67->66.67 HFR=0.00% HelpR=0.00% calls/q=48.0
+[fc] R@1 66.67->33.33 HFR=50.00% HelpR=0.00% calls/q=26.7

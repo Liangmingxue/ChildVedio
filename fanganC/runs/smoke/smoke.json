@@ -1,0 +1,25 @@
+{
+  "device": "cuda:0",
+  "real_pretrained_4b": true,
+  "queries": [
+    "train_video1824_0",
+    "train_video409_0"
+  ],
+  "retriever_max_abs_error": 0.014690399169921875,
+  "warmup_loss": 0.9348927140235901,
+  "warmup_backbone_gradients": false,
+  "joint_gradients": [
+    {
+      "step": 0,
+      "loss": 0.3297807276248932,
+      "nonzero_lora": 252
+    },
+    {
+      "step": 1,
+      "loss": 0.20825275778770447,
+      "nonzero_lora": 504
+    }
+  ],
+  "reload_max_abs_probability_error": 0.0,
+  "seconds": 8.17802493495401
+}

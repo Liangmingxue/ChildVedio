@@ -1,0 +1,448 @@
+{
+  "phase": "complete",
+  "device": "cuda:0",
+  "deep_fraction": 0.876,
+  "router_data": "outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/router_data.jsonl",
+  "dev_margin": {
+    "base": {
+      "n": 285,
+      "R@1": 24.210526315789473,
+      "R@5": 45.614035087719294,
+      "R@10": 59.29824561403508,
+      "MdR": 7.0,
+      "MnR": 55.564912280701755
+    },
+    "new": {
+      "n": 285,
+      "R@1": 32.280701754385966,
+      "R@5": 53.68421052631579,
+      "R@10": 61.05263157894737,
+      "MdR": 5.0,
+      "MnR": 54.94385964912281
+    },
+    "flips": {
+      "harmful_flips": 4,
+      "helpful_flips": 27,
+      "HFR": 5.797101449275362,
+      "HelpR": 12.5,
+      "net_R@1": 8.070175438596491
+    },
+    "route_dist": {
+      "deep": 249,
+      "accept": 36
+    },
+    "vlm_calls": 7664,
+    "vlm_calls_per_query": 26.891228070175437
+  },
+  "test_deep_quotas": null,
+  "checkpoints": [],
+  "gain_epochs": [
+    {
+      "epoch": 0,
+      "harm_weight": 1.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.280701754385966,
+          "R@5": 53.68421052631579,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.940350877192984
+        },
+        "flips": {
+          "harmful_flips": 5,
+          "helpful_flips": 28,
+          "HFR": 7.246376811594203,
+          "HelpR": 12.962962962962964,
+          "net_R@1": 8.070175438596491
+        },
+        "route_dist": {
+          "deep": 247,
+          "light": 16,
+          "accept": 22
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    },
+    {
+      "epoch": 0,
+      "harm_weight": 2.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.631578947368425,
+          "R@5": 53.68421052631579,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.94385964912281
+        },
+        "flips": {
+          "harmful_flips": 4,
+          "helpful_flips": 28,
+          "HFR": 5.797101449275362,
+          "HelpR": 12.962962962962964,
+          "net_R@1": 8.421052631578949
+        },
+        "route_dist": {
+          "deep": 250,
+          "accept": 35
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    },
+    {
+      "epoch": 1,
+      "harm_weight": 1.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.98245614035088,
+          "R@5": 53.333333333333336,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.94736842105263
+        },
+        "flips": {
+          "harmful_flips": 5,
+          "helpful_flips": 30,
+          "HFR": 7.246376811594203,
+          "HelpR": 13.88888888888889,
+          "net_R@1": 8.771929824561406
+        },
+        "route_dist": {
+          "deep": 245,
+          "light": 16,
+          "accept": 24
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    },
+    {
+      "epoch": 1,
+      "harm_weight": 2.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.631578947368425,
+          "R@5": 53.68421052631579,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.940350877192984
+        },
+        "flips": {
+          "harmful_flips": 5,
+          "helpful_flips": 29,
+          "HFR": 7.246376811594203,
+          "HelpR": 13.425925925925926,
+          "net_R@1": 8.421052631578949
+        },
+        "route_dist": {
+          "deep": 249,
+          "accept": 36
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    },
+    {
+      "epoch": 2,
+      "harm_weight": 1.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.631578947368425,
+          "R@5": 52.98245614035088,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.96842105263158
+        },
+        "flips": {
+          "harmful_flips": 5,
+          "helpful_flips": 29,
+          "HFR": 7.246376811594203,
+          "HelpR": 13.425925925925926,
+          "net_R@1": 8.421052631578949
+        },
+        "route_dist": {
+          "deep": 244,
+          "light": 16,
+          "accept": 25
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    },
+    {
+      "epoch": 2,
+      "harm_weight": 2.0,
+      "dev": {
+        "base": {
+          "n": 285,
+          "R@1": 24.210526315789473,
+          "R@5": 45.614035087719294,
+          "R@10": 59.29824561403508,
+          "MdR": 7.0,
+          "MnR": 55.564912280701755
+        },
+        "new": {
+          "n": 285,
+          "R@1": 32.631578947368425,
+          "R@5": 53.68421052631579,
+          "R@10": 61.05263157894737,
+          "MdR": 5.0,
+          "MnR": 54.940350877192984
+        },
+        "flips": {
+          "harmful_flips": 5,
+          "helpful_flips": 29,
+          "HFR": 7.246376811594203,
+          "HelpR": 13.425925925925926,
+          "net_R@1": 8.421052631578949
+        },
+        "route_dist": {
+          "deep": 249,
+          "accept": 36
+        },
+        "vlm_calls": 7664,
+        "vlm_calls_per_query": 26.891228070175437
+      }
+    }
+  ],
+  "train_queries": 6300,
+  "gain_head": "factorized",
+  "gain_epochs_planned": 3,
+  "learning_rate": 2e-05,
+  "gain_microbatch": 4,
+  "gain_effective_batch": 16,
+  "holdout": {
+    "fraction": 0.3,
+    "seed": 42,
+    "counts": {
+      "selection_train": 6015,
+      "selection_dev": 285,
+      "test": 2700,
+      "final_fit": 6300
+    }
+  },
+  "selection_train_queries": 6015,
+  "gain_training": [
+    {
+      "epoch": 0,
+      "queries_seen": 6015,
+      "optimizer_steps": 376,
+      "peak_cuda_allocated_gib": 9.264811992645264
+    },
+    {
+      "epoch": 1,
+      "queries_seen": 6015,
+      "optimizer_steps": 376,
+      "peak_cuda_allocated_gib": 9.231932163238525
+    },
+    {
+      "epoch": 2,
+      "queries_seen": 6015,
+      "optimizer_steps": 376,
+      "peak_cuda_allocated_gib": 9.27177381515503
+    }
+  ],
+  "selection": {
+    "type": "gain",
+    "gain_head": "factorized",
+    "adapter": "outputs/stage2_clip4clip_qwen3vl8b/routing_experiment/gpu1-plan-b-70-30-lr2e5-VZZm3xdC/refit/gain_epoch_0",
+    "epoch": 0,
+    "harm_weight": 2.0,
+    "dev": {
+      "base": {
+        "n": 285,
+        "R@1": 24.210526315789473,
+        "R@5": 45.614035087719294,
+        "R@10": 59.29824561403508,
+        "MdR": 7.0,
+        "MnR": 55.564912280701755
+      },
+      "new": {
+        "n": 285,
+        "R@1": 32.631578947368425,
+        "R@5": 53.68421052631579,
+        "R@10": 61.05263157894737,
+        "MdR": 5.0,
+        "MnR": 54.94385964912281
+      },
+      "flips": {
+        "harmful_flips": 4,
+        "helpful_flips": 28,
+        "HFR": 5.797101449275362,
+        "HelpR": 12.962962962962964,
+        "net_R@1": 8.421052631578949
+      },
+      "route_dist": {
+        "deep": 250,
+        "accept": 35
+      },
+      "vlm_calls": 7664,
+      "vlm_calls_per_query": 26.891228070175437
+    }
+  },
+  "validation_selection": {
+    "type": "gain",
+    "gain_head": "factorized",
+    "adapter": "outputs/stage2_clip4clip_qwen3vl8b/routing_experiment/gpu1-plan-b-70-30-lr2e5-VZZm3xdC/gain_epoch_0",
+    "epoch": 0,
+    "harm_weight": 2.0,
+    "dev": {
+      "base": {
+        "n": 285,
+        "R@1": 24.210526315789473,
+        "R@5": 45.614035087719294,
+        "R@10": 59.29824561403508,
+        "MdR": 7.0,
+        "MnR": 55.564912280701755
+      },
+      "new": {
+        "n": 285,
+        "R@1": 32.631578947368425,
+        "R@5": 53.68421052631579,
+        "R@10": 61.05263157894737,
+        "MdR": 5.0,
+        "MnR": 54.94385964912281
+      },
+      "flips": {
+        "harmful_flips": 4,
+        "helpful_flips": 28,
+        "HFR": 5.797101449275362,
+        "HelpR": 12.962962962962964,
+        "net_R@1": 8.421052631578949
+      },
+      "route_dist": {
+        "deep": 250,
+        "accept": 35
+      },
+      "vlm_calls": 7664,
+      "vlm_calls_per_query": 26.891228070175437
+    }
+  },
+  "refit_epochs_planned": 1,
+  "refit_training": [
+    {
+      "epoch": 0,
+      "queries_seen": 6300,
+      "optimizer_steps": 394,
+      "peak_cuda_allocated_gib": 9.27066946029663
+    }
+  ],
+  "test_margin_subsamples": {
+    "sample_size": 1000,
+    "repeats": 1000,
+    "seed": 42,
+    "mean_R@1": 30.789700000000003,
+    "central_95pct_R@1": [
+      28.599999999999998,
+      32.9
+    ]
+  },
+  "test_margin": {
+    "base": {
+      "n": 2700,
+      "R@1": 23.666666666666668,
+      "R@5": 46.74074074074074,
+      "R@10": 57.7037037037037,
+      "MdR": 7.0,
+      "MnR": 83.94777777777777
+    },
+    "new": {
+      "n": 2700,
+      "R@1": 30.777777777777775,
+      "R@5": 51.96296296296297,
+      "R@10": 60.96296296296296,
+      "MdR": 5.0,
+      "MnR": 83.35185185185185
+    },
+    "flips": {
+      "harmful_flips": 73,
+      "helpful_flips": 265,
+      "HFR": 11.424100156494523,
+      "HelpR": 12.857836001940806,
+      "net_R@1": 7.11111111111111
+    },
+    "route_dist": {
+      "accept": 334,
+      "deep": 2366
+    },
+    "vlm_calls": 73280,
+    "vlm_calls_per_query": 27.14074074074074
+  },
+  "test_selected": {
+    "base": {
+      "n": 2700,
+      "R@1": 23.666666666666668,
+      "R@5": 46.74074074074074,
+      "R@10": 57.7037037037037,
+      "MdR": 7.0,
+      "MnR": 83.94777777777777
+    },
+    "new": {
+      "n": 2700,
+      "R@1": 30.814814814814817,
+      "R@5": 51.92592592592593,
+      "R@10": 60.88888888888889,
+      "MdR": 5.0,
+      "MnR": 83.35703703703703
+    },
+    "flips": {
+      "harmful_flips": 73,
+      "helpful_flips": 266,
+      "HFR": 11.424100156494523,
+      "HelpR": 12.906356137797186,
+      "net_R@1": 7.148148148148151
+    },
+    "route_dist": {
+      "accept": 333,
+      "deep": 2367
+    },
+    "vlm_calls": 73280,
+    "vlm_calls_per_query": 27.14074074074074
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "qid": "train_video7042_0",
+    "video": "video6222",
+    "old_error": -0.020097978881835843,
+    "matched_error": -4.0610351561554126e-06
+  },
+  {
+    "qid": "train_video6523_0",
+    "video": "video7488",
+    "old_error": 0.020997811523436383,
+    "matched_error": 5.532470702007686e-06
+  },
+  {
+    "qid": "train_video3890_0",
+    "video": "video2817",
+    "old_error": 0.0203034901123047,
+    "matched_error": -2.3608398436181233e-07
+  },
+  {
+    "qid": "train_video1123_0",
+    "video": "video9596",
+    "old_error": 0.02055782397460959,
+    "matched_error": 4.2041015646532287e-07
+  },
+  {
+    "qid": "test_497",
+    "video": "video7114",
+    "old_error": 0.024740686645507992,
+    "matched_error": -3.347167968570375e-06
+  },
+  {
+    "qid": "test_852",
+    "video": "video8013",
+    "old_error": 0.02107839025878988,
+    "matched_error": -1.6268310538691821e-06
+  }
+]

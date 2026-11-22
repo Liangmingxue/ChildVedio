@@ -1,0 +1,238 @@
+Stage-One:True, Stage-Two:False
+Test retrieval by loose type.
+	 embed_dim: 512
+	 image_resolution: 224
+	 vision_layers: 12
+	 vision_width: 768
+	 vision_patch_size: 32
+	 context_length: 77
+	 vocab_size: 49408
+	 transformer_width: 512
+	 transformer_heads: 8
+	 transformer_layers: 12
+		 linear_patch: 2d
+	 cut_top_layer: 0
+	 sim_header: meanP
+CLIP gallery 128/10000
+CLIP gallery 256/10000
+CLIP gallery 384/10000
+CLIP gallery 512/10000
+CLIP gallery 640/10000
+CLIP gallery 768/10000
+CLIP gallery 896/10000
+CLIP gallery 1024/10000
+CLIP gallery 1152/10000
+CLIP gallery 1280/10000
+CLIP gallery 1408/10000
+CLIP gallery 1536/10000
+CLIP gallery 1664/10000
+CLIP gallery 1792/10000
+CLIP gallery 1920/10000
+CLIP gallery 2048/10000
+CLIP gallery 2176/10000
+CLIP gallery 2304/10000
+CLIP gallery 2432/10000
+CLIP gallery 2560/10000
+CLIP gallery 2688/10000
+CLIP gallery 2816/10000
+CLIP gallery 2944/10000
+CLIP gallery 3072/10000
+CLIP gallery 3200/10000
+CLIP gallery 3328/10000
+CLIP gallery 3456/10000
+CLIP gallery 3584/10000
+CLIP gallery 3712/10000
+CLIP gallery 3840/10000
+CLIP gallery 3968/10000
+CLIP gallery 4096/10000
+CLIP gallery 4224/10000
+CLIP gallery 4352/10000
+CLIP gallery 4480/10000
+CLIP gallery 4608/10000
+CLIP gallery 4736/10000
+CLIP gallery 4864/10000
+CLIP gallery 4992/10000
+CLIP gallery 5120/10000
+CLIP gallery 5248/10000
+CLIP gallery 5376/10000
+CLIP gallery 5504/10000
+CLIP gallery 5632/10000
+CLIP gallery 5760/10000
+CLIP gallery 5888/10000
+CLIP gallery 6016/10000
+CLIP gallery 6144/10000
+CLIP gallery 6272/10000
+CLIP gallery 6400/10000
+CLIP gallery 6528/10000
+CLIP gallery 6656/10000
+CLIP gallery 6784/10000
+CLIP gallery 6912/10000
+CLIP gallery 7040/10000
+CLIP gallery 7168/10000
+CLIP gallery 7296/10000
+CLIP gallery 7424/10000
+CLIP gallery 7552/10000
+CLIP gallery 7680/10000
+CLIP gallery 7808/10000
+CLIP gallery 7936/10000
+CLIP gallery 8064/10000
+CLIP gallery 8192/10000
+CLIP gallery 8320/10000
+CLIP gallery 8448/10000
+CLIP gallery 8576/10000
+CLIP gallery 8704/10000
+CLIP gallery 8832/10000
+CLIP gallery 8960/10000
+CLIP gallery 9000/10000
+CLIP gallery 9128/10000
+CLIP gallery 9256/10000
+CLIP gallery 9384/10000
+CLIP gallery 9512/10000
+CLIP gallery 9640/10000
+CLIP gallery 9768/10000
+CLIP gallery 9896/10000
+CLIP gallery 10000/10000
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 21682.18it/s]
+Qwen states 128/5312
+Qwen states 256/5312
+Qwen states 384/5312
+Qwen states 512/5312
+Qwen states 640/5312
+Qwen states 768/5312
+Qwen states 896/5312
+Qwen states 1024/5312
+Qwen states 1152/5312
+Qwen states 1280/5312
+Qwen states 1408/5312
+Qwen states 1536/5312
+Qwen states 1664/5312
+Qwen states 1792/5312
+Qwen states 1920/5312
+Qwen states 2048/5312
+Qwen states 2176/5312
+Qwen states 2304/5312
+Qwen states 2432/5312
+Qwen states 2560/5312
+Qwen states 2688/5312
+Qwen states 2816/5312
+Qwen states 2944/5312
+Qwen states 3072/5312
+Qwen states 3200/5312
+Qwen states 3328/5312
+Qwen states 3456/5312
+Qwen states 3584/5312
+Qwen states 3712/5312
+Qwen states 3840/5312
+Qwen states 3968/5312
+Qwen states 4096/5312
+Qwen states 4224/5312
+Qwen states 4352/5312
+Qwen states 4480/5312
+Qwen states 4608/5312
+Qwen states 4736/5312
+Qwen states 4864/5312
+Qwen states 4992/5312
+Qwen states 5120/5312
+Qwen states 5248/5312
+Qwen states 5312/5312
+text_only warmup epoch=0 step=20 seen=320/3435
+text_only warmup epoch=0 step=40 seen=640/3435
+text_only warmup epoch=0 step=60 seen=960/3435
+text_only warmup epoch=0 step=80 seen=1280/3435
+text_only warmup epoch=0 step=100 seen=1600/3435
+text_only warmup epoch=0 step=120 seen=1920/3435
+text_only warmup epoch=0 step=140 seen=2240/3435
+text_only warmup epoch=0 step=160 seen=2560/3435
+text_only warmup epoch=0 step=180 seen=2880/3435
+text_only warmup epoch=0 step=200 seen=3200/3435
+text_only warmup epoch=0 weight=1.0 dev_R1=33.333 harms=4
+text_only warmup epoch=0 weight=2.0 dev_R1=32.632 harms=4
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17437.57it/s]
+text_only joint epoch=0 step=20 seen=320/3435
+text_only joint epoch=0 step=40 seen=640/3435
+text_only joint epoch=0 step=60 seen=960/3435
+text_only joint epoch=0 step=80 seen=1280/3435
+text_only joint epoch=0 step=100 seen=1600/3435
+text_only joint epoch=0 step=120 seen=1920/3435
+text_only joint epoch=0 step=140 seen=2240/3435
+text_only joint epoch=0 step=160 seen=2560/3435
+text_only joint epoch=0 step=180 seen=2880/3435
+text_only joint epoch=0 step=200 seen=3200/3435
+text_only joint epoch=0 weight=1.0 dev_R1=32.982 harms=5
+text_only joint epoch=0 weight=2.0 dev_R1=32.982 harms=5
+text_only joint epoch=1 step=20 seen=320/3435
+text_only joint epoch=1 step=40 seen=640/3435
+text_only joint epoch=1 step=60 seen=960/3435
+text_only joint epoch=1 step=80 seen=1280/3435
+text_only joint epoch=1 step=100 seen=1600/3435
+text_only joint epoch=1 step=120 seen=1920/3435
+text_only joint epoch=1 step=140 seen=2240/3435
+text_only joint epoch=1 step=160 seen=2560/3435
+text_only joint epoch=1 step=180 seen=2880/3435
+text_only joint epoch=1 step=200 seen=3200/3435
+text_only joint epoch=1 weight=1.0 dev_R1=32.632 harms=5
+text_only joint epoch=1 weight=2.0 dev_R1=32.632 harms=5
+text_only joint epoch=2 step=20 seen=320/3435
+text_only joint epoch=2 step=40 seen=640/3435
+text_only joint epoch=2 step=60 seen=960/3435
+text_only joint epoch=2 step=80 seen=1280/3435
+text_only joint epoch=2 step=100 seen=1600/3435
+text_only joint epoch=2 step=120 seen=1920/3435
+text_only joint epoch=2 step=140 seen=2240/3435
+text_only joint epoch=2 step=160 seen=2560/3435
+text_only joint epoch=2 step=180 seen=2880/3435
+text_only joint epoch=2 step=200 seen=3200/3435
+text_only joint epoch=2 weight=1.0 dev_R1=32.982 harms=5
+text_only joint epoch=2 weight=2.0 dev_R1=33.333 harms=5
+candidate warmup epoch=0 step=20 seen=320/3435
+candidate warmup epoch=0 step=40 seen=640/3435
+candidate warmup epoch=0 step=60 seen=960/3435
+candidate warmup epoch=0 step=80 seen=1280/3435
+candidate warmup epoch=0 step=100 seen=1600/3435
+candidate warmup epoch=0 step=120 seen=1920/3435
+candidate warmup epoch=0 step=140 seen=2240/3435
+candidate warmup epoch=0 step=160 seen=2560/3435
+candidate warmup epoch=0 step=180 seen=2880/3435
+candidate warmup epoch=0 step=200 seen=3200/3435
+candidate warmup epoch=0 weight=1.0 dev_R1=33.333 harms=4
+candidate warmup epoch=0 weight=2.0 dev_R1=32.632 harms=4
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18035.34it/s]
+candidate joint epoch=0 step=20 seen=320/3435
+candidate joint epoch=0 step=40 seen=640/3435
+candidate joint epoch=0 step=60 seen=960/3435
+candidate joint epoch=0 step=80 seen=1280/3435
+candidate joint epoch=0 step=100 seen=1600/3435
+candidate joint epoch=0 step=120 seen=1920/3435
+candidate joint epoch=0 step=140 seen=2240/3435
+candidate joint epoch=0 step=160 seen=2560/3435
+candidate joint epoch=0 step=180 seen=2880/3435
+candidate joint epoch=0 step=200 seen=3200/3435
+candidate joint epoch=0 weight=1.0 dev_R1=32.982 harms=6
+candidate joint epoch=0 weight=2.0 dev_R1=33.333 harms=5
+candidate joint epoch=1 step=20 seen=320/3435
+candidate joint epoch=1 step=40 seen=640/3435
+candidate joint epoch=1 step=60 seen=960/3435
+candidate joint epoch=1 step=80 seen=1280/3435
+candidate joint epoch=1 step=100 seen=1600/3435
+candidate joint epoch=1 step=120 seen=1920/3435
+candidate joint epoch=1 step=140 seen=2240/3435
+candidate joint epoch=1 step=160 seen=2560/3435
+candidate joint epoch=1 step=180 seen=2880/3435
+candidate joint epoch=1 step=200 seen=3200/3435
+candidate joint epoch=1 weight=1.0 dev_R1=31.930 harms=5
+candidate joint epoch=1 weight=2.0 dev_R1=32.281 harms=5
+candidate joint epoch=2 step=20 seen=320/3435
+candidate joint epoch=2 step=40 seen=640/3435
+candidate joint epoch=2 step=60 seen=960/3435
+candidate joint epoch=2 step=80 seen=1280/3435
+candidate joint epoch=2 step=100 seen=1600/3435
+candidate joint epoch=2 step=120 seen=1920/3435
+candidate joint epoch=2 step=140 seen=2240/3435
+candidate joint epoch=2 step=160 seen=2560/3435
+candidate joint epoch=2 step=180 seen=2880/3435
+candidate joint epoch=2 step=200 seen=3200/3435
+candidate joint epoch=2 weight=1.0 dev_R1=31.930 harms=5
+candidate joint epoch=2 weight=2.0 dev_R1=32.982 harms=5
+text_only TEST R1=50.600 harms=24 calls=27824
+candidate TEST R1=50.600 harms=24 calls=27824

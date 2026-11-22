@@ -1,0 +1,31 @@
+{
+  "stage_config": "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/config.yaml",
+  "base_data": "outputs/stage2_clip4clip_qwen3vl8b/router_data/router_data.jsonl",
+  "extra_data": "outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/progress.jsonl",
+  "budget_report": "outputs/stage2_clip4clip_qwen3vl8b/routing_control/test_matched_budget_prompt_with_margin.json",
+  "seed": 42,
+  "deep_fraction": 0.876,
+  "variants": [
+    "text_only",
+    "candidate"
+  ],
+  "workers": 4,
+  "video_batch_size": 8,
+  "eval_batch_size": 4,
+  "warmup_epochs": 1,
+  "joint_epochs": 3,
+  "warmup_lr": 0.0003,
+  "lora_lr": 2e-05,
+  "head_lr": 0.0001,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.03,
+  "effective_batch": 16,
+  "microbatch": 4,
+  "hidden_dim": 128,
+  "pointer_dim": 128,
+  "dropout": 0.1,
+  "harm_weights": [
+    1.0,
+    2.0
+  ]
+}

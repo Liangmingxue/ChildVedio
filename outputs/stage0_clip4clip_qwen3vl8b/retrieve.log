@@ -1,0 +1,1 @@
+test: n=1000 R@1=39.60 R@5=67.20 R@10=78.00 MdR=2.0 -> outputs/stage0_clip4clip_qwen3vl8b/retrieval/test.jsonl

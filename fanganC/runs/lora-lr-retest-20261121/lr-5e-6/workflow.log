@@ -1,0 +1,52 @@
+candidate warmup epoch=0 step=20 seen=320/3435
+candidate warmup epoch=0 step=40 seen=640/3435
+candidate warmup epoch=0 step=60 seen=960/3435
+candidate warmup epoch=0 step=80 seen=1280/3435
+candidate warmup epoch=0 step=100 seen=1600/3435
+candidate warmup epoch=0 step=120 seen=1920/3435
+candidate warmup epoch=0 step=140 seen=2240/3435
+candidate warmup epoch=0 step=160 seen=2560/3435
+candidate warmup epoch=0 step=180 seen=2880/3435
+candidate warmup epoch=0 step=200 seen=3200/3435
+candidate warmup epoch=0 weight=1.0 dev_R1=33.333 harms=4
+candidate warmup epoch=0 weight=2.0 dev_R1=32.632 harms=4
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18578.90it/s]
+candidate joint epoch=0 step=20 seen=320/3435
+candidate joint epoch=0 step=40 seen=640/3435
+candidate joint epoch=0 step=60 seen=960/3435
+candidate joint epoch=0 step=80 seen=1280/3435
+candidate joint epoch=0 step=100 seen=1600/3435
+candidate joint epoch=0 step=120 seen=1920/3435
+candidate joint epoch=0 step=140 seen=2240/3435
+candidate joint epoch=0 step=160 seen=2560/3435
+candidate joint epoch=0 step=180 seen=2880/3435
+candidate joint epoch=0 step=200 seen=3200/3435
+candidate joint epoch=0 weight=1.0 dev_R1=32.982 harms=6
+candidate joint epoch=0 weight=2.0 dev_R1=34.035 harms=3
+candidate joint epoch=1 step=20 seen=320/3435
+candidate joint epoch=1 step=40 seen=640/3435
+candidate joint epoch=1 step=60 seen=960/3435
+candidate joint epoch=1 step=80 seen=1280/3435
+candidate joint epoch=1 step=100 seen=1600/3435
+candidate joint epoch=1 step=120 seen=1920/3435
+candidate joint epoch=1 step=140 seen=2240/3435
+candidate joint epoch=1 step=160 seen=2560/3435
+candidate joint epoch=1 step=180 seen=2880/3435
+candidate joint epoch=1 step=200 seen=3200/3435
+candidate joint epoch=1 weight=1.0 dev_R1=31.930 harms=5
+candidate joint epoch=1 weight=2.0 dev_R1=32.632 harms=5
+candidate joint epoch=2 step=20 seen=320/3435
+candidate joint epoch=2 step=40 seen=640/3435
+candidate joint epoch=2 step=60 seen=960/3435
+candidate joint epoch=2 step=80 seen=1280/3435
+candidate joint epoch=2 step=100 seen=1600/3435
+candidate joint epoch=2 step=120 seen=1920/3435
+candidate joint epoch=2 step=140 seen=2240/3435
+candidate joint epoch=2 step=160 seen=2560/3435
+candidate joint epoch=2 step=180 seen=2880/3435
+candidate joint epoch=2 step=200 seen=3200/3435
+candidate joint epoch=2 weight=1.0 dev_R1=31.930 harms=5
+candidate joint epoch=2 weight=2.0 dev_R1=32.281 harms=5
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17274.62it/s]
+candidate TEST R1=50.100 harms=22 calls=27824

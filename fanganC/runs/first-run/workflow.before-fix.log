@@ -1,0 +1,105 @@
+Stage-One:True, Stage-Two:False
+Test retrieval by loose type.
+	 embed_dim: 512
+	 image_resolution: 224
+	 vision_layers: 12
+	 vision_width: 768
+	 vision_patch_size: 32
+	 context_length: 77
+	 vocab_size: 49408
+	 transformer_width: 512
+	 transformer_heads: 8
+	 transformer_layers: 12
+		 linear_patch: 2d
+	 cut_top_layer: 0
+	 sim_header: meanP
+CLIP candidates 128/9780
+CLIP candidates 256/9780
+CLIP candidates 384/9780
+CLIP candidates 512/9780
+CLIP candidates 640/9780
+CLIP candidates 768/9780
+CLIP candidates 896/9780
+CLIP candidates 1024/9780
+CLIP candidates 1152/9780
+CLIP candidates 1280/9780
+CLIP candidates 1408/9780
+CLIP candidates 1536/9780
+CLIP candidates 1664/9780
+CLIP candidates 1792/9780
+CLIP candidates 1920/9780
+CLIP candidates 2048/9780
+CLIP candidates 2176/9780
+CLIP candidates 2304/9780
+CLIP candidates 2432/9780
+CLIP candidates 2560/9780
+CLIP candidates 2688/9780
+CLIP candidates 2816/9780
+CLIP candidates 2944/9780
+CLIP candidates 3072/9780
+CLIP candidates 3200/9780
+CLIP candidates 3328/9780
+CLIP candidates 3456/9780
+CLIP candidates 3584/9780
+CLIP candidates 3712/9780
+CLIP candidates 3840/9780
+CLIP candidates 3968/9780
+CLIP candidates 4096/9780
+CLIP candidates 4224/9780
+CLIP candidates 4352/9780
+CLIP candidates 4480/9780
+CLIP candidates 4608/9780
+CLIP candidates 4736/9780
+CLIP candidates 4864/9780
+CLIP candidates 4992/9780
+CLIP candidates 5120/9780
+CLIP candidates 5248/9780
+CLIP candidates 5376/9780
+CLIP candidates 5504/9780
+CLIP candidates 5632/9780
+CLIP candidates 5760/9780
+CLIP candidates 5888/9780
+CLIP candidates 6016/9780
+CLIP candidates 6144/9780
+CLIP candidates 6272/9780
+CLIP candidates 6400/9780
+CLIP candidates 6528/9780
+CLIP candidates 6656/9780
+CLIP candidates 6784/9780
+CLIP candidates 6912/9780
+CLIP candidates 7040/9780
+CLIP candidates 7168/9780
+CLIP candidates 7296/9780
+CLIP candidates 7424/9780
+CLIP candidates 7552/9780
+CLIP candidates 7680/9780
+CLIP candidates 7808/9780
+CLIP candidates 7936/9780
+CLIP candidates 8064/9780
+CLIP candidates 8192/9780
+CLIP candidates 8320/9780
+CLIP candidates 8448/9780
+CLIP candidates 8576/9780
+CLIP candidates 8704/9780
+CLIP candidates 8832/9780
+CLIP candidates 8960/9780
+CLIP candidates 9088/9780
+CLIP candidates 9216/9780
+CLIP candidates 9344/9780
+CLIP candidates 9472/9780
+CLIP candidates 9600/9780
+CLIP candidates 9728/9780
+CLIP candidates 9780/9780
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/fanganC/__main__.py", line 66, in <module>
+    main()
+  File "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/fanganC/__main__.py", line 39, in main
+    clip_features(run_dir, args.device)
+  File "/home/omnisky/miniconda3/envs/chart-vllm/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/fanganC/features.py", line 129, in clip_features
+    raise ValueError(f"CLIP features do not reproduce saved retrieval scores: max error={max(errors):.6f}")
+ValueError: CLIP features do not reproduce saved retrieval scores: max error=0.027117

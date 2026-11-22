@@ -1,0 +1,170 @@
+{
+  "signature": "0d999c6657dfe1685d7780c13820c5ae94c7400fc89c40001d426c21d721b60e",
+  "config": {
+    "seed": 42,
+    "paths": {
+      "data_dir": "temp/stage2_live/data",
+      "frames_dir": "temp/stage2_live/frames",
+      "work_dir": "temp/stage2_live"
+    },
+    "frames": {
+      "n_frames": 8,
+      "max_side": 336,
+      "store_side": 448
+    },
+    "retriever": {
+      "model": "openai/clip-vit-large-patch14",
+      "batch_size": 64,
+      "n_frames": 12,
+      "topk": 16,
+      "stat_temp": 1.0000000762939454,
+      "stat_k": 10
+    },
+    "vlm": {
+      "base_url": "http://127.0.0.1:8000/v1",
+      "model": "/home/omnisky/xlm/newtask/charttrans-workspace/model/Qwen3-VL-8B-Instruct-FP8",
+      "concurrency": 32,
+      "option_temp": 1.0,
+      "n_perm": 2,
+      "yes_no_token_ids": [
+        9454,
+        9693,
+        14004,
+        7414,
+        9834,
+        14080,
+        2753,
+        2152,
+        8996,
+        2308,
+        902,
+        5664
+      ],
+      "option_token_ids": {
+        "A": [
+          32,
+          362
+        ],
+        "B": [
+          33,
+          425
+        ],
+        "C": [
+          34,
+          356
+        ],
+        "D": [
+          35,
+          422
+        ],
+        "E": [
+          36,
+          468
+        ]
+      }
+    },
+    "llm": {
+      "base_url": "http://127.0.0.1:8001/v1",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "concurrency": 32,
+      "temperature": 0.7,
+      "max_tokens": 256
+    },
+    "cfgen": {
+      "base_url": "http://127.0.0.1:8001/v1",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "concurrency": 32,
+      "temperature": 0.7,
+      "max_tokens": 256
+    },
+    "cf": {
+      "m": 3,
+      "nli_model": "data/models/nli-deberta-v3-base",
+      "nli_thr": 0.5,
+      "nli_device": "cuda:0"
+    },
+    "rerank": {
+      "k_light": 5,
+      "k_deep": 16,
+      "beta": 0.7,
+      "empty_cf_fallback": true
+    },
+    "router": {
+      "base_model": "data/models/qwen3-4b",
+      "device": "cuda:0",
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "lr": 0.0001,
+      "epochs": 3,
+      "batch_size": 8,
+      "eval_batch_size": 16,
+      "grad_accum": 2,
+      "max_len": 768,
+      "fragile_weight": 0.5,
+      "n_train_queries": 3000,
+      "dev_frac": 0.1,
+      "calib_frac": 0.2,
+      "alpha": 0.05
+    },
+    "grpo": {
+      "policy_model": "Qwen/Qwen2.5-3B-Instruct",
+      "device": "cuda:0",
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "lr": 2e-05,
+      "warmup_steps": 10,
+      "steps": 400,
+      "batch_queries": 4,
+      "group_size": 8,
+      "max_new_tokens": 128,
+      "temperature": 1.0,
+      "top_p": 1.0,
+      "m": 3,
+      "m_max": 5,
+      "n_neg": 3,
+      "max_gt_rank": 20,
+      "eps_low": 0.2,
+      "eps_high": 0.28,
+      "beta_kl": 0.0,
+      "lam_count": 0.02,
+      "r_invalid": -1.0,
+      "micro_batch": 4,
+      "max_grad_norm": 1.0,
+      "save_every": 100
+    }
+  },
+  "qids": [
+    "train_video2051_0",
+    "train_video214_0",
+    "train_video6482_0",
+    "train_video2246_0",
+    "train_video9767_0",
+    "train_video8717_0",
+    "train_video1337_0",
+    "train_video8977_0",
+    "train_video1318_0",
+    "train_video6157_0",
+    "train_video3997_0",
+    "train_video1079_0",
+    "train_video4356_0",
+    "train_video3679_0",
+    "train_video797_0",
+    "train_video9594_0",
+    "train_video6120_0",
+    "train_video7276_0",
+    "train_video3697_0",
+    "train_video8732_0",
+    "train_video2350_0",
+    "train_video3846_0",
+    "train_video3433_0",
+    "train_video4396_0",
+    "train_video1395_0",
+    "train_video6163_0",
+    "train_video2944_0",
+    "train_video7958_0",
+    "train_video3725_0",
+    "train_video2693_0",
+    "train_video1376_0",
+    "train_video8208_0"
+  ]
+}

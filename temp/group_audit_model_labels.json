@@ -1,0 +1,3101 @@
+{
+  "model": "/home/omnisky/xlm/newtask/charttrans-workspace/model/Qwen3-VL-8B-Instruct-FP8",
+  "query_labels": {
+    "temporal": [
+      "test_9",
+      "test_14",
+      "test_17",
+      "test_37",
+      "test_72",
+      "test_83",
+      "test_99",
+      "test_100",
+      "test_101",
+      "test_102",
+      "test_103",
+      "test_105",
+      "test_106",
+      "test_107",
+      "test_108",
+      "test_109",
+      "test_110",
+      "test_111",
+      "test_112",
+      "test_113",
+      "test_114",
+      "test_115",
+      "test_116",
+      "test_117",
+      "test_118",
+      "test_119",
+      "test_120",
+      "test_121",
+      "test_122",
+      "test_123",
+      "test_124",
+      "test_133",
+      "test_153",
+      "test_174",
+      "test_176",
+      "test_180",
+      "test_181",
+      "test_183",
+      "test_184",
+      "test_186",
+      "test_187",
+      "test_188",
+      "test_191",
+      "test_192",
+      "test_193",
+      "test_195",
+      "test_196",
+      "test_197",
+      "test_198",
+      "test_199",
+      "test_209",
+      "test_225",
+      "test_253",
+      "test_278",
+      "test_281",
+      "test_286",
+      "test_297",
+      "test_301",
+      "test_307",
+      "test_310",
+      "test_313",
+      "test_318",
+      "test_321",
+      "test_325",
+      "test_326",
+      "test_328",
+      "test_329",
+      "test_330",
+      "test_331",
+      "test_332",
+      "test_333",
+      "test_334",
+      "test_335",
+      "test_336",
+      "test_337",
+      "test_338",
+      "test_339",
+      "test_340",
+      "test_341",
+      "test_342",
+      "test_343",
+      "test_344",
+      "test_345",
+      "test_346",
+      "test_347",
+      "test_348",
+      "test_349",
+      "test_353",
+      "test_363",
+      "test_364",
+      "test_373",
+      "test_375",
+      "test_381",
+      "test_391",
+      "test_400",
+      "test_401",
+      "test_402",
+      "test_403",
+      "test_404",
+      "test_405",
+      "test_406",
+      "test_407",
+      "test_408",
+      "test_409",
+      "test_410",
+      "test_411",
+      "test_412",
+      "test_413",
+      "test_414",
+      "test_415",
+      "test_416",
+      "test_417",
+      "test_418",
+      "test_419",
+      "test_420",
+      "test_421",
+      "test_422",
+      "test_423",
+      "test_424",
+      "test_428",
+      "test_436",
+      "test_444",
+      "test_449",
+      "test_451",
+      "test_452",
+      "test_454",
+      "test_455",
+      "test_456",
+      "test_457",
+      "test_458",
+      "test_459",
+      "test_460",
+      "test_461",
+      "test_462",
+      "test_463",
+      "test_464",
+      "test_465",
+      "test_466",
+      "test_467",
+      "test_468",
+      "test_469",
+      "test_470",
+      "test_471",
+      "test_472",
+      "test_473",
+      "test_474",
+      "test_477",
+      "test_484",
+      "test_492",
+      "test_494",
+      "test_499",
+      "test_500",
+      "test_542",
+      "test_552",
+      "test_554",
+      "test_555",
+      "test_556",
+      "test_558",
+      "test_559",
+      "test_560",
+      "test_561",
+      "test_562",
+      "test_563",
+      "test_564",
+      "test_565",
+      "test_566",
+      "test_567",
+      "test_568",
+      "test_569",
+      "test_570",
+      "test_571",
+      "test_572",
+      "test_573",
+      "test_574",
+      "test_575",
+      "test_584",
+      "test_594",
+      "test_600",
+      "test_601",
+      "test_602",
+      "test_603",
+      "test_604",
+      "test_605",
+      "test_606",
+      "test_607",
+      "test_608",
+      "test_609",
+      "test_610",
+      "test_611",
+      "test_612",
+      "test_613",
+      "test_614",
+      "test_615",
+      "test_616",
+      "test_617",
+      "test_618",
+      "test_619",
+      "test_620",
+      "test_621",
+      "test_622",
+      "test_623",
+      "test_624",
+      "test_625",
+      "test_626",
+      "test_627",
+      "test_628",
+      "test_629",
+      "test_630",
+      "test_631",
+      "test_632",
+      "test_633",
+      "test_634",
+      "test_635",
+      "test_636",
+      "test_637",
+      "test_638",
+      "test_639",
+      "test_640",
+      "test_641",
+      "test_642",
+      "test_643",
+      "test_644",
+      "test_645",
+      "test_646",
+      "test_647",
+      "test_648",
+      "test_649",
+      "test_678",
+      "test_687",
+      "test_732",
+      "test_750",
+      "test_751",
+      "test_752",
+      "test_753",
+      "test_754",
+      "test_755",
+      "test_756",
+      "test_757",
+      "test_758",
+      "test_759",
+      "test_760",
+      "test_761",
+      "test_762",
+      "test_763",
+      "test_764",
+      "test_765",
+      "test_766",
+      "test_767",
+      "test_768",
+      "test_769",
+      "test_770",
+      "test_771",
+      "test_772",
+      "test_773",
+      "test_774",
+      "test_777",
+      "test_784",
+      "test_795",
+      "test_809",
+      "test_825",
+      "test_827",
+      "test_828",
+      "test_829",
+      "test_832",
+      "test_833",
+      "test_834",
+      "test_835",
+      "test_836",
+      "test_837",
+      "test_838",
+      "test_839",
+      "test_840",
+      "test_841",
+      "test_843",
+      "test_844",
+      "test_845",
+      "test_846",
+      "test_847",
+      "test_848",
+      "test_849",
+      "test_852",
+      "test_856",
+      "test_857",
+      "test_860",
+      "test_862",
+      "test_867",
+      "test_874",
+      "test_875",
+      "test_883",
+      "test_891",
+      "test_892",
+      "test_893",
+      "test_898",
+      "test_913",
+      "test_921",
+      "test_928",
+      "test_940",
+      "test_954",
+      "test_969",
+      "test_973",
+      "test_986",
+      "test_998"
+    ],
+    "negation": [
+      "test_196",
+      "test_305",
+      "test_311",
+      "test_312",
+      "test_314",
+      "test_315",
+      "test_316",
+      "test_317",
+      "test_319",
+      "test_320",
+      "test_324",
+      "test_376",
+      "test_389",
+      "test_399",
+      "test_809",
+      "test_840"
+    ]
+  },
+  "pairs": [
+    {
+      "qid": "test_1",
+      "rival": "video8507",
+      "label": "action",
+      "reason": "girl doing a flip in her yard",
+      "caption_quote": "girl doing a flip in her yard"
+    },
+    {
+      "qid": "test_2",
+      "rival": "video8620",
+      "label": "other",
+      "reason": "All captions describe general crafting, not fondant baby/flower creation.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_5",
+      "rival": "video7134",
+      "label": "other",
+      "reason": "no action contrast; all captions describe classroom learning context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_6",
+      "rival": "video9826",
+      "label": "other",
+      "reason": "Mickey mouse driving car ≠ talking to others.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_9",
+      "rival": "video8798",
+      "label": "other",
+      "reason": "All captions describe fireworks exploding, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_10",
+      "rival": "video8573",
+      "label": "other",
+      "reason": "all captions describe singing, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_14",
+      "rival": "video7027",
+      "label": "other",
+      "reason": "All captions describe TV screens or movies, not rocket launch.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_21",
+      "rival": "video9300",
+      "label": "other",
+      "reason": "Squidward works register, not control panel.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_28",
+      "rival": "video7365",
+      "label": "other",
+      "reason": "No hairdresser, client, or kid voices mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_32",
+      "rival": "video8175",
+      "label": "other",
+      "reason": "All captions describe news anchors delivering news, not discussing a strange sight in San Diego.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_38",
+      "rival": "video9772",
+      "label": "other",
+      "reason": "No caption describes child watching bird in open box.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_40",
+      "rival": "video9817",
+      "label": "other",
+      "reason": "All captions describe soccer actions, matching query's football context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_43",
+      "rival": "video8789",
+      "label": "other",
+      "reason": "All captions discuss books/religion, not debate rules.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_44",
+      "rival": "video8973",
+      "label": "action",
+      "reason": "driving down road vs stopped at intersection",
+      "caption_quote": "a red car and a silver car are at halt with music"
+    },
+    {
+      "qid": "test_47",
+      "rival": "video7117",
+      "label": "other",
+      "reason": "singing and dancing are compatible actions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_48",
+      "rival": "video8830",
+      "label": "other",
+      "reason": "All captions describe public speaking, not specific NASA report discussion.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_54",
+      "rival": "video9347",
+      "label": "other",
+      "reason": "No caption shows woman holding leather jacket.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_55",
+      "rival": "video9235",
+      "label": "other",
+      "reason": "No caption describes a reporter asking questions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_59",
+      "rival": "video9208",
+      "label": "other",
+      "reason": "No action matches person on orange bike falling.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_61",
+      "rival": "video8556",
+      "label": "other",
+      "reason": "dancing vs performing music not a fine-grained action contrast.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_62",
+      "rival": "video7166",
+      "label": "other",
+      "reason": "All captions involve computer use, matching query's core activity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_63",
+      "rival": "video7577",
+      "label": "other",
+      "reason": "All captions discuss talking about planets or science, not jeans or fashion trends.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_64",
+      "rival": "video7203",
+      "label": "action",
+      "reason": "playing pokemon vs playing a video game",
+      "caption_quote": "a person is playing pokemon"
+    },
+    {
+      "qid": "test_65",
+      "rival": "video9793",
+      "label": "other",
+      "reason": "candidate captions show interviews or performances, not two women sitting and speaking on sites.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_72",
+      "rival": "video8973",
+      "label": "other",
+      "reason": "No concrete action contrast; all captions describe cars interacting or driving.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_74",
+      "rival": "video7467",
+      "label": "other",
+      "reason": "no walking upstairs or caged fence mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_75",
+      "rival": "video8864",
+      "label": "other",
+      "reason": "All captions describe reporting about a shooting or related topic.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_76",
+      "rival": "video7577",
+      "label": "other",
+      "reason": "All captions discuss talking about planets or science, not Brazil protest.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_79",
+      "rival": "video9510",
+      "label": "action",
+      "reason": "pikachu talking to another pokemon",
+      "caption_quote": "pikachu talking to another pokemon"
+    },
+    {
+      "qid": "test_82",
+      "rival": "video9233",
+      "label": "other",
+      "reason": "All captions describe speech-giving, matching query's core action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_83",
+      "rival": "video7229",
+      "label": "action",
+      "reason": "subscribe to her webcasts appears",
+      "caption_quote": "a woman talking to the camera asking for people to subscribe to her channel"
+    },
+    {
+      "qid": "test_88",
+      "rival": "video8923",
+      "label": "other",
+      "reason": "All captions describe women walking runway in fashion show.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_90",
+      "rival": "video9308",
+      "label": "other",
+      "reason": "All captions describe women walking on runway, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_95",
+      "rival": "video9772",
+      "label": "action",
+      "reason": "bird flying matches query action",
+      "caption_quote": "a yellow animated bird flies through a valley"
+    },
+    {
+      "qid": "test_97",
+      "rival": "video7549",
+      "label": "other",
+      "reason": "No one discusses cushion seat or matching red dress.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_98",
+      "rival": "video9503",
+      "label": "other",
+      "reason": "All captions discuss jeans and fashion, not Photoshop tutorial.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_100",
+      "rival": "video8828",
+      "label": "other",
+      "reason": "All captions discuss movie-related discussions, matching query's theme.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_103",
+      "rival": "video8906",
+      "label": "other",
+      "reason": "people placing flowers, not holding signs as queried.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_104",
+      "rival": "video8313",
+      "label": "other",
+      "reason": "All captions describe playing or discussing video games, matching the query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_110",
+      "rival": "video8932",
+      "label": "other",
+      "reason": "No fine-grained action contrast; all captions describe interview/talk show context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_113",
+      "rival": "video8326",
+      "label": "other",
+      "reason": "candidate captions show giving money or food, not feeding action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_114",
+      "rival": "video7141",
+      "label": "other",
+      "reason": "candidate captions lack pink dress fashion model detail.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_115",
+      "rival": "video7833",
+      "label": "other",
+      "reason": "man holding cup while talking, not action contrast.",
+      "caption_quote": "a man holds a coffee cup while talking about business"
+    },
+    {
+      "qid": "test_119",
+      "rival": "video9343",
+      "label": "other",
+      "reason": "All captions involve serving food, not caring for abandoned children.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_121",
+      "rival": "video7461",
+      "label": "action",
+      "reason": "woman playing guitar contradicts 'plays instruments' in field",
+      "caption_quote": "a rock concert outside with a woman playing the guitar and singing"
+    },
+    {
+      "qid": "test_125",
+      "rival": "video7837",
+      "label": "other",
+      "reason": "no bridge or rain mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_128",
+      "rival": "video7218",
+      "label": "other",
+      "reason": "no swimming or monkey on tree mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_130",
+      "rival": "video8327",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all describe horses in barn/stable settings.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_133",
+      "rival": "video8864",
+      "label": "other",
+      "reason": "no action described matching police officer driving car.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_144",
+      "rival": "video8905",
+      "label": "other",
+      "reason": "candidate captions lack mention of striped shirt or Bloomberg newsroom.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_145",
+      "rival": "video9790",
+      "label": "action",
+      "reason": "squidward riding his bike matches bicycle riding",
+      "caption_quote": "squidward riding his bike"
+    },
+    {
+      "qid": "test_146",
+      "rival": "video8303",
+      "label": "other",
+      "reason": "no dancing or girl with hat mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_148",
+      "rival": "video7177",
+      "label": "other",
+      "reason": "All captions describe dancing/singing, matching photo shoot context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_150",
+      "rival": "video9238",
+      "label": "other",
+      "reason": "Elevator scene vs subway location mismatch.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_159",
+      "rival": "video7910",
+      "label": "other",
+      "reason": "All captions describe explaining/demonstrating electronics, not repairing.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_161",
+      "rival": "video8128",
+      "label": "action",
+      "reason": "squidward rides bike outside house",
+      "caption_quote": "squidward tentacles gets on a bike and rides it outside of the house"
+    },
+    {
+      "qid": "test_162",
+      "rival": "video7731",
+      "label": "other",
+      "reason": "All captions describe comparable discussion action with woman and two men.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_164",
+      "rival": "video7115",
+      "label": "other",
+      "reason": "All captions describe man talking about car features or review.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_165",
+      "rival": "video7358",
+      "label": "other",
+      "reason": "No caption describes man running into crowd to catch basketball.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_170",
+      "rival": "video9813",
+      "label": "other",
+      "reason": "All captions describe video game context, not real-world building destination.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_172",
+      "rival": "video9548",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all involve talking, not former job discussion.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_174",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "no specific action of putting vegetable in water to boil is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_177",
+      "rival": "video8664",
+      "label": "other",
+      "reason": "No concrete action contrast with shopping; all involve queuing or ice cream service.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_178",
+      "rival": "video8079",
+      "label": "action",
+      "reason": "men rowing boats swiftly in a boat race",
+      "caption_quote": "men are rowing boats swiftly in a boat race"
+    },
+    {
+      "qid": "test_179",
+      "rival": "video9200",
+      "label": "other",
+      "reason": "No dog-cat standoff; all captions describe Sims pets in game.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_180",
+      "rival": "video9249",
+      "label": "other",
+      "reason": "All captions describe talking, not specifically about DNA force.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_181",
+      "rival": "video7725",
+      "label": "other",
+      "reason": "No caption mentions holding Coke or specific drink.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_182",
+      "rival": "video8478",
+      "label": "other",
+      "reason": "cat licking baby's foot, not tail.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_187",
+      "rival": "video8022",
+      "label": "other",
+      "reason": "All captions describe news reporting, not talking about city growth.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_188",
+      "rival": "video9201",
+      "label": "other",
+      "reason": "no one is being interviewed by a beach.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_196",
+      "rival": "video7467",
+      "label": "other",
+      "reason": "No caption describes princess trying not to cry.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_198",
+      "rival": "video8116",
+      "label": "other",
+      "reason": "All captions show man and child playing, matching query's core action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_209",
+      "rival": "video9537",
+      "label": "other",
+      "reason": "no action contrast; all captions describe food preparation for a woman.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_210",
+      "rival": "video8902",
+      "label": "other",
+      "reason": "no beach, cabins, or walkways mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_212",
+      "rival": "video7020",
+      "label": "action",
+      "reason": "woman creates fondant baby and flower",
+      "caption_quote": "a woman creating a fondant baby and flower"
+    },
+    {
+      "qid": "test_213",
+      "rival": "video9508",
+      "label": "other",
+      "reason": "No action of pushing car down assembly line is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_218",
+      "rival": "video7206",
+      "label": "other",
+      "reason": "All captions describe Syria, not an unknown Asian country.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_219",
+      "rival": "video9742",
+      "label": "other",
+      "reason": "All captions describe interviews/discussions, not Thor’s scene.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_220",
+      "rival": "video8830",
+      "label": "other",
+      "reason": "All captions describe public speaking, not specific topic of logic and law.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_222",
+      "rival": "video7823",
+      "label": "other",
+      "reason": "No caption describes serving soup or specific action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_223",
+      "rival": "video9117",
+      "label": "other",
+      "reason": "All captions describe public speaking, not ping pong demonstration.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_225",
+      "rival": "video8664",
+      "label": "other",
+      "reason": "No handwashing or surface cleaning actions described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_230",
+      "rival": "video8110",
+      "label": "other",
+      "reason": "No caption describes falling asleep on a couch.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_235",
+      "rival": "video8257",
+      "label": "other",
+      "reason": "All captions describe lab safety or experiment explanation, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_239",
+      "rival": "video9511",
+      "label": "action",
+      "reason": "red car races along curvy road",
+      "caption_quote": "a red car races along a curvy road"
+    },
+    {
+      "qid": "test_240",
+      "rival": "video7967",
+      "label": "other",
+      "reason": "No caption matches hospital press explanation action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_241",
+      "rival": "video9816",
+      "label": "other",
+      "reason": "no mention of baby monitor or related action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_243",
+      "rival": "video9838",
+      "label": "other",
+      "reason": "All captions describe dancing, not seizure-causing content.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_246",
+      "rival": "video7218",
+      "label": "other",
+      "reason": "No cartoon faces chomping teeth or eating gestures mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_247",
+      "rival": "video9472",
+      "label": "other",
+      "reason": "Captions describe music/lyrics display, not slideshow captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_250",
+      "rival": "video7111",
+      "label": "other",
+      "reason": "No caption describes showing memories with Mr., unrelated action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_254",
+      "rival": "video7591",
+      "label": "other",
+      "reason": "candidate captions focus on cooking pancakes, not eating fried potatoes.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_256",
+      "rival": "video8868",
+      "label": "other",
+      "reason": "No caption describes petting a dog on a couch.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_257",
+      "rival": "video7828",
+      "label": "other",
+      "reason": "All captions describe a man speaking with microphone and laptop on stage.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_258",
+      "rival": "video7235",
+      "label": "other",
+      "reason": "All captions describe treehouse scenes, not cabinet with plates.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_260",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "no specific duck or roasting mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_262",
+      "rival": "video9337",
+      "label": "other",
+      "reason": "candidate captions describe garlic shopping, not edible blooms for gifts.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_263",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "no caption specifies chopping tomatoes in food processor.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_264",
+      "rival": "video9208",
+      "label": "other",
+      "reason": "No juggling or snowy mountain activity described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_266",
+      "rival": "video7577",
+      "label": "other",
+      "reason": "All captions describe women talking about planets, matching query theme.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_267",
+      "rival": "video8332",
+      "label": "action",
+      "reason": "playing with toy kitchen accessories",
+      "caption_quote": "a woman is putting items into a miniature toy oven"
+    },
+    {
+      "qid": "test_268",
+      "rival": "video8620",
+      "label": "other",
+      "reason": "No caption describes straightening magnets or wrapping around finger.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_270",
+      "rival": "video8914",
+      "label": "other",
+      "reason": "no evidence of queen or islamic women walking together.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_274",
+      "rival": "video7469",
+      "label": "other",
+      "reason": "no walking or shopping activity described in captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_277",
+      "rival": "video9014",
+      "label": "other",
+      "reason": "No balloon or package-related action described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_278",
+      "rival": "video7179",
+      "label": "other",
+      "reason": "No caption describes dolls playing or putting shoes on each other.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_281",
+      "rival": "video9031",
+      "label": "other",
+      "reason": "no action matches running down/up hill with dog.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_282",
+      "rival": "video7363",
+      "label": "action",
+      "reason": "man loads a clip into a pistol",
+      "caption_quote": "man loads a clip into a pistol"
+    },
+    {
+      "qid": "test_287",
+      "rival": "video7732",
+      "label": "other",
+      "reason": "no caption describes singing or dancing in elevator.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_288",
+      "rival": "video9545",
+      "label": "other",
+      "reason": "all captions describe men talking, matching query's action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_289",
+      "rival": "video9249",
+      "label": "other",
+      "reason": "All captions describe general talking, not specific explanation of stiff person syndrome.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_293",
+      "rival": "video7110",
+      "label": "action",
+      "reason": "man speaking about car vs inspecting/testing car",
+      "caption_quote": "a man in blue is interviewed on his yellow car"
+    },
+    {
+      "qid": "test_294",
+      "rival": "video9836",
+      "label": "other",
+      "reason": "no utensils or saucepan arrangement mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_296",
+      "rival": "video7060",
+      "label": "action",
+      "reason": "man extinguishes fire while two men talk",
+      "caption_quote": "two men talking after one puts out a fire"
+    },
+    {
+      "qid": "test_299",
+      "rival": "video7583",
+      "label": "other",
+      "reason": "Both involve two women talking outdoors, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_303",
+      "rival": "video7354",
+      "label": "other",
+      "reason": "all captions describe talking about or showing car features.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_304",
+      "rival": "video9342",
+      "label": "other",
+      "reason": "All captions describe water rescue, not shark attack context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_308",
+      "rival": "video7467",
+      "label": "other",
+      "reason": "No action matches walking down staircase surrounded by foliage.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_311",
+      "rival": "video7898",
+      "label": "other",
+      "reason": "All captions describe food in bowls, matching query's core content.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_312",
+      "rival": "video9322",
+      "label": "other",
+      "reason": "No action matches hospital mortuary or doctor treatment.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_318",
+      "rival": "video8808",
+      "label": "other",
+      "reason": "no fine-grained action contrast with fighting or phone use.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_319",
+      "rival": "video7027",
+      "label": "other",
+      "reason": "No captions show space equipment with water droplets.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_320",
+      "rival": "video7445",
+      "label": "other",
+      "reason": "no action matches truck or mirror adjustment.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_321",
+      "rival": "video7468",
+      "label": "action",
+      "reason": "man standing on building edge vs platform suspended above city",
+      "caption_quote": "a man is standing on top of a building edge"
+    },
+    {
+      "qid": "test_322",
+      "rival": "video8242",
+      "label": "other",
+      "reason": "kids playing with animals includes feeding horse.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_328",
+      "rival": "video7035",
+      "label": "other",
+      "reason": "No caption describes rotating animated shark in water.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_331",
+      "rival": "video7968",
+      "label": "action",
+      "reason": "slicing garlic and broccoli matches query action",
+      "caption_quote": "chef is demonstrating thinly slicing garlic then slicing tender broccoli in half on the diagonal"
+    },
+    {
+      "qid": "test_334",
+      "rival": "video8774",
+      "label": "action",
+      "reason": "hands pack cotton into toy and add pieces",
+      "caption_quote": "hands pack cotton into some sort of purple and yellow toy"
+    },
+    {
+      "qid": "test_338",
+      "rival": "video8474",
+      "label": "other",
+      "reason": "All captions describe choir singing, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_339",
+      "rival": "video7152",
+      "label": "action",
+      "reason": "girl slides/jumps into pool vs waterfall flowing",
+      "caption_quote": "a girl slides out of it"
+    },
+    {
+      "qid": "test_341",
+      "rival": "video7117",
+      "label": "other",
+      "reason": "dancing not related to playing with beach ball and surfboards.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_342",
+      "rival": "video9344",
+      "label": "other",
+      "reason": "candidate captions describe video game gameplay, not real car accelerating.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_347",
+      "rival": "video7731",
+      "label": "other",
+      "reason": "woman talking matches query without action contrast.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_349",
+      "rival": "video9418",
+      "label": "other",
+      "reason": "man with glasses talks about climate, not phrenology.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_350",
+      "rival": "video7741",
+      "label": "other",
+      "reason": "no fine-grained action contrast with driving car.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_351",
+      "rival": "video8073",
+      "label": "action",
+      "reason": "lady gaga sings her hit song on the edge of glory",
+      "caption_quote": "lady gaga sings her hit song on the edge of glory in her music video"
+    },
+    {
+      "qid": "test_353",
+      "rival": "video7412",
+      "label": "other",
+      "reason": "No caption shows presenting planet Earth visually.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_355",
+      "rival": "video9681",
+      "label": "other",
+      "reason": "All captions describe soccer fights, not rugby scenes.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_356",
+      "rival": "video7965",
+      "label": "other",
+      "reason": "All captions describe driving/talking in a car, matching query context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_357",
+      "rival": "video8604",
+      "label": "action",
+      "reason": "man holding dog vs man petting dog",
+      "caption_quote": "a man holding a dog"
+    },
+    {
+      "qid": "test_363",
+      "rival": "video9021",
+      "label": "other",
+      "reason": "candidate captions describe pitching, not lecturing with microphone.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_364",
+      "rival": "video7237",
+      "label": "other",
+      "reason": "No caption describes putting skeleton slide on projector.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_366",
+      "rival": "video7684",
+      "label": "other",
+      "reason": "All captions describe talking about beauty/skincare products.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_371",
+      "rival": "video9347",
+      "label": "other",
+      "reason": "All captions describe product reviews, not Keds commercials.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_375",
+      "rival": "video9623",
+      "label": "other",
+      "reason": "no concrete fine-grained action contrast found.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_376",
+      "rival": "video9253",
+      "label": "other",
+      "reason": "no action involves boat or fog/clouds blocking view.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_377",
+      "rival": "video7415",
+      "label": "other",
+      "reason": "No fine-grained action contrast; all involve cooking discussion with participants.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_380",
+      "rival": "video7747",
+      "label": "other",
+      "reason": "All captions describe Disney cartoons, none involve rhinoceroses or attacks.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_382",
+      "rival": "video8044",
+      "label": "other",
+      "reason": "No miniature donkeys or walking/making noises mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_386",
+      "rival": "video7461",
+      "label": "other",
+      "reason": "All captions describe band playing instruments on stage.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_395",
+      "rival": "video7546",
+      "label": "other",
+      "reason": "no parrots or bird cage actions described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_399",
+      "rival": "video8906",
+      "label": "action",
+      "reason": "placing roses on fence vs displaying natural scenes",
+      "caption_quote": "bunch of people placing rose as condolence on the gate"
+    },
+    {
+      "qid": "test_400",
+      "rival": "video7177",
+      "label": "other",
+      "reason": "candidate captions describe dancing/singing, not beatboxing.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_401",
+      "rival": "video7597",
+      "label": "other",
+      "reason": "all captions describe driving action, no meaningful action contrast.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_402",
+      "rival": "video9549",
+      "label": "other",
+      "reason": "candidate captions describe software use, not Windows-specific instruction.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_403",
+      "rival": "video8924",
+      "label": "other",
+      "reason": "No caption describes examining a computer battery specifically.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_405",
+      "rival": "video7599",
+      "label": "other",
+      "reason": "jumping not gymnastics; no apparatus or routine shown.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_406",
+      "rival": "video8077",
+      "label": "other",
+      "reason": "All captions describe man explaining or playing video game.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_407",
+      "rival": "video9221",
+      "label": "other",
+      "reason": "No action matches jumping or floating in air.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_408",
+      "rival": "video8618",
+      "label": "other",
+      "reason": "No action of letters sounding out is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_411",
+      "rival": "video7162",
+      "label": "other",
+      "reason": "All captions describe interview-like conversation, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_412",
+      "rival": "video8012",
+      "label": "other",
+      "reason": "No caption describes breaking a bottle in defense.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_413",
+      "rival": "video9025",
+      "label": "action",
+      "reason": "painting nails vs polishing nails",
+      "caption_quote": "a woman polishing her nails"
+    },
+    {
+      "qid": "test_416",
+      "rival": "video9879",
+      "label": "other",
+      "reason": "All captions describe girl singing on The Voice, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_418",
+      "rival": "video8245",
+      "label": "other",
+      "reason": "No caption describes girl/animal jumping on male body.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_421",
+      "rival": "video8265",
+      "label": "other",
+      "reason": "All captions describe singing with guitar on stage/TV show.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_422",
+      "rival": "video9226",
+      "label": "other",
+      "reason": "No concrete action contrast; all captions describe non-competitive or unrelated activities.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_425",
+      "rival": "video9322",
+      "label": "other",
+      "reason": "no action matches pointing gun at woman.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_426",
+      "rival": "video8900",
+      "label": "other",
+      "reason": "All captions describe cake preparation, not pancake presentation.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_428",
+      "rival": "video9677",
+      "label": "other",
+      "reason": "All captions describe driving while discussing the car.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_429",
+      "rival": "video7152",
+      "label": "other",
+      "reason": "water flows over rocks, not filtered in tank.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_430",
+      "rival": "video7235",
+      "label": "other",
+      "reason": "No mention of seat basket or advertisement.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_433",
+      "rival": "video7597",
+      "label": "other",
+      "reason": "all captions describe driving and discussing car features, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_434",
+      "rival": "video9208",
+      "label": "other",
+      "reason": "no action matches hand print in dinosaur silhouette.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_435",
+      "rival": "video7138",
+      "label": "other",
+      "reason": "No caption describes carfax details or vehicle specifications.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_436",
+      "rival": "video8665",
+      "label": "other",
+      "reason": "All captions describe badminton, not tennis matches as queried.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_437",
+      "rival": "video7594",
+      "label": "other",
+      "reason": "All captions describe turtles, not snakes, in containers.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_445",
+      "rival": "video9300",
+      "label": "other",
+      "reason": "Squidward working at register matches query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_447",
+      "rival": "video8784",
+      "label": "other",
+      "reason": "no heart shown; all captions involve leaf/leaf-like crafting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_449",
+      "rival": "video7500",
+      "label": "other",
+      "reason": "All captions describe soccer, not Olympic teams or multi-sport context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_454",
+      "rival": "video8253",
+      "label": "action",
+      "reason": "man attempts to slam dunk basketball",
+      "caption_quote": "a man attempts to slam dunk a basketball"
+    },
+    {
+      "qid": "test_456",
+      "rival": "video8829",
+      "label": "other",
+      "reason": "no mention of cathedral, organ pipes, or confessional setting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_457",
+      "rival": "video8832",
+      "label": "action",
+      "reason": "texting vs knocking on wall is different action",
+      "caption_quote": "a girl knocks on a wall and texts a friend"
+    },
+    {
+      "qid": "test_464",
+      "rival": "video8044",
+      "label": "other",
+      "reason": "goat attacks man, not lion and friend crossing street.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_467",
+      "rival": "video9771",
+      "label": "action",
+      "reason": "girl practicing gymnastics matches query action",
+      "caption_quote": "a girl is practicing gymnastics"
+    },
+    {
+      "qid": "test_470",
+      "rival": "video9234",
+      "label": "other",
+      "reason": "no barefoot walking on carton of eggs mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_473",
+      "rival": "video8794",
+      "label": "other",
+      "reason": "mentions red-haired mermaid talking to another character.",
+      "caption_quote": "a redhead mermaid swims around and talks to a purple lady"
+    },
+    {
+      "qid": "test_474",
+      "rival": "video9209",
+      "label": "action",
+      "reason": "shooting toy bow and arrow vs shooting foam darts",
+      "caption_quote": "a girl is shooting foam darts at a target"
+    },
+    {
+      "qid": "test_482",
+      "rival": "video8921",
+      "label": "other",
+      "reason": "All captions describe teaching/using software, not looking at a celebrity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_485",
+      "rival": "video8721",
+      "label": "other",
+      "reason": "All captions discuss talking about games, not flights on Google Earth.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_486",
+      "rival": "video8470",
+      "label": "action",
+      "reason": "wrestling matches involve grappling, not fighting on a field.",
+      "caption_quote": "two wrestlers grapple on a mat"
+    },
+    {
+      "qid": "test_491",
+      "rival": "video8392",
+      "label": "other",
+      "reason": "Captions describe discovery of hole, not pain or suffering.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_492",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "candidate captions lack lobster shell removal action detail.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_494",
+      "rival": "video8122",
+      "label": "other",
+      "reason": "no helicopter or snow land mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_496",
+      "rival": "video7596",
+      "label": "other",
+      "reason": "All captions describe a band playing with singers, matching the query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_497",
+      "rival": "video9520",
+      "label": "other",
+      "reason": "No handcuffing to table; all involve electric chair restraint.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_499",
+      "rival": "video8049",
+      "label": "other",
+      "reason": "no golf or pit mentioned, unrelated activity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_500",
+      "rival": "video7358",
+      "label": "other",
+      "reason": "No caption describes three men attempting to shoot a goal.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_501",
+      "rival": "video9580",
+      "label": "other",
+      "reason": "All captions describe dogs eating, not humans cutting food.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_502",
+      "rival": "video8049",
+      "label": "action",
+      "reason": "spinning around bat contradicts kickball action",
+      "caption_quote": "men spinning around a baseball bat and hitting ball"
+    },
+    {
+      "qid": "test_504",
+      "rival": "video7501",
+      "label": "other",
+      "reason": "All captions discuss Will Smith movies, not YouTube channel or viewer thanks.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_507",
+      "rival": "video9327",
+      "label": "other",
+      "reason": "all captions involve eating food, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_508",
+      "rival": "video9545",
+      "label": "action",
+      "reason": "soldier talking to prisoner, not superior",
+      "caption_quote": "a soldier talks to a prisoner about what he is going to do with him"
+    },
+    {
+      "qid": "test_510",
+      "rival": "video9513",
+      "label": "other",
+      "reason": "No salsa dancing; all captions describe unrelated activities or scenes.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_511",
+      "rival": "video7163",
+      "label": "other",
+      "reason": "no action involves looking at a japanese book.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_512",
+      "rival": "video8797",
+      "label": "other",
+      "reason": "No caption describes zombie killing or heart taking.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_516",
+      "rival": "video7902",
+      "label": "other",
+      "reason": "no evidence of disguise or laughing mentioned.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_517",
+      "rival": "video8392",
+      "label": "other",
+      "reason": "No caption describes applying makeup or using a mirror.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_518",
+      "rival": "video8662",
+      "label": "other",
+      "reason": "All captions describe cooking on TV, matching query's core activity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_521",
+      "rival": "video9347",
+      "label": "other",
+      "reason": "no action of putting sweater on dog is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_522",
+      "rival": "video8868",
+      "label": "other",
+      "reason": "No caption shows girls with cat talking on bed.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_524",
+      "rival": "video8685",
+      "label": "other",
+      "reason": "No ice cream mentioned; all involve drinking or food tasting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_526",
+      "rival": "video7966",
+      "label": "action",
+      "reason": "slicing/cutting potatoes matches preparing action",
+      "caption_quote": "a man demonstrates how to cut potatoes"
+    },
+    {
+      "qid": "test_528",
+      "rival": "video8912",
+      "label": "other",
+      "reason": "All captions show conversation, not Bollywood celebrity discussion.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_531",
+      "rival": "video8791",
+      "label": "action",
+      "reason": "painting easter designs vs general nail painting",
+      "caption_quote": "a woman painting a design on her fingernail"
+    },
+    {
+      "qid": "test_537",
+      "rival": "video9332",
+      "label": "other",
+      "reason": "No penguins or ice-related action described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_538",
+      "rival": "video8340",
+      "label": "other",
+      "reason": "No caption matches the specific action of a blonde man lying with a baby.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_542",
+      "rival": "video8787",
+      "label": "other",
+      "reason": "No bottle or hallway rolling action described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_545",
+      "rival": "video8662",
+      "label": "other",
+      "reason": "candidate captions lack interview context and lady interviewer.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_546",
+      "rival": "video9208",
+      "label": "other",
+      "reason": "No crawling/dancing action described in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_550",
+      "rival": "video7168",
+      "label": "other",
+      "reason": "no weightlifting or gravitational force context in captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_551",
+      "rival": "video8905",
+      "label": "other",
+      "reason": "No caption specifies Putin or terrorism topic.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_552",
+      "rival": "video7131",
+      "label": "action",
+      "reason": "racing vs lining up to race",
+      "caption_quote": "sprinters line up in their blocks and then run a race"
+    },
+    {
+      "qid": "test_553",
+      "rival": "video7110",
+      "label": "other",
+      "reason": "No fine-grained action contrast; all involve car-related activities.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_554",
+      "rival": "video7202",
+      "label": "other",
+      "reason": "same action: dancing in a room or class.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_555",
+      "rival": "video8879",
+      "label": "other",
+      "reason": "All captions describe talking in a vehicle, matching the query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_556",
+      "rival": "video9341",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all captions describe similar public speaking/interview scenes.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_559",
+      "rival": "video9795",
+      "label": "other",
+      "reason": "candidate captions describe video game content, not real children interacting with fire engine.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_561",
+      "rival": "video8125",
+      "label": "other",
+      "reason": "no dogs or playing dead mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_562",
+      "rival": "video7766",
+      "label": "other",
+      "reason": "All captions describe video gaming, not jumping from a building.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_563",
+      "rival": "video7028",
+      "label": "other",
+      "reason": "candidate captions describe singing/dancing, not architectural tour.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_566",
+      "rival": "video9030",
+      "label": "other",
+      "reason": "No caption describes lifting lantern with sword.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_568",
+      "rival": "video9207",
+      "label": "action",
+      "reason": "girl demonstrates makeup application to others",
+      "caption_quote": "a girl applies purple eyeshadow to the corners of her eyelids"
+    },
+    {
+      "qid": "test_570",
+      "rival": "video9755",
+      "label": "other",
+      "reason": "no bicycle or riding action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_571",
+      "rival": "video7798",
+      "label": "other",
+      "reason": "no cat or couch mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_579",
+      "rival": "video7233",
+      "label": "other",
+      "reason": "No caption shows group thinking about next move together.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_581",
+      "rival": "video8010",
+      "label": "other",
+      "reason": "No motorcycle driving action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_584",
+      "rival": "video8903",
+      "label": "other",
+      "reason": "No matching action of chasing squidward with torches.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_588",
+      "rival": "video9207",
+      "label": "action",
+      "reason": "applies purple eyeshadow to her eyes with brush",
+      "caption_quote": "a woman sits in front of a blue and white snowflake background and applies purple eyeshadow to her眼睛"
+    },
+    {
+      "qid": "test_592",
+      "rival": "video9811",
+      "label": "other",
+      "reason": "No surveillance room activity described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_594",
+      "rival": "video9253",
+      "label": "other",
+      "reason": "No polar bear or water play activity described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_597",
+      "rival": "video7836",
+      "label": "other",
+      "reason": "dancing vs talking through microphone not contrasted.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_600",
+      "rival": "video7768",
+      "label": "other",
+      "reason": "no food or refrigerator mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_605",
+      "rival": "video9026",
+      "label": "other",
+      "reason": "All captions describe piano playing in movie context, not different action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_606",
+      "rival": "video7035",
+      "label": "other",
+      "reason": "candidate captions describe different games or lack specific action contrast.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_609",
+      "rival": "video7419",
+      "label": "other",
+      "reason": "All captions describe man playing guitar and singing, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_610",
+      "rival": "video9801",
+      "label": "other",
+      "reason": "All captions describe dancing, not standing with an old man.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_612",
+      "rival": "video8336",
+      "label": "other",
+      "reason": "All captions describe choir singing in religious settings, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_614",
+      "rival": "video7200",
+      "label": "action",
+      "reason": "woman claims victory over her trophy",
+      "caption_quote": "woman claims victory over her trophy"
+    },
+    {
+      "qid": "test_615",
+      "rival": "video8666",
+      "label": "other",
+      "reason": "No action matches photograph from high point.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_618",
+      "rival": "video7345",
+      "label": "other",
+      "reason": "No concrete action contrast involving laptops in class.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_621",
+      "rival": "video7506",
+      "label": "other",
+      "reason": "candidate captions describe video game play, not real race cars on a track.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_627",
+      "rival": "video8426",
+      "label": "other",
+      "reason": "All captions describe beach houses, not people walking a dog.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_633",
+      "rival": "video7591",
+      "label": "other",
+      "reason": "no cheese slicing mentioned, all captions about pancakes or cooking.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_635",
+      "rival": "video8790",
+      "label": "action",
+      "reason": "kissing vs having sex or sexual acts",
+      "caption_quote": "two women are having sex"
+    },
+    {
+      "qid": "test_636",
+      "rival": "video9801",
+      "label": "other",
+      "reason": "All captions describe dancing or hugging, not crying on meeting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_638",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "All captions describe cooking instruction, matching query's core action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_639",
+      "rival": "video9837",
+      "label": "action",
+      "reason": "the candidate mentions 'kills another character' contrasting with 'shoots other characters' in query.",
+      "caption_quote": "a man playing a first person shooter dodges an attack and then kills another character"
+    },
+    {
+      "qid": "test_641",
+      "rival": "video7177",
+      "label": "other",
+      "reason": "no snake skinning action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_642",
+      "rival": "video8248",
+      "label": "other",
+      "reason": "candidate captions describe boats/ships, not kayaking people.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_645",
+      "rival": "video8905",
+      "label": "other",
+      "reason": "All captions describe interviews/conversations, not specifically about Avatar movie making.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_647",
+      "rival": "video7528",
+      "label": "other",
+      "reason": "All captions describe singing on stage, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_652",
+      "rival": "video9332",
+      "label": "other",
+      "reason": "No real person talking outside in snow at ski resort.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_653",
+      "rival": "video9750",
+      "label": "other",
+      "reason": "candidate captions describe gun violence, not sleeping or smoking.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_654",
+      "rival": "video8924",
+      "label": "other",
+      "reason": "All captions describe general electronics work, not specifically opening a laptop case.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_656",
+      "rival": "video9347",
+      "label": "other",
+      "reason": "No mention of camel or related animal in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_658",
+      "rival": "video9235",
+      "label": "action",
+      "reason": "loading magazines with bullets matches loading a clip",
+      "caption_quote": "men loading weapon clips with ammunition"
+    },
+    {
+      "qid": "test_660",
+      "rival": "video9537",
+      "label": "other",
+      "reason": "No eating action described in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_664",
+      "rival": "video7345",
+      "label": "other",
+      "reason": "no concrete action contrast on digital reading device use.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_668",
+      "rival": "video7029",
+      "label": "other",
+      "reason": "All captions describe SpongeBob scene, not man discussing it.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_670",
+      "rival": "video7362",
+      "label": "other",
+      "reason": "no caption describes bill murray covered in frosting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_672",
+      "rival": "video8110",
+      "label": "other",
+      "reason": "no mermaids or red-haired characters mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_676",
+      "rival": "video7212",
+      "label": "other",
+      "reason": "walking on beach matches query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_678",
+      "rival": "video8264",
+      "label": "action",
+      "reason": "athletes get ready on start point and standing",
+      "caption_quote": "athletes get ready on the start point and standing for the signal to run"
+    },
+    {
+      "qid": "test_680",
+      "rival": "video8790",
+      "label": "other",
+      "reason": "candidate captions lack oil/milk rubbing detail.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_681",
+      "rival": "video9016",
+      "label": "other",
+      "reason": "No caption shows woman walking beside river in bikini.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_682",
+      "rival": "video7822",
+      "label": "other",
+      "reason": "No puppy or crawling action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_686",
+      "rival": "video8303",
+      "label": "other",
+      "reason": "no pink wig or stuffed animal mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_687",
+      "rival": "video9023",
+      "label": "other",
+      "reason": "candidate captions lack old man shaking hands before hugging.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_695",
+      "rival": "video7214",
+      "label": "other",
+      "reason": "No concrete action contrast; all captions describe pre-race setup or commentary.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_696",
+      "rival": "video9686",
+      "label": "other",
+      "reason": "No caption describes intimate sexual activity as queried.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_698",
+      "rival": "video7370",
+      "label": "other",
+      "reason": "no one holding red drink in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_699",
+      "rival": "video9806",
+      "label": "action",
+      "reason": "riding through forest vs driving on tree-lined street",
+      "caption_quote": "there is someone riding a car through the forest"
+    },
+    {
+      "qid": "test_700",
+      "rival": "video8344",
+      "label": "action",
+      "reason": "man talking about lap belts in classic car",
+      "caption_quote": "a man talking about the type of seat belt in a classic car"
+    },
+    {
+      "qid": "test_701",
+      "rival": "video8879",
+      "label": "action",
+      "reason": "a pretty young woman talks to a man with a mustache",
+      "caption_quote": "a pretty young woman talks to a man with a mustache"
+    },
+    {
+      "qid": "test_702",
+      "rival": "video7355",
+      "label": "other",
+      "reason": "describes movie promotion, not title exploration.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_707",
+      "rival": "video9036",
+      "label": "other",
+      "reason": "man and kids boarding fire truck, not walking into room.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_712",
+      "rival": "video8932",
+      "label": "other",
+      "reason": "Interviews and talk shows involve sharing thoughts, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_720",
+      "rival": "video9063",
+      "label": "other",
+      "reason": "No skeletons or dancing skeletons mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_722",
+      "rival": "video7561",
+      "label": "other",
+      "reason": "no action of filling toy with cotton is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_725",
+      "rival": "video7562",
+      "label": "other",
+      "reason": "All captions describe text about NASA, not moon or Mars imagery.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_727",
+      "rival": "video7580",
+      "label": "other",
+      "reason": "topic mismatch: precision medicine vs aliens/sci-fi themes.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_729",
+      "rival": "video9349",
+      "label": "other",
+      "reason": "No knot-making or fishing-related action described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_734",
+      "rival": "video7947",
+      "label": "other",
+      "reason": "All captions describe talking, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_736",
+      "rival": "video9772",
+      "label": "other",
+      "reason": "No sailing or snow-covered ground mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_737",
+      "rival": "video7732",
+      "label": "other",
+      "reason": "no captions describe party, clapping, or dancing.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_739",
+      "rival": "video9344",
+      "label": "other",
+      "reason": "No concrete action contrast; all captions describe playing a car game.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_744",
+      "rival": "video7580",
+      "label": "other",
+      "reason": "No caption mentions white tank top or clothing.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_745",
+      "rival": "video9770",
+      "label": "other",
+      "reason": "no action of putting phone down to charge is described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_747",
+      "rival": "video7574",
+      "label": "other",
+      "reason": "candidate captions describe violent game scenes, not a soldier laying down.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_749",
+      "rival": "video8456",
+      "label": "other",
+      "reason": "No captions show inviting colleagues to join him.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_754",
+      "rival": "video9515",
+      "label": "other",
+      "reason": "no guitar or farm context in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_760",
+      "rival": "video7445",
+      "label": "other",
+      "reason": "All captions describe general video game play, not specific truck/desert obstacles.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_762",
+      "rival": "video7796",
+      "label": "other",
+      "reason": "all captions describe playing with toy trucks, not digging.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_764",
+      "rival": "video8254",
+      "label": "other",
+      "reason": "all captions describe woman talking about movies, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_769",
+      "rival": "video8905",
+      "label": "other",
+      "reason": "No mention of marijuana business or growth issues.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_773",
+      "rival": "video8829",
+      "label": "other",
+      "reason": "no action matches 'still photos from the 2002 movie the pianist'.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_780",
+      "rival": "video8868",
+      "label": "other",
+      "reason": "no action matches holding a parrot near bird food shelves.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_782",
+      "rival": "video8973",
+      "label": "other",
+      "reason": "animated cars, not real people or BBC talking.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_783",
+      "rival": "video8311",
+      "label": "other",
+      "reason": "Captions describe news reporting, not racially motivated protests or song context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_785",
+      "rival": "video9323",
+      "label": "other",
+      "reason": "no action matches eating rice or going to hospital.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_786",
+      "rival": "video8073",
+      "label": "other",
+      "reason": "No caption describes face paint on woman.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_794",
+      "rival": "video9028",
+      "label": "other",
+      "reason": "no action matches filming or watching news.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_797",
+      "rival": "video8025",
+      "label": "other",
+      "reason": "All captions describe man fishing from boat on water, matching query context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_800",
+      "rival": "video9693",
+      "label": "action",
+      "reason": "adding sauce to pot matches query action",
+      "caption_quote": "a woman adds soy sauce and fish paste to a dish"
+    },
+    {
+      "qid": "test_806",
+      "rival": "video9680",
+      "label": "other",
+      "reason": "All captions describe Earth with text overlays, not filming a planet from space.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_808",
+      "rival": "video9776",
+      "label": "other",
+      "reason": "No dancing action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_811",
+      "rival": "video7614",
+      "label": "other",
+      "reason": "No action matches 'car in wreck' scenario.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_812",
+      "rival": "video9815",
+      "label": "other",
+      "reason": "no specific mention of Selena Gomez or dancing with man in tux.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_813",
+      "rival": "video9337",
+      "label": "other",
+      "reason": "No action matches 'getting a call from a man'.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_818",
+      "rival": "video8895",
+      "label": "other",
+      "reason": "All captions describe beach singing/dancing, not eharmony commercial.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_819",
+      "rival": "video8325",
+      "label": "other",
+      "reason": "All captions describe cooking, matching the query's core activity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_822",
+      "rival": "video7233",
+      "label": "other",
+      "reason": "No fine-grained action contrast matches tense→relaxing sequence.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_823",
+      "rival": "video9347",
+      "label": "other",
+      "reason": "No one is recording themselves; all describe product reviews.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_827",
+      "rival": "video9222",
+      "label": "action",
+      "reason": "boy playing guitar and singing on stage",
+      "caption_quote": "a boy is playing guitar"
+    },
+    {
+      "qid": "test_828",
+      "rival": "video7131",
+      "label": "action",
+      "reason": "sprinters line up in their blocks and then run",
+      "caption_quote": "sprinters line up in their blocks and then run"
+    },
+    {
+      "qid": "test_829",
+      "rival": "video8936",
+      "label": "other",
+      "reason": "No caption describes rolling action explicitly.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_833",
+      "rival": "video8470",
+      "label": "other",
+      "reason": "All captions describe wrestling, matching query's action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_836",
+      "rival": "video7415",
+      "label": "other",
+      "reason": "No caption describes marinating chicken with salt and cilantro.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_843",
+      "rival": "video8311",
+      "label": "other",
+      "reason": "candidate captions describe news reports, not helicopter flying in war zone.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_848",
+      "rival": "video9353",
+      "label": "other",
+      "reason": "No mention of Anushka Sharma or Bollywood context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_850",
+      "rival": "video8340",
+      "label": "other",
+      "reason": "No caption matches the girl standing with lyrics on screen.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_851",
+      "rival": "video8815",
+      "label": "other",
+      "reason": "All captions describe children with adults in fire station context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_852",
+      "rival": "video8440",
+      "label": "other",
+      "reason": "Wrestling matches involve staged fighting, not real animal attacks.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_856",
+      "rival": "video8949",
+      "label": "action",
+      "reason": "removes clothing underwater after diving",
+      "caption_quote": "removes her clothing underwater"
+    },
+    {
+      "qid": "test_858",
+      "rival": "video9242",
+      "label": "action",
+      "reason": "drawing pictures vs drawing cartoons or graphs",
+      "caption_quote": "a person draws a man on a chalkboard"
+    },
+    {
+      "qid": "test_863",
+      "rival": "video7436",
+      "label": "other",
+      "reason": "No dinner scene; all captions involve gun violence.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_864",
+      "rival": "video9240",
+      "label": "action",
+      "reason": "bathing vs swatting leeches off skin",
+      "caption_quote": "two boys are frantically trying to swat leaches off of their skin"
+    },
+    {
+      "qid": "test_866",
+      "rival": "video7795",
+      "label": "other",
+      "reason": "candidate captions describe windsurfing/kite surfing recovery, not surfing a wave.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_867",
+      "rival": "video9693",
+      "label": "action",
+      "reason": "adds fish sauce, not broth, to pot",
+      "caption_quote": "a woman is adding fish sauce into a pot in a kitchen"
+    },
+    {
+      "qid": "test_868",
+      "rival": "video8864",
+      "label": "other",
+      "reason": "All captions describe news reporting or discussion, matching the query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_872",
+      "rival": "video8805",
+      "label": "action",
+      "reason": "talking down to another soldier implies authority",
+      "caption_quote": "a soldier is talking down to another soldier"
+    },
+    {
+      "qid": "test_874",
+      "rival": "video8905",
+      "label": "other",
+      "reason": "All captions describe interview/conversation, matching query's discussion context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_875",
+      "rival": "video8937",
+      "label": "other",
+      "reason": "no fade in/out action described in captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_879",
+      "rival": "video7415",
+      "label": "other",
+      "reason": "Both involve man and woman in kitchen cooking or discussing food.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_882",
+      "rival": "video9301",
+      "label": "action",
+      "reason": "folds up a piece of paper implies closing, not folding airplane",
+      "caption_quote": "a person folds up a piece of paper"
+    },
+    {
+      "qid": "test_883",
+      "rival": "video9328",
+      "label": "other",
+      "reason": "All captions describe car racing at high speed, matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_889",
+      "rival": "video7137",
+      "label": "other",
+      "reason": "hugging covered in substance ≠ rubbing hair.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_893",
+      "rival": "video7021",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all captions describe batting or game context.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_895",
+      "rival": "video8925",
+      "label": "action",
+      "reason": "tom jones performs on stage with a young man",
+      "caption_quote": "tom jones performs on stage with a young man"
+    },
+    {
+      "qid": "test_896",
+      "rival": "video7831",
+      "label": "action",
+      "reason": "speaks to another character matches query",
+      "caption_quote": "an anime cartoon character speaks to another character"
+    },
+    {
+      "qid": "test_897",
+      "rival": "video8067",
+      "label": "other",
+      "reason": "No microwave preparation action described in captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_899",
+      "rival": "video8789",
+      "label": "other",
+      "reason": "No mention of GOP debate or Trump/Cruz participation.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_900",
+      "rival": "video7794",
+      "label": "other",
+      "reason": "candidate captions confirm same interview action with Bill Murray and David Letterman.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_904",
+      "rival": "video7205",
+      "label": "other",
+      "reason": "All captions describe guitar playing and singing, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_907",
+      "rival": "video9580",
+      "label": "other",
+      "reason": "All captions describe dogs eating, matching query's diet focus.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_908",
+      "rival": "video7148",
+      "label": "other",
+      "reason": "All captions describe cooking, compatible with pancake preparation.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_909",
+      "rival": "video9548",
+      "label": "other",
+      "reason": "No caption describes Fox News or Shelby, NC shooting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_910",
+      "rival": "video8868",
+      "label": "other",
+      "reason": "No caption shows girl displaying toy building blocks.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_911",
+      "rival": "video9012",
+      "label": "other",
+      "reason": "no action matches sitting and looking into a bag.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_915",
+      "rival": "video7589",
+      "label": "other",
+      "reason": "no windsurfing or wipeout actions described.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_916",
+      "rival": "video7177",
+      "label": "other",
+      "reason": "No action involves playing with a dump truck.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_918",
+      "rival": "video9885",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all captions involve talking/interviews.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_921",
+      "rival": "video9609",
+      "label": "other",
+      "reason": "candidate captions describe space scenes, not airplane landings.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_922",
+      "rival": "video8269",
+      "label": "other",
+      "reason": "no fine-grained action contrast; all captions describe speaking or teaching.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_923",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "All captions describe cooking, not specifically peeling vegetables.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_924",
+      "rival": "video8686",
+      "label": "other",
+      "reason": "no sushi-related action mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_925",
+      "rival": "video7021",
+      "label": "action",
+      "reason": "batter hits ball to fence",
+      "caption_quote": "a baseball batter hits the ball to the fence"
+    },
+    {
+      "qid": "test_926",
+      "rival": "video9542",
+      "label": "other",
+      "reason": "All captions describe football-related actions, no fine-grained action contrast.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_930",
+      "rival": "video7162",
+      "label": "other",
+      "reason": "All captions describe interview actions matching query.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_931",
+      "rival": "video9300",
+      "label": "other",
+      "reason": "No evidence of playing Lil Wayne song or music-related action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_934",
+      "rival": "video9201",
+      "label": "other",
+      "reason": "All captions describe beach scenes, not boy exiting police car talking to girl.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_937",
+      "rival": "video9228",
+      "label": "other",
+      "reason": "All captions describe guitar-playing in vehicles, not scratching in bush.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_939",
+      "rival": "video7977",
+      "label": "action",
+      "reason": "drawing on canvas vs paper",
+      "caption_quote": "a person is drawing a person on a piece of paper"
+    },
+    {
+      "qid": "test_943",
+      "rival": "video7914",
+      "label": "other",
+      "reason": "describes scenic views, not train sightseeing or travel.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_944",
+      "rival": "video7747",
+      "label": "other",
+      "reason": "no action contrast; all captions describe unrelated scenes or activities.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_947",
+      "rival": "video7362",
+      "label": "other",
+      "reason": "cooking on stage vs grill not specified.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_949",
+      "rival": "video7559",
+      "label": "action",
+      "reason": "serving a crab dish vs serving food generally",
+      "caption_quote": "a woman is serving food to a man"
+    },
+    {
+      "qid": "test_962",
+      "rival": "video9688",
+      "label": "other",
+      "reason": "No mention of Hillary Clinton or news story.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_963",
+      "rival": "video7236",
+      "label": "other",
+      "reason": "man walking matches query action, singing is additional activity.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_964",
+      "rival": "video9018",
+      "label": "other",
+      "reason": "no mention of hat or shooting accuracy in captions.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_966",
+      "rival": "video8817",
+      "label": "other",
+      "reason": "All captions describe football video game gameplay or related commentary.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_970",
+      "rival": "video9878",
+      "label": "other",
+      "reason": "no caption describes girl knocking on wall.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_971",
+      "rival": "video7147",
+      "label": "other",
+      "reason": "no action of stacking burgers is described in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_972",
+      "rival": "video9838",
+      "label": "other",
+      "reason": "No mention of plane, fruit, or trucks in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_973",
+      "rival": "video8820",
+      "label": "action",
+      "reason": "falling off vs driving fast with problems",
+      "caption_quote": "a man rides a dirt bike up a hill and falls off"
+    },
+    {
+      "qid": "test_977",
+      "rival": "video9200",
+      "label": "other",
+      "reason": "no concrete action contrast; all captions describe Sims pets interacting.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_978",
+      "rival": "video8938",
+      "label": "other",
+      "reason": "All captions describe war scenes, not black and white film history.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_979",
+      "rival": "video8325",
+      "label": "other",
+      "reason": "no mention of potatoes or machinery in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_981",
+      "rival": "video7412",
+      "label": "other",
+      "reason": "candidate captions lack TV screen chart reference.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_986",
+      "rival": "video9693",
+      "label": "other",
+      "reason": "candidate captions mention fish sauce/paste, not tomato sauce or stirring while talking.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_988",
+      "rival": "video7837",
+      "label": "other",
+      "reason": "All captions describe walking down stairs or paths, matching query action.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_989",
+      "rival": "video8312",
+      "label": "other",
+      "reason": "all captions describe similar calm pond/lake with green hills/mountains background.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_993",
+      "rival": "video7732",
+      "label": "other",
+      "reason": "No mention of goldfish, tank, or chasing to music.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_994",
+      "rival": "video9337",
+      "label": "other",
+      "reason": "woman in purple blouse not mentioned in any caption.",
+      "caption_quote": ""
+    },
+    {
+      "qid": "test_997",
+      "rival": "video8910",
+      "label": "action",
+      "reason": "man adds sauce and cheese to pizza",
+      "caption_quote": "a man adds sauce and mozzarella cheese to a pizza"
+    }
+  ]
+}

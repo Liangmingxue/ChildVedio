@@ -1,0 +1,4 @@
+dev margin (cpu) R@1=32.28% HFR=5.80% calls/q=26.891 {'deep': 249, 'accept': 36}
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 16544.27it/s]
+Replaying outputs/stage2_clip4clip_qwen3vl8b/router/epoch_0

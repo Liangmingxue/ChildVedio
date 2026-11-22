@@ -1,0 +1,68 @@
+{
+  "created_utc": "2026-11-21T20:32:38.579161+00:00",
+  "sources": {
+    "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data/router_data.jsonl": "9d8ed9c067f7c6c142a95a6691d8be2bd12d8b30b2cd8a91a2826970c01c275e",
+    "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/progress.jsonl": "09aa204cea3d15e25aab961cbff3974b4ae0d7b5b47ab136ca4ab70123cf411f"
+  },
+  "base_rows": 3000,
+  "extra_rows": 6000,
+  "alignment": {
+    "signature": "60530e2fb5b80bf0e4646db467ce05fdb82331e160e44c6975bee2928124ff04",
+    "identity": {
+      "source": {
+        "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data/router_data.jsonl": "9d8ed9c067f7c6c142a95a6691d8be2bd12d8b30b2cd8a91a2826970c01c275e",
+        "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/router_data_9000/progress.jsonl": "09aa204cea3d15e25aab961cbff3974b4ae0d7b5b47ab136ca4ab70123cf411f"
+      },
+      "gallery_size": 1000,
+      "seed": 42,
+      "topk": 16,
+      "deep_mode": "auto",
+      "stage_config": "f4dd8ef12ab5d9a0d8ca7026f6df9ff4f5222b0461571b0f294273e1a2c6011b",
+      "inputs": {
+        "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/data/msrvtt/queries_train.jsonl": "b8c87a852b006d7cdd3fb217cb20f334d3a30619637414cd5e81043d6647f7fa",
+        "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/data/msrvtt/videos.jsonl": "d6c074204774b81ceea60d44653ea945f2cef071c143c0870c6d02af57e11db4",
+        "/media/omnisky/11D1C4300244251B1/xlm/ChildVedio/outputs/stage2_clip4clip_qwen3vl8b/clip4clip_train_sim.npy": "824dfc191eb97993da310b1e7c31833a2b20753474c756ee0483be3c64f3b288"
+      },
+      "code": {
+        "fanganC/alignment.py": "54dcc46f69084a07e3269844f79106a05b1e9c64fb7047ff8595cc6f6ceaec73",
+        "cvr/counterfactual.py": "e100320db894bef49433723954aca0ff214bd5de07d66b33349bfff9e23db250",
+        "cvr/factory.py": "756c17e80762ad1303932df3f4afe45537559e41608a0d9b17849f387f2f9dae",
+        "cvr/rerank.py": "9d3b293d5954255f24f03bab8523777fcafa6629efb3ea132485ec2a0cb81b6d",
+        "cvr/retriever.py": "aa46104fc4b45834549fa6997aeeee91b0b3b52f90528f8f8c4883cc1888d77b",
+        "cvr/vlm.py": "4da0c98bd1504ce6f496c9f22ddfe965b28304c357504df1f6ec164dd57547b9",
+        "scripts/05_build_router_data.py": "878e5437f2e444760199b080d8767437a33a48580384b402da4aa1336e80b528"
+      }
+    },
+    "queries": 9000,
+    "sha256": {
+      "ranking.jsonl": "0ba7b74ab6c4f9f5d5fbe2d506da38418ef1ecea479a627c7a37ae59402b55a0",
+      "galleries.json": "3343582f8d14726e2c2ae55bb0f3c045182bc4ebbd1027dae6e72f171539ede6"
+    }
+  },
+  "splits": {
+    "train": 8123,
+    "dev": 285,
+    "calib": 592
+  },
+  "test_rows": 1000,
+  "frozen_sha256": {
+    "router_data.jsonl": "b6b8c5352ef964be7043c7e91b886baeb629736609dc65cd907bb606ad84d6cb",
+    "test.jsonl": "02e7840b5ff6ed2e023db6aca04b946382a96ef5393920876124850acb30c2f8",
+    "experiment.yaml": "080f1a2c4d318ea050b728d8b0a867c78bae0d37c5a24349388b441578046099",
+    "stage.yaml": "7920af98a2b582cc3e8c38c820cde066462bd7e8db41b8c207acdd5846d9f4c7",
+    "budget.json": "150eaed2fadbc3d367cd2e4e885ee3ddb68956098d09cac8c31301e11c8d43dc"
+  },
+  "reused_code_sha256": {
+    "scripts/13_stage2_router_experiment.py": "f3f66a9f207aa6090003cfc1d1962db205b39f63f2fe8e8124eadd48df3ff02c",
+    "scripts/05_build_router_data.py": "878e5437f2e444760199b080d8767437a33a48580384b402da4aa1336e80b528",
+    "cvr/router.py": "9895e7009aabc79580ff04347637b1ed4f5b4ff5ff4d54d3f158f4d64e0f9b9b",
+    "temp/stage0_clip4clip.py": "41aa4092e0c1ac5aa2404c243fe00aff17a445c4cdbb84d283dc91179c8e9fac",
+    "fanganC/alignment.py": "54dcc46f69084a07e3269844f79106a05b1e9c64fb7047ff8595cc6f6ceaec73",
+    "cvr/counterfactual.py": "e100320db894bef49433723954aca0ff214bd5de07d66b33349bfff9e23db250",
+    "cvr/factory.py": "756c17e80762ad1303932df3f4afe45537559e41608a0d9b17849f387f2f9dae",
+    "cvr/rerank.py": "9d3b293d5954255f24f03bab8523777fcafa6629efb3ea132485ec2a0cb81b6d",
+    "cvr/retriever.py": "aa46104fc4b45834549fa6997aeeee91b0b3b52f90528f8f8c4883cc1888d77b",
+    "cvr/vlm.py": "4da0c98bd1504ce6f496c9f22ddfe965b28304c357504df1f6ec164dd57547b9"
+  },
+  "protocol": "train/dev/calib in disjoint test-sized training galleries; auto deep on both train and test"
+}

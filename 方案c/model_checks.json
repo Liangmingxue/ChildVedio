@@ -1,0 +1,105 @@
+{
+  "scope": "Real tokenizer and production functions; tiny randomly initialized 2-layer Qwen3, not pretrained 4B inference",
+  "versions": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.14.1",
+    "peft": "0.22.0"
+  },
+  "cuda_available": false,
+  "token_ids": {
+    "decision": [
+      63938
+    ],
+    "A": [
+      32
+    ],
+    "B": [
+      33
+    ],
+    "C": [
+      34
+    ],
+    "D": [
+      35
+    ],
+    "E": [
+      36
+    ],
+    "F": [
+      37
+    ],
+    "G": [
+      38
+    ],
+    "H": [
+      39
+    ],
+    "I": [
+      40
+    ],
+    "J": [
+      41
+    ]
+  },
+  "training_input_lengths": {
+    "n": 3000,
+    "min": 282,
+    "max": 323,
+    "mean": 289.136,
+    "max_len": 768
+  },
+  "gradients": [
+    {
+      "step": 0,
+      "loss": 2.3214111328125,
+      "nonzero_lora_A": 0,
+      "nonzero_lora_B": 14
+    },
+    {
+      "step": 1,
+      "loss": 2.3113365173339844,
+      "nonzero_lora_A": 14,
+      "nonzero_lora_B": 14
+    }
+  ],
+  "adapter_effect_max_abs_hidden": 0.13671875,
+  "causal_action_readout_difference": 0.0,
+  "probability_and_gain_formula_checks": "passed",
+  "save_reload_max_abs_probability_difference": 0.0,
+  "saved_4B_adapter_tensor_checks": {
+    "lora_A": {
+      "count": 252,
+      "nonzero_count": 252,
+      "min_norm": 3.2608909606933594,
+      "max_norm": 3.3656296730041504
+    },
+    "lora_B": {
+      "count": 252,
+      "nonzero_count": 252,
+      "min_norm": 0.13831545412540436,
+      "max_norm": 0.709136962890625
+    }
+  },
+  "trained_B_head": {
+    "margin_mean": 1.7268214225769043,
+    "margin_scale": 2.0943095684051514,
+    "margin_prior": [
+      -1.369026780128479,
+      1.1250864267349243
+    ],
+    "linear.bias": [
+      7.904774975031614e-05,
+      -0.005618181545287371,
+      0.010040906257927418,
+      0.00972718745470047,
+      0.005156164523214102
+    ]
+  },
+  "trained_B_head_weight_row_norms": [
+    0.04319429397583008,
+    0.5753141045570374,
+    0.5898450613021851,
+    0.5732554793357849,
+    0.5918906331062317
+  ]
+}
