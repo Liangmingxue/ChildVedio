@@ -1,0 +1,13 @@
+D0 {'seed': 0, 'dev_R1': 58.94736842105262}
+D0 {'seed': 1, 'dev_R1': 58.94736842105262}
+D0 {'seed': 2, 'dev_R1': 58.245614035087726}
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18039.82it/s]
+D2 0 508 dev_loss 1.413219690322876
+D2 0 1016 dev_loss 1.4100100994110107
+D2 1 508 dev_loss 1.3523871898651123
+D2 1 1016 dev_loss 1.357513189315796
+D3 0 508 dev_loss 1.3405864238739014
+D3 0 1016 dev_loss 1.347225308418274
+D3 1 508 dev_loss 1.325584888458252
+D3 1 1016 dev_loss 1.3322502374649048
