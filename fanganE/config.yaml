@@ -1,0 +1,33 @@
+# FanganE: JEV-style soft-distribution distillation on the existing Qwen3-4B backbone.
+# The first run should be frozen; run the LoRA ablation in a separate output directory.
+source: fanganC/runs/aligned-full-20261122
+mode: frozen
+device: cuda:0
+seed: 42
+
+max_len: 512
+eval_batch_size: 4
+micro_batch: 2
+grad_accum: 4
+epochs: 3
+early_stopping_patience: 2
+min_delta: 0.0001
+
+# The snapshot uses the repository's local Qwen3-4B checkpoint.
+lora_r: 8
+lora_alpha: 16
+head_lr: 0.0001
+lora_lr: 0.000005
+weight_decay: 0.01
+max_grad_norm: 1.0
+
+pointer_dim: 128
+dropout: 0.1
+teacher_temperature: 0.25
+rank_temperature: 1.0
+rank_kd_weight: 1.0
+rank_hard_weight: 0.25
+route_kd_weight: 0.5
+route_hard_weight: 0.25
+route_label_smoothing: 0.02
+route_temperature_grid: [0.5, 0.65, 0.8, 1.0, 1.2, 1.5, 2.0, 2.5, 3.0]
