@@ -57,7 +57,8 @@ def hidden_batch(model, tokenizer, token_rows, ids: np.ndarray, device: torch.de
         attention_mask=attention_mask,
         use_cache=False,
     )
-    last_positions = attention_mask.sum(dim=1).long() - 1
+    positions = torch.arange(input_ids.shape[1], device=device).expand_as(attention_mask)
+    last_positions = positions.masked_fill(attention_mask == 0, -1).max(dim=1).values
     row_ids = torch.arange(len(ids), device=device)
     return outputs.last_hidden_state[row_ids, last_positions].float()
 
@@ -675,6 +676,7 @@ def main(argv=None):
     runs_root = (ROOT / "fanganE" / "runs").resolve()
     if not out_dir.is_relative_to(runs_root):
         raise ValueError(f"Run output must be inside {runs_root}")
+    out_dir.parent.mkdir(parents=True, exist_ok=True)
     out_dir.mkdir(parents=True, exist_ok=False)
 
     atomic_json(out_dir / "config.json", config)

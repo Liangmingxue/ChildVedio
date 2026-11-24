@@ -26,10 +26,16 @@ def load_bundle(source: str | Path, teacher_temperature: float = 0.25) -> dict:
         if not path.is_file() or digest(path) != checksum:
             raise ValueError(f"Frozen source snapshot checksum mismatch: {path}")
 
+    alignment_hashes = manifest.get("alignment", {}).get("sha256", {})
+    gallery_file = source / "alignment" / "galleries.json"
+    expected_gallery_hash = alignment_hashes.get("galleries.json")
+    if expected_gallery_hash and digest(gallery_file) != expected_gallery_hash:
+        raise ValueError("Aligned gallery split checksum mismatch")
+
     rows = read_jsonl(snapshot / "router_data.jsonl")
-    groups = read_json(source / "alignment" / "galleries.json")
-    if len(groups) != 9 or len(rows) != 9000:
-        raise ValueError("Expected the aligned nine-gallery snapshot (9,000 rows)")
+    groups = read_json(gallery_file)
+    if len(groups) != 9 or len(rows) != 9000 or any(len(group) != 1000 for group in groups):
+        raise ValueError("Expected nine disjoint galleries of 1,000 videos and 9,000 rows")
 
     video_to_gallery = {
         str(video_id): gallery_id
@@ -71,13 +77,15 @@ def load_bundle(source: str | Path, teacher_temperature: float = 0.25) -> dict:
         raise ValueError("CLIP video features must be a finite [N, D] array")
 
     candidate_ids = []
-    for row in rows:
+    for row_index, row in enumerate(rows):
         candidates = row["cands"]
         if isinstance(candidates, str):
             from fanganD.lib import parse
             candidates = parse(candidates)
         if len(candidates) != K:
             raise ValueError(f"{row['qid']} has {len(candidates)} candidates; expected {K}")
+        if any(video_to_gallery.get(str(video_id)) != int(gallery[row_index]) for video_id in candidates):
+            raise ValueError(f"{row['qid']} contains a candidate from a different gallery")
         try:
             candidate_ids.append([video_to_index[str(video_id)] for video_id in candidates])
         except KeyError as error:
