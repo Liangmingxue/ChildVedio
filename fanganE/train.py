@@ -35,7 +35,7 @@ def evidence_text(row: dict) -> str:
     return (
         f"Query: {row['text']}\n"
         f"Candidates in retrieval order: {coarse}\n"
-        f"Yes probabilities for the first five: {light}\n"
+        f"Yes probabilities for the first {len(parse(row['light_scores']))} candidates: {light}\n"
         "Decide whether the current light result should be upgraded and which candidate to trust."
     )
 
@@ -198,36 +198,23 @@ def _evaluate_loss(
     model.eval()
     head.eval()
     collected_scores, collected_outcomes = [], []
-    totals = {"total": 0.0, "rank_kl": 0.0, "rank_ce": 0.0, "route_kl": 0.0, "route_ce": 0.0}
-    seen = 0
     with torch.no_grad():
         for start in range(0, len(ids), batch_size):
             batch_ids = ids[start : start + batch_size]
-            index = torch.as_tensor(batch_ids, dtype=torch.long, device=device)
             scores, outcomes = _batch_forward(
                 batch_ids, model, tokenizer, token_rows, hidden_cache, head, tensors, device
             )
-            losses = compute_loss(
-                scores,
-                outcomes,
-                tensors["gt"][index],
-                tensors["teacher"][index],
-                tensors["teacher_mask"][index],
-                tensors["route_soft"][index],
-                tensors["route_hard"][index],
-                config,
-                class_weights,
-            )
-            size = len(batch_ids)
-            for key in totals:
-                totals[key] += float(losses[key].detach()) * size
-            seen += size
-            collected_scores.append(scores.float().cpu().numpy())
-            collected_outcomes.append(outcomes.float().cpu().numpy())
-    if seen == 0:
-        raise ValueError("Evaluation split is empty")
-    averages = {key: value / seen for key, value in totals.items()}
-    return averages, np.concatenate(collected_scores), np.concatenate(collected_outcomes)
+            collected_scores.append(scores)
+            collected_outcomes.append(outcomes)
+        scores = torch.cat(collected_scores)
+        outcomes = torch.cat(collected_outcomes)
+        losses = compute_loss(
+            scores, outcomes, tensors["gt"][ids], tensors["teacher"][ids],
+            tensors["teacher_mask"][ids], tensors["route_soft"][ids], tensors["route_hard"][ids],
+            config, class_weights,
+        )
+    return {k: float(v) for k, v in losses.items()}, scores.cpu().numpy(), outcomes.cpu().numpy()
+
 
 
 def _predict_all(
@@ -281,6 +268,11 @@ def run(config: dict, out_dir: Path) -> dict:
     log(f"Loading source snapshot: {config['source']}")
     bundle = load_bundle(config["source"], float(config["teacher_temperature"]))
     tensors = _to_device(bundle, device)
+    if config.get("rank_kd_correct_only", False):
+        # An unverified GT cannot be a teacher's top verified candidate.
+        teacher_top = tensors["teacher"].masked_fill(~tensors["teacher_mask"], -1).argmax(-1)
+        eligible = teacher_top == tensors["gt"][:, None]
+        tensors["teacher_mask"] = tensors["teacher_mask"] & eligible[:, :, None]
     rows = bundle["rows"]
     count = len(rows)
     train_ids = bundle["train_ids"]
@@ -379,6 +371,10 @@ def run(config: dict, out_dir: Path) -> dict:
         for window_start in range(0, len(micro_batches), int(config["grad_accum"])):
             window = micro_batches[window_start : window_start + int(config["grad_accum"])]
             optimizer.zero_grad(set_to_none=True)
+            window_ids = np.concatenate(window)
+            valid_paths = tensors["teacher_mask"][window_ids].any(-1).sum().clamp_min(1)
+            valid_gt = (tensors["gt"][window_ids] >= 0).sum().clamp_min(1)
+            weight_sum = class_weights[tensors["route_hard"][window_ids]].sum()
             window_total = 0.0
             for batch_ids in window:
                 index = torch.as_tensor(batch_ids, dtype=torch.long, device=device)
@@ -395,8 +391,14 @@ def run(config: dict, out_dir: Path) -> dict:
                     tensors["route_hard"][index],
                     config,
                     class_weights,
+                    mean_factors=(
+                        len(batch_ids) / len(window_ids),
+                        (tensors["gt"][index] >= 0).sum() / valid_gt,
+                        class_weights[tensors["route_hard"][index]].sum() / weight_sum,
+                        tensors["teacher_mask"][index].any(-1).sum() / valid_paths,
+                    ),
                 )
-                (losses["total"] / len(window)).backward()
+                losses["total"].backward()
                 window_total += float(losses["total"].detach())
                 seen += len(batch_ids)
 
@@ -436,6 +438,9 @@ def run(config: dict, out_dir: Path) -> dict:
             bundle["original_rank"][dev_ids],
         )
         dev_r1 = float(metrics(dev_ranks)["R@1"])
+        fixed = bundle["fixed_route"][dev_ids]
+        original = bundle["original_rank"][dev_ids]
+        fixed_ranks = rank_from_path(dev_scores, fixed, bundle["gt_index"][dev_ids], original)
         record = {
             "epoch": epoch,
             "train_loss": epoch_total / max(optimizer_steps, 1),
@@ -443,6 +448,9 @@ def run(config: dict, out_dir: Path) -> dict:
             "optimizer_steps": int(optimizer_steps),
             "dev": dev_losses,
             "dev_cascade_R1": dev_r1,
+            "dev_fixed_D0_route": summarize_split(
+                fixed_ranks, original, fixed, bundle["costs"][dev_ids], np.ones(len(fixed), dtype=bool)
+            ),
             "dev_deep_queries": int(dev_chosen.sum()),
         }
         history.append(record)
@@ -644,6 +652,7 @@ def parse_args(argv=None):
     parser.add_argument("--out", required=True)
     parser.add_argument("--mode", choices=("frozen", "lora"))
     parser.add_argument("--device")
+    parser.add_argument("--rank-kd-weight", type=float)
     parser.add_argument("--epochs", type=int)
     parser.add_argument("--micro-batch", type=int)
     parser.add_argument("--grad-accum", type=int)
@@ -664,6 +673,7 @@ def main(argv=None):
         "mode": args.mode,
         "device": args.device,
         "epochs": args.epochs,
+        "rank_kd_weight": args.rank_kd_weight,
         "micro_batch": args.micro_batch,
         "grad_accum": args.grad_accum,
         "max_len": args.max_len,

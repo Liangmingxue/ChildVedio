@@ -36,7 +36,9 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export OMP_NUM_THREADS=4
 export OPENBLAS_NUM_THREADS=4
 export HF_HUB_OFFLINE=1
-export PYTHONPATH="$PWD:$(printenv PYTHONPATH || true)"
+runtime=$(dirname "$(dirname "$PYTHON_BIN")")
+export PYTHONPATH="$PWD:$PWD/data/models/router-python-deps:$PWD/data/msrvtt/source/python-deps${PYTHONPATH:+:$PYTHONPATH}"
+export LD_LIBRARY_PATH="$runtime/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
 
 exec 9>"fanganE/runs/gpu$GPU_INDEX.lock"
 if ! flock -n 9; then

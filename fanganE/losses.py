@@ -141,6 +141,7 @@ def compute_loss(
     route_hard: torch.Tensor,
     config: dict,
     route_class_weights: torch.Tensor | None = None,
+    mean_factors=(1.0, 1.0, 1.0),
 ) -> dict[str, torch.Tensor]:
     """Composite listwise hard supervision + VLM KL + soft/hard outcome supervision."""
     rank_kl = masked_rank_kl(
@@ -161,11 +162,13 @@ def compute_loss(
         label_smoothing=float(config.get("route_label_smoothing", 0.02)),
     )
 
+    sample_fraction, valid_fraction, weight_fraction = mean_factors[:3]
+    path_fraction = mean_factors[3] if len(mean_factors) == 4 else sample_fraction
     total = (
-        float(config.get("rank_kd_weight", 1.0)) * rank_kl
-        + float(config.get("rank_hard_weight", 0.25)) * rank_ce
-        + float(config.get("route_kd_weight", 0.5)) * route_kl
-        + float(config.get("route_hard_weight", 0.25)) * route_ce
+        float(config.get("rank_kd_weight", 1.0)) * rank_kl * path_fraction
+        + float(config.get("rank_hard_weight", 0.25)) * rank_ce * valid_fraction
+        + float(config.get("route_kd_weight", 0.5)) * route_kl * sample_fraction
+        + float(config.get("route_hard_weight", 0.25)) * route_ce * weight_fraction
     )
     return {
         "total": total,
