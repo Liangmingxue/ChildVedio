@@ -157,29 +157,38 @@ class CFGRPOTrainer:
             return stats
         total_tokens = float(comp_mask[sel].sum().item())
         adv_t = torch.tensor(adv, dtype=torch.float32, device=self.device)
-        self.opt.zero_grad(set_to_none=True)
-        loss_sum, kl_sum = 0.0, 0.0
-        for j in range(0, len(sel), g.micro_batch):
-            mb = torch.tensor(sel[j:j + g.micro_batch], device=self.device)
-            mask = comp_mask[mb].float()
-            logp = self._logps(prompt_ids[mb], prompt_mask[mb], comp[mb], comp_mask[mb])
-            old = logp.detach()  # single on-policy update per rollout (mu = 1)
-            ratio = torch.exp(logp - old)
-            a = adv_t[mb][:, None]
-            pg = -torch.min(ratio * a, ratio.clamp(1 - g.eps_low, 1 + g.eps_high) * a)
-            if g.beta_kl > 0:
-                with torch.no_grad(), self.model.disable_adapter():
-                    ref = self._logps(prompt_ids[mb], prompt_mask[mb], comp[mb], comp_mask[mb])
-                d = ref - logp
-                kl = torch.exp(d) - d - 1
-                pg = pg + g.beta_kl * kl
-                kl_sum += float((kl * mask).sum().item())
-            loss = (pg * mask).sum() / total_tokens
-            loss.backward()
-            loss_sum += float(loss.item())
-        torch.nn.utils.clip_grad_norm_(self.params, g.max_grad_norm)
-        self.opt.step()
-        self.sched.step()
+        updates = g.get("updates_per_rollout", 1)
+        old_logps = {}
+        clipped_tokens = 0.
+        for update in range(updates):
+            self.opt.zero_grad(set_to_none=True)
+            loss_sum, kl_sum = 0.0, 0.0
+            for j in range(0, len(sel), g.micro_batch):
+                mb = torch.tensor(sel[j:j + g.micro_batch], device=self.device)
+                mask = comp_mask[mb].float()
+                logp = self._logps(prompt_ids[mb], prompt_mask[mb], comp[mb], comp_mask[mb])
+                if update == 0:
+                    old_logps[j] = logp.detach()
+                old = old_logps[j]
+                ratio = torch.exp(logp - old)
+                clipped_tokens += float((((ratio < 1 - g.eps_low) | (ratio > 1 + g.eps_high)) * mask).sum().detach())
+                a = adv_t[mb][:, None]
+                pg = -torch.min(ratio * a, ratio.clamp(1 - g.eps_low, 1 + g.eps_high) * a)
+                if g.beta_kl > 0:
+                    with torch.no_grad(), self.model.disable_adapter():
+                        ref = self._logps(prompt_ids[mb], prompt_mask[mb], comp[mb], comp_mask[mb])
+                    d = ref - logp
+                    kl = torch.exp(d) - d - 1
+                    pg = pg + g.beta_kl * kl
+                    kl_sum += float((kl * mask).sum().item())
+                loss = (pg * mask).sum() / total_tokens
+                loss.backward()
+                loss_sum += float(loss.item())
+            torch.nn.utils.clip_grad_norm_(self.params, g.max_grad_norm)
+            self.opt.step()
+            self.sched.step()
+        stats["clip_fraction"] = clipped_tokens / (total_tokens * updates)
+        stats["optimizer_updates"] = updates
         stats.update({"loss": loss_sum, "kl": kl_sum / max(total_tokens, 1.0), "tokens": total_tokens})
         return stats
 
